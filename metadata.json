@@ -1,0 +1,12 @@
+{
+  "version": "0.8.6",
+  "fileCount": 10,
+  "files": [
+    {
+      "name": "data1.json",
+      "hash": "sha256-hash-of-the-file",
+      "size": 4521,
+      "lastUpdated": "2024-05-16T10:00:00Z"
+    }
+  ]
+}
