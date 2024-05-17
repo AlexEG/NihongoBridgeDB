@@ -1,0 +1,32 @@
+{
+  "month22222": {
+    "is_in_vocabulary_bank": true,
+    "soundFile": "/data/sound/nosound.mp3",
+    "definition": "each of the twelve named periods into which a year is divided"
+  },
+  "major": {
+    "is_in_vocabulary_bank": false,
+    "soundFile": "/data/sound/nosound.mp3",
+    "definition": "important, serious, or significant"
+  },
+  "star": {
+    "is_in_vocabulary_bank": false,
+    "soundFile": "/data/sound/nosound.mp3",
+    "definition": "a fixed luminous point in the night sky which is a large, remote incandescent body like the sun"
+  },
+  "areas": {
+    "is_in_vocabulary_bank": false,
+    "soundFile": "/data/sound/nosound.mp3",
+    "definition": "a region or part of a town, a country, or the world"
+  },
+  "future": {
+    "is_in_vocabulary_bank": false,
+    "soundFile": "/data/sound/nosound.mp3",
+    "definition": "the time or a period of time following the moment of speaking or writing; time regarded as still to come"
+  },
+  "space": {
+    "is_in_vocabulary_bank": false,
+    "soundFile": "/data/sound/nosound.mp3",
+    "definition": "a continuous area or expanse which is free, available, or unoccupied"
+  }
+}

@@ -1,0 +1,62 @@
+{
+  "month22222": {
+    "soundFile": "/data/sound/nosound.mp3",
+    "definition": "each of the twelve named periods into which a year is divided",
+    "ipa_phonetic_transcription_us": "[mʌnθ]",
+    "ipa_phonemic_transcription_us": "/mʌnθ/",
+    "example": "Her birthday is in the month of June.",
+    "similar_words": ["calendar month", "four weeks", "30 days"],
+    "syllable_division": "Month",
+    "tags": ["time", "period", "duration", "most common 1000"]
+  },
+  "major": {
+    "soundFile": "/data/sound/nosound.mp3",
+    "definition": "important, serious, or significant",
+    "ipa_phonetic_transcription_us": "[ˈmeɪdʒər]",
+    "ipa_phonemic_transcription_us": "/ˈmeɪdʒə/",
+    "example": "The company announced a major breakthrough in cancer research.",
+    "similar_words": ["significant", "considerable", "substantial"],
+    "syllable_division": "Ma·jor",
+    "tags": ["primary", "principal", "chief", "most common 1000"]
+  },
+  "star": {
+    "soundFile": "/data/sound/nosound.mp3",
+    "definition": "a fixed luminous point in the night sky which is a large, remote incandescent body like the sun",
+    "ipa_phonetic_transcription_us": "[stɑr]",
+    "ipa_phonemic_transcription_us": "/stɑːr/",
+    "example": "You can see the stars clearly on a dark night.",
+    "similar_words": ["celestial body", "sun", "planet"],
+    "syllable_division": "Star",
+    "tags": ["celestial", "astral", "stellar", "most common 1000"]
+  },
+  "areas": {
+    "soundFile": "/data/sound/nosound.mp3",
+    "definition": "a region or part of a town, a country, or the world",
+    "ipa_phonetic_transcription_us": "[ˈɛriəz]",
+    "ipa_phonemic_transcription_us": "/ˈɛəriəz/",
+    "example": "The company plans to expand its operations to new areas.",
+    "similar_words": ["regions", "zones", "sectors"],
+    "syllable_division": "Ar·eas",
+    "tags": ["sections", "parts", "locales", "most common 1000"]
+  },
+  "future": {
+    "soundFile": "/data/sound/nosound.mp3",
+    "definition": "the time or a period of time following the moment of speaking or writing; time regarded as still to come",
+    "ipa_phonetic_transcription_us": "[ˈfjuːtʃər]",
+    "ipa_phonemic_transcription_us": "/ˈfjuːtʃə/",
+    "example": "We need to plan for the future.",
+    "similar_words": ["time to come", "tomorrow", "hereafter"],
+    "syllable_division": "Fu·ture",
+    "tags": ["prospective", "forthcoming", "upcoming", "most common 1000"]
+  },
+  "space": {
+    "soundFile": "/data/sound/nosound.mp3",
+    "definition": "a continuous area or expanse which is free, available, or unoccupied",
+    "ipa_phonetic_transcription_us": "[speɪs]",
+    "ipa_phonemic_transcription_us": "/speɪs/",
+    "example": "The new design gives us more space in the kitchen.",
+    "similar_words": ["area", "expanse", "capacity"],
+    "syllable_division": "Space",
+    "tags": ["room", "volume", "zone", "most common 1000"]
+  }
+}

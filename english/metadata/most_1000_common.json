@@ -1,0 +1,5002 @@
+{
+  "the": {
+    "is_in_vocabulary_bank": true,
+    "soundFile": "/data/sound/nosound.mp3",
+    "definition": ""
+  },
+  "of": {
+    "is_in_vocabulary_bank": false,
+    "soundFile": "/data/sound/nosound.mp3",
+    "definition": ""
+  },
+  "and": {
+    "is_in_vocabulary_bank": false,
+    "soundFile": "/data/sound/nosound.mp3",
+    "definition": ""
+  },
+  "to": {
+    "is_in_vocabulary_bank": false,
+    "soundFile": "/data/sound/nosound.mp3",
+    "definition": ""
+  },
+  "in": {
+    "is_in_vocabulary_bank": false,
+    "soundFile": "/data/sound/nosound.mp3",
+    "definition": ""
+  },
+  "for": {
+    "is_in_vocabulary_bank": false,
+    "soundFile": "/data/sound/nosound.mp3",
+    "definition": ""
+  },
+  "is": {
+    "is_in_vocabulary_bank": false,
+    "soundFile": "/data/sound/nosound.mp3",
+    "definition": ""
+  },
+  "on": {
+    "is_in_vocabulary_bank": false,
+    "soundFile": "/data/sound/nosound.mp3",
+    "definition": ""
+  },
+  "that": {
+    "is_in_vocabulary_bank": false,
+    "soundFile": "/data/sound/nosound.mp3",
+    "definition": ""
+  },
+  "by": {
+    "is_in_vocabulary_bank": false,
+    "soundFile": "/data/sound/nosound.mp3",
+    "definition": ""
+  },
+  "this": {
+    "is_in_vocabulary_bank": false,
+    "soundFile": "/data/sound/nosound.mp3",
+    "definition": ""
+  },
+  "with": {
+    "is_in_vocabulary_bank": false,
+    "soundFile": "/data/sound/nosound.mp3",
+    "definition": ""
+  },
+  "you": {
+    "is_in_vocabulary_bank": false,
+    "soundFile": "/data/sound/nosound.mp3",
+    "definition": ""
+  },
+  "it": {
+    "is_in_vocabulary_bank": false,
+    "soundFile": "/data/sound/nosound.mp3",
+    "definition": ""
+  },
+  "not": {
+    "is_in_vocabulary_bank": false,
+    "soundFile": "/data/sound/nosound.mp3",
+    "definition": ""
+  },
+  "or": {
+    "is_in_vocabulary_bank": false,
+    "soundFile": "/data/sound/nosound.mp3",
+    "definition": ""
+  },
+  "be": {
+    "is_in_vocabulary_bank": false,
+    "soundFile": "/data/sound/nosound.mp3",
+    "definition": ""
+  },
+  "are": {
+    "is_in_vocabulary_bank": false,
+    "soundFile": "/data/sound/nosound.mp3",
+    "definition": ""
+  },
+  "from": {
+    "is_in_vocabulary_bank": false,
+    "soundFile": "/data/sound/nosound.mp3",
+    "definition": ""
+  },
+  "at": {
+    "is_in_vocabulary_bank": false,
+    "soundFile": "/data/sound/nosound.mp3",
+    "definition": ""
+  },
+  "as": {
+    "is_in_vocabulary_bank": false,
+    "soundFile": "/data/sound/nosound.mp3",
+    "definition": ""
+  },
+  "your": {
+    "is_in_vocabulary_bank": false,
+    "soundFile": "/data/sound/nosound.mp3",
+    "definition": ""
+  },
+  "all": {
+    "is_in_vocabulary_bank": false,
+    "soundFile": "/data/sound/nosound.mp3",
+    "definition": ""
+  },
+  "have": {
+    "is_in_vocabulary_bank": false,
+    "soundFile": "/data/sound/nosound.mp3",
+    "definition": ""
+  },
+  "new": {
+    "is_in_vocabulary_bank": false,
+    "soundFile": "/data/sound/nosound.mp3",
+    "definition": ""
+  },
+  "more": {
+    "is_in_vocabulary_bank": false,
+    "soundFile": "/data/sound/nosound.mp3",
+    "definition": ""
+  },
+  "an": {
+    "is_in_vocabulary_bank": false,
+    "soundFile": "/data/sound/nosound.mp3",
+    "definition": ""
+  },
+  "was": {
+    "is_in_vocabulary_bank": false,
+    "soundFile": "/data/sound/nosound.mp3",
+    "definition": ""
+  },
+  "we": {
+    "is_in_vocabulary_bank": false,
+    "soundFile": "/data/sound/nosound.mp3",
+    "definition": ""
+  },
+  "will": {
+    "is_in_vocabulary_bank": false,
+    "soundFile": "/data/sound/nosound.mp3",
+    "definition": ""
+  },
+  "home": {
+    "is_in_vocabulary_bank": false,
+    "soundFile": "/data/sound/nosound.mp3",
+    "definition": ""
+  },
+  "can": {
+    "is_in_vocabulary_bank": false,
+    "soundFile": "/data/sound/nosound.mp3",
+    "definition": ""
+  },
+  "us": {
+    "is_in_vocabulary_bank": false,
+    "soundFile": "/data/sound/nosound.mp3",
+    "definition": ""
+  },
+  "about": {
+    "is_in_vocabulary_bank": false,
+    "soundFile": "/data/sound/nosound.mp3",
+    "definition": ""
+  },
+  "if": {
+    "is_in_vocabulary_bank": false,
+    "soundFile": "/data/sound/nosound.mp3",
+    "definition": ""
+  },
+  "page": {
+    "is_in_vocabulary_bank": false,
+    "soundFile": "/data/sound/nosound.mp3",
+    "definition": ""
+  },
+  "my": {
+    "is_in_vocabulary_bank": false,
+    "soundFile": "/data/sound/nosound.mp3",
+    "definition": ""
+  },
+  "has": {
+    "is_in_vocabulary_bank": false,
+    "soundFile": "/data/sound/nosound.mp3",
+    "definition": ""
+  },
+  "search": {
+    "is_in_vocabulary_bank": false,
+    "soundFile": "/data/sound/nosound.mp3",
+    "definition": ""
+  },
+  "free": {
+    "is_in_vocabulary_bank": false,
+    "soundFile": "/data/sound/nosound.mp3",
+    "definition": ""
+  },
+  "but": {
+    "is_in_vocabulary_bank": false,
+    "soundFile": "/data/sound/nosound.mp3",
+    "definition": ""
+  },
+  "our": {
+    "is_in_vocabulary_bank": false,
+    "soundFile": "/data/sound/nosound.mp3",
+    "definition": ""
+  },
+  "one": {
+    "is_in_vocabulary_bank": false,
+    "soundFile": "/data/sound/nosound.mp3",
+    "definition": ""
+  },
+  "other": {
+    "is_in_vocabulary_bank": false,
+    "soundFile": "/data/sound/nosound.mp3",
+    "definition": ""
+  },
+  "do": {
+    "is_in_vocabulary_bank": false,
+    "soundFile": "/data/sound/nosound.mp3",
+    "definition": ""
+  },
+  "no": {
+    "is_in_vocabulary_bank": false,
+    "soundFile": "/data/sound/nosound.mp3",
+    "definition": ""
+  },
+  "information": {
+    "is_in_vocabulary_bank": false,
+    "soundFile": "/data/sound/nosound.mp3",
+    "definition": ""
+  },
+  "time": {
+    "is_in_vocabulary_bank": false,
+    "soundFile": "/data/sound/nosound.mp3",
+    "definition": ""
+  },
+  "they": {
+    "is_in_vocabulary_bank": false,
+    "soundFile": "/data/sound/nosound.mp3",
+    "definition": ""
+  },
+  "site": {
+    "is_in_vocabulary_bank": false,
+    "soundFile": "/data/sound/nosound.mp3",
+    "definition": ""
+  },
+  "he": {
+    "is_in_vocabulary_bank": false,
+    "soundFile": "/data/sound/nosound.mp3",
+    "definition": ""
+  },
+  "up": {
+    "is_in_vocabulary_bank": false,
+    "soundFile": "/data/sound/nosound.mp3",
+    "definition": ""
+  },
+  "may": {
+    "is_in_vocabulary_bank": false,
+    "soundFile": "/data/sound/nosound.mp3",
+    "definition": ""
+  },
+  "what": {
+    "is_in_vocabulary_bank": false,
+    "soundFile": "/data/sound/nosound.mp3",
+    "definition": ""
+  },
+  "which": {
+    "is_in_vocabulary_bank": false,
+    "soundFile": "/data/sound/nosound.mp3",
+    "definition": ""
+  },
+  "their": {
+    "is_in_vocabulary_bank": false,
+    "soundFile": "/data/sound/nosound.mp3",
+    "definition": ""
+  },
+  "news": {
+    "is_in_vocabulary_bank": false,
+    "soundFile": "/data/sound/nosound.mp3",
+    "definition": ""
+  },
+  "out": {
+    "is_in_vocabulary_bank": false,
+    "soundFile": "/data/sound/nosound.mp3",
+    "definition": ""
+  },
+  "use": {
+    "is_in_vocabulary_bank": false,
+    "soundFile": "/data/sound/nosound.mp3",
+    "definition": ""
+  },
+  "any": {
+    "is_in_vocabulary_bank": false,
+    "soundFile": "/data/sound/nosound.mp3",
+    "definition": ""
+  },
+  "there": {
+    "is_in_vocabulary_bank": false,
+    "soundFile": "/data/sound/nosound.mp3",
+    "definition": ""
+  },
+  "see": {
+    "is_in_vocabulary_bank": false,
+    "soundFile": "/data/sound/nosound.mp3",
+    "definition": ""
+  },
+  "only": {
+    "is_in_vocabulary_bank": false,
+    "soundFile": "/data/sound/nosound.mp3",
+    "definition": ""
+  },
+  "so": {
+    "is_in_vocabulary_bank": false,
+    "soundFile": "/data/sound/nosound.mp3",
+    "definition": ""
+  },
+  "his": {
+    "is_in_vocabulary_bank": false,
+    "soundFile": "/data/sound/nosound.mp3",
+    "definition": ""
+  },
+  "when": {
+    "is_in_vocabulary_bank": false,
+    "soundFile": "/data/sound/nosound.mp3",
+    "definition": ""
+  },
+  "contact": {
+    "is_in_vocabulary_bank": false,
+    "soundFile": "/data/sound/nosound.mp3",
+    "definition": ""
+  },
+  "here": {
+    "is_in_vocabulary_bank": false,
+    "soundFile": "/data/sound/nosound.mp3",
+    "definition": ""
+  },
+  "business": {
+    "is_in_vocabulary_bank": false,
+    "soundFile": "/data/sound/nosound.mp3",
+    "definition": ""
+  },
+  "who": {
+    "is_in_vocabulary_bank": false,
+    "soundFile": "/data/sound/nosound.mp3",
+    "definition": ""
+  },
+  "web": {
+    "is_in_vocabulary_bank": false,
+    "soundFile": "/data/sound/nosound.mp3",
+    "definition": ""
+  },
+  "also": {
+    "is_in_vocabulary_bank": false,
+    "soundFile": "/data/sound/nosound.mp3",
+    "definition": ""
+  },
+  "now": {
+    "is_in_vocabulary_bank": false,
+    "soundFile": "/data/sound/nosound.mp3",
+    "definition": ""
+  },
+  "help": {
+    "is_in_vocabulary_bank": false,
+    "soundFile": "/data/sound/nosound.mp3",
+    "definition": ""
+  },
+  "get": {
+    "is_in_vocabulary_bank": false,
+    "soundFile": "/data/sound/nosound.mp3",
+    "definition": ""
+  },
+  "pm": {
+    "is_in_vocabulary_bank": false,
+    "soundFile": "/data/sound/nosound.mp3",
+    "definition": ""
+  },
+  "view": {
+    "is_in_vocabulary_bank": false,
+    "soundFile": "/data/sound/nosound.mp3",
+    "definition": ""
+  },
+  "online": {
+    "is_in_vocabulary_bank": false,
+    "soundFile": "/data/sound/nosound.mp3",
+    "definition": ""
+  },
+  "first": {
+    "is_in_vocabulary_bank": false,
+    "soundFile": "/data/sound/nosound.mp3",
+    "definition": ""
+  },
+  "am": {
+    "is_in_vocabulary_bank": false,
+    "soundFile": "/data/sound/nosound.mp3",
+    "definition": ""
+  },
+  "been": {
+    "is_in_vocabulary_bank": false,
+    "soundFile": "/data/sound/nosound.mp3",
+    "definition": ""
+  },
+  "would": {
+    "is_in_vocabulary_bank": false,
+    "soundFile": "/data/sound/nosound.mp3",
+    "definition": ""
+  },
+  "how": {
+    "is_in_vocabulary_bank": false,
+    "soundFile": "/data/sound/nosound.mp3",
+    "definition": ""
+  },
+  "were": {
+    "is_in_vocabulary_bank": false,
+    "soundFile": "/data/sound/nosound.mp3",
+    "definition": ""
+  },
+  "me": {
+    "is_in_vocabulary_bank": false,
+    "soundFile": "/data/sound/nosound.mp3",
+    "definition": ""
+  },
+  "services": {
+    "is_in_vocabulary_bank": false,
+    "soundFile": "/data/sound/nosound.mp3",
+    "definition": ""
+  },
+  "some": {
+    "is_in_vocabulary_bank": false,
+    "soundFile": "/data/sound/nosound.mp3",
+    "definition": ""
+  },
+  "these": {
+    "is_in_vocabulary_bank": false,
+    "soundFile": "/data/sound/nosound.mp3",
+    "definition": ""
+  },
+  "click": {
+    "is_in_vocabulary_bank": false,
+    "soundFile": "/data/sound/nosound.mp3",
+    "definition": ""
+  },
+  "its": {
+    "is_in_vocabulary_bank": false,
+    "soundFile": "/data/sound/nosound.mp3",
+    "definition": ""
+  },
+  "like": {
+    "is_in_vocabulary_bank": false,
+    "soundFile": "/data/sound/nosound.mp3",
+    "definition": ""
+  },
+  "service": {
+    "is_in_vocabulary_bank": false,
+    "soundFile": "/data/sound/nosound.mp3",
+    "definition": ""
+  },
+  "than": {
+    "is_in_vocabulary_bank": false,
+    "soundFile": "/data/sound/nosound.mp3",
+    "definition": ""
+  },
+  "find": {
+    "is_in_vocabulary_bank": false,
+    "soundFile": "/data/sound/nosound.mp3",
+    "definition": ""
+  },
+  "price": {
+    "is_in_vocabulary_bank": false,
+    "soundFile": "/data/sound/nosound.mp3",
+    "definition": ""
+  },
+  "date": {
+    "is_in_vocabulary_bank": false,
+    "soundFile": "/data/sound/nosound.mp3",
+    "definition": ""
+  },
+  "back": {
+    "is_in_vocabulary_bank": false,
+    "soundFile": "/data/sound/nosound.mp3",
+    "definition": ""
+  },
+  "top": {
+    "is_in_vocabulary_bank": false,
+    "soundFile": "/data/sound/nosound.mp3",
+    "definition": ""
+  },
+  "people": {
+    "is_in_vocabulary_bank": false,
+    "soundFile": "/data/sound/nosound.mp3",
+    "definition": ""
+  },
+  "had": {
+    "is_in_vocabulary_bank": false,
+    "soundFile": "/data/sound/nosound.mp3",
+    "definition": ""
+  },
+  "list": {
+    "is_in_vocabulary_bank": false,
+    "soundFile": "/data/sound/nosound.mp3",
+    "definition": ""
+  },
+  "name": {
+    "is_in_vocabulary_bank": false,
+    "soundFile": "/data/sound/nosound.mp3",
+    "definition": ""
+  },
+  "just": {
+    "is_in_vocabulary_bank": false,
+    "soundFile": "/data/sound/nosound.mp3",
+    "definition": ""
+  },
+  "over": {
+    "is_in_vocabulary_bank": false,
+    "soundFile": "/data/sound/nosound.mp3",
+    "definition": ""
+  },
+  "state": {
+    "is_in_vocabulary_bank": false,
+    "soundFile": "/data/sound/nosound.mp3",
+    "definition": ""
+  },
+  "year": {
+    "is_in_vocabulary_bank": false,
+    "soundFile": "/data/sound/nosound.mp3",
+    "definition": ""
+  },
+  "day": {
+    "is_in_vocabulary_bank": false,
+    "soundFile": "/data/sound/nosound.mp3",
+    "definition": ""
+  },
+  "into": {
+    "is_in_vocabulary_bank": false,
+    "soundFile": "/data/sound/nosound.mp3",
+    "definition": ""
+  },
+  "email": {
+    "is_in_vocabulary_bank": false,
+    "soundFile": "/data/sound/nosound.mp3",
+    "definition": ""
+  },
+  "two": {
+    "is_in_vocabulary_bank": false,
+    "soundFile": "/data/sound/nosound.mp3",
+    "definition": ""
+  },
+  "health": {
+    "is_in_vocabulary_bank": false,
+    "soundFile": "/data/sound/nosound.mp3",
+    "definition": ""
+  },
+  "world": {
+    "is_in_vocabulary_bank": false,
+    "soundFile": "/data/sound/nosound.mp3",
+    "definition": ""
+  },
+  "re": {
+    "is_in_vocabulary_bank": false,
+    "soundFile": "/data/sound/nosound.mp3",
+    "definition": ""
+  },
+  "next": {
+    "is_in_vocabulary_bank": false,
+    "soundFile": "/data/sound/nosound.mp3",
+    "definition": ""
+  },
+  "used": {
+    "is_in_vocabulary_bank": false,
+    "soundFile": "/data/sound/nosound.mp3",
+    "definition": ""
+  },
+  "go": {
+    "is_in_vocabulary_bank": false,
+    "soundFile": "/data/sound/nosound.mp3",
+    "definition": ""
+  },
+  "work": {
+    "is_in_vocabulary_bank": false,
+    "soundFile": "/data/sound/nosound.mp3",
+    "definition": ""
+  },
+  "last": {
+    "is_in_vocabulary_bank": false,
+    "soundFile": "/data/sound/nosound.mp3",
+    "definition": ""
+  },
+  "most": {
+    "is_in_vocabulary_bank": false,
+    "soundFile": "/data/sound/nosound.mp3",
+    "definition": ""
+  },
+  "products": {
+    "is_in_vocabulary_bank": false,
+    "soundFile": "/data/sound/nosound.mp3",
+    "definition": ""
+  },
+  "music": {
+    "is_in_vocabulary_bank": false,
+    "soundFile": "/data/sound/nosound.mp3",
+    "definition": ""
+  },
+  "buy": {
+    "is_in_vocabulary_bank": false,
+    "soundFile": "/data/sound/nosound.mp3",
+    "definition": ""
+  },
+  "data": {
+    "is_in_vocabulary_bank": false,
+    "soundFile": "/data/sound/nosound.mp3",
+    "definition": ""
+  },
+  "make": {
+    "is_in_vocabulary_bank": false,
+    "soundFile": "/data/sound/nosound.mp3",
+    "definition": ""
+  },
+  "them": {
+    "is_in_vocabulary_bank": false,
+    "soundFile": "/data/sound/nosound.mp3",
+    "definition": ""
+  },
+  "should": {
+    "is_in_vocabulary_bank": false,
+    "soundFile": "/data/sound/nosound.mp3",
+    "definition": ""
+  },
+  "product": {
+    "is_in_vocabulary_bank": false,
+    "soundFile": "/data/sound/nosound.mp3",
+    "definition": ""
+  },
+  "system": {
+    "is_in_vocabulary_bank": false,
+    "soundFile": "/data/sound/nosound.mp3",
+    "definition": ""
+  },
+  "post": {
+    "is_in_vocabulary_bank": false,
+    "soundFile": "/data/sound/nosound.mp3",
+    "definition": ""
+  },
+  "her": {
+    "is_in_vocabulary_bank": false,
+    "soundFile": "/data/sound/nosound.mp3",
+    "definition": ""
+  },
+  "city": {
+    "is_in_vocabulary_bank": false,
+    "soundFile": "/data/sound/nosound.mp3",
+    "definition": ""
+  },
+  "add": {
+    "is_in_vocabulary_bank": false,
+    "soundFile": "/data/sound/nosound.mp3",
+    "definition": ""
+  },
+  "policy": {
+    "is_in_vocabulary_bank": false,
+    "soundFile": "/data/sound/nosound.mp3",
+    "definition": ""
+  },
+  "number": {
+    "is_in_vocabulary_bank": false,
+    "soundFile": "/data/sound/nosound.mp3",
+    "definition": ""
+  },
+  "such": {
+    "is_in_vocabulary_bank": false,
+    "soundFile": "/data/sound/nosound.mp3",
+    "definition": ""
+  },
+  "please": {
+    "is_in_vocabulary_bank": false,
+    "soundFile": "/data/sound/nosound.mp3",
+    "definition": ""
+  },
+  "available": {
+    "is_in_vocabulary_bank": false,
+    "soundFile": "/data/sound/nosound.mp3",
+    "definition": ""
+  },
+  "copyright": {
+    "is_in_vocabulary_bank": false,
+    "soundFile": "/data/sound/nosound.mp3",
+    "definition": ""
+  },
+  "support": {
+    "is_in_vocabulary_bank": false,
+    "soundFile": "/data/sound/nosound.mp3",
+    "definition": ""
+  },
+  "message": {
+    "is_in_vocabulary_bank": false,
+    "soundFile": "/data/sound/nosound.mp3",
+    "definition": ""
+  },
+  "after": {
+    "is_in_vocabulary_bank": false,
+    "soundFile": "/data/sound/nosound.mp3",
+    "definition": ""
+  },
+  "best": {
+    "is_in_vocabulary_bank": false,
+    "soundFile": "/data/sound/nosound.mp3",
+    "definition": ""
+  },
+  "software": {
+    "is_in_vocabulary_bank": false,
+    "soundFile": "/data/sound/nosound.mp3",
+    "definition": ""
+  },
+  "then": {
+    "is_in_vocabulary_bank": false,
+    "soundFile": "/data/sound/nosound.mp3",
+    "definition": ""
+  },
+  "jan": {
+    "is_in_vocabulary_bank": false,
+    "soundFile": "/data/sound/nosound.mp3",
+    "definition": ""
+  },
+  "good": {
+    "is_in_vocabulary_bank": false,
+    "soundFile": "/data/sound/nosound.mp3",
+    "definition": ""
+  },
+  "video": {
+    "is_in_vocabulary_bank": false,
+    "soundFile": "/data/sound/nosound.mp3",
+    "definition": ""
+  },
+  "well": {
+    "is_in_vocabulary_bank": false,
+    "soundFile": "/data/sound/nosound.mp3",
+    "definition": ""
+  },
+  "where": {
+    "is_in_vocabulary_bank": false,
+    "soundFile": "/data/sound/nosound.mp3",
+    "definition": ""
+  },
+  "info": {
+    "is_in_vocabulary_bank": false,
+    "soundFile": "/data/sound/nosound.mp3",
+    "definition": ""
+  },
+  "rights": {
+    "is_in_vocabulary_bank": false,
+    "soundFile": "/data/sound/nosound.mp3",
+    "definition": ""
+  },
+  "public": {
+    "is_in_vocabulary_bank": false,
+    "soundFile": "/data/sound/nosound.mp3",
+    "definition": ""
+  },
+  "books": {
+    "is_in_vocabulary_bank": false,
+    "soundFile": "/data/sound/nosound.mp3",
+    "definition": ""
+  },
+  "high": {
+    "is_in_vocabulary_bank": false,
+    "soundFile": "/data/sound/nosound.mp3",
+    "definition": ""
+  },
+  "school": {
+    "is_in_vocabulary_bank": false,
+    "soundFile": "/data/sound/nosound.mp3",
+    "definition": ""
+  },
+  "through": {
+    "is_in_vocabulary_bank": false,
+    "soundFile": "/data/sound/nosound.mp3",
+    "definition": ""
+  },
+  "each": {
+    "is_in_vocabulary_bank": false,
+    "soundFile": "/data/sound/nosound.mp3",
+    "definition": ""
+  },
+  "links": {
+    "is_in_vocabulary_bank": false,
+    "soundFile": "/data/sound/nosound.mp3",
+    "definition": ""
+  },
+  "she": {
+    "is_in_vocabulary_bank": false,
+    "soundFile": "/data/sound/nosound.mp3",
+    "definition": ""
+  },
+  "review": {
+    "is_in_vocabulary_bank": false,
+    "soundFile": "/data/sound/nosound.mp3",
+    "definition": ""
+  },
+  "years": {
+    "is_in_vocabulary_bank": false,
+    "soundFile": "/data/sound/nosound.mp3",
+    "definition": ""
+  },
+  "order": {
+    "is_in_vocabulary_bank": false,
+    "soundFile": "/data/sound/nosound.mp3",
+    "definition": ""
+  },
+  "very": {
+    "is_in_vocabulary_bank": false,
+    "soundFile": "/data/sound/nosound.mp3",
+    "definition": ""
+  },
+  "privacy": {
+    "is_in_vocabulary_bank": false,
+    "soundFile": "/data/sound/nosound.mp3",
+    "definition": ""
+  },
+  "book": {
+    "is_in_vocabulary_bank": false,
+    "soundFile": "/data/sound/nosound.mp3",
+    "definition": ""
+  },
+  "items": {
+    "is_in_vocabulary_bank": false,
+    "soundFile": "/data/sound/nosound.mp3",
+    "definition": ""
+  },
+  "company": {
+    "is_in_vocabulary_bank": false,
+    "soundFile": "/data/sound/nosound.mp3",
+    "definition": ""
+  },
+  "read": {
+    "is_in_vocabulary_bank": false,
+    "soundFile": "/data/sound/nosound.mp3",
+    "definition": ""
+  },
+  "group": {
+    "is_in_vocabulary_bank": false,
+    "soundFile": "/data/sound/nosound.mp3",
+    "definition": ""
+  },
+  "sex": {
+    "is_in_vocabulary_bank": false,
+    "soundFile": "/data/sound/nosound.mp3",
+    "definition": ""
+  },
+  "need": {
+    "is_in_vocabulary_bank": false,
+    "soundFile": "/data/sound/nosound.mp3",
+    "definition": ""
+  },
+  "many": {
+    "is_in_vocabulary_bank": false,
+    "soundFile": "/data/sound/nosound.mp3",
+    "definition": ""
+  },
+  "user": {
+    "is_in_vocabulary_bank": false,
+    "soundFile": "/data/sound/nosound.mp3",
+    "definition": ""
+  },
+  "said": {
+    "is_in_vocabulary_bank": false,
+    "soundFile": "/data/sound/nosound.mp3",
+    "definition": ""
+  },
+  "de": {
+    "is_in_vocabulary_bank": false,
+    "soundFile": "/data/sound/nosound.mp3",
+    "definition": ""
+  },
+  "does": {
+    "is_in_vocabulary_bank": false,
+    "soundFile": "/data/sound/nosound.mp3",
+    "definition": ""
+  },
+  "set": {
+    "is_in_vocabulary_bank": false,
+    "soundFile": "/data/sound/nosound.mp3",
+    "definition": ""
+  },
+  "under": {
+    "is_in_vocabulary_bank": false,
+    "soundFile": "/data/sound/nosound.mp3",
+    "definition": ""
+  },
+  "general": {
+    "is_in_vocabulary_bank": false,
+    "soundFile": "/data/sound/nosound.mp3",
+    "definition": ""
+  },
+  "research": {
+    "is_in_vocabulary_bank": false,
+    "soundFile": "/data/sound/nosound.mp3",
+    "definition": ""
+  },
+  "university": {
+    "is_in_vocabulary_bank": false,
+    "soundFile": "/data/sound/nosound.mp3",
+    "definition": ""
+  },
+  "january": {
+    "is_in_vocabulary_bank": false,
+    "soundFile": "/data/sound/nosound.mp3",
+    "definition": ""
+  },
+  "mail": {
+    "is_in_vocabulary_bank": false,
+    "soundFile": "/data/sound/nosound.mp3",
+    "definition": ""
+  },
+  "full": {
+    "is_in_vocabulary_bank": false,
+    "soundFile": "/data/sound/nosound.mp3",
+    "definition": ""
+  },
+  "map": {
+    "is_in_vocabulary_bank": false,
+    "soundFile": "/data/sound/nosound.mp3",
+    "definition": ""
+  },
+  "reviews": {
+    "is_in_vocabulary_bank": false,
+    "soundFile": "/data/sound/nosound.mp3",
+    "definition": ""
+  },
+  "program": {
+    "is_in_vocabulary_bank": false,
+    "soundFile": "/data/sound/nosound.mp3",
+    "definition": ""
+  },
+  "life": {
+    "is_in_vocabulary_bank": false,
+    "soundFile": "/data/sound/nosound.mp3",
+    "definition": ""
+  },
+  "know": {
+    "is_in_vocabulary_bank": false,
+    "soundFile": "/data/sound/nosound.mp3",
+    "definition": ""
+  },
+  "games": {
+    "is_in_vocabulary_bank": false,
+    "soundFile": "/data/sound/nosound.mp3",
+    "definition": ""
+  },
+  "way": {
+    "is_in_vocabulary_bank": false,
+    "soundFile": "/data/sound/nosound.mp3",
+    "definition": ""
+  },
+  "days": {
+    "is_in_vocabulary_bank": false,
+    "soundFile": "/data/sound/nosound.mp3",
+    "definition": ""
+  },
+  "management": {
+    "is_in_vocabulary_bank": false,
+    "soundFile": "/data/sound/nosound.mp3",
+    "definition": ""
+  },
+  "part": {
+    "is_in_vocabulary_bank": false,
+    "soundFile": "/data/sound/nosound.mp3",
+    "definition": ""
+  },
+  "could": {
+    "is_in_vocabulary_bank": false,
+    "soundFile": "/data/sound/nosound.mp3",
+    "definition": ""
+  },
+  "great": {
+    "is_in_vocabulary_bank": false,
+    "soundFile": "/data/sound/nosound.mp3",
+    "definition": ""
+  },
+  "united": {
+    "is_in_vocabulary_bank": false,
+    "soundFile": "/data/sound/nosound.mp3",
+    "definition": ""
+  },
+  "hotel": {
+    "is_in_vocabulary_bank": false,
+    "soundFile": "/data/sound/nosound.mp3",
+    "definition": ""
+  },
+  "real": {
+    "is_in_vocabulary_bank": false,
+    "soundFile": "/data/sound/nosound.mp3",
+    "definition": ""
+  },
+  "item": {
+    "is_in_vocabulary_bank": false,
+    "soundFile": "/data/sound/nosound.mp3",
+    "definition": ""
+  },
+  "international": {
+    "is_in_vocabulary_bank": false,
+    "soundFile": "/data/sound/nosound.mp3",
+    "definition": ""
+  },
+  "center": {
+    "is_in_vocabulary_bank": false,
+    "soundFile": "/data/sound/nosound.mp3",
+    "definition": ""
+  },
+  "ebay": {
+    "is_in_vocabulary_bank": false,
+    "soundFile": "/data/sound/nosound.mp3",
+    "definition": ""
+  },
+  "must": {
+    "is_in_vocabulary_bank": false,
+    "soundFile": "/data/sound/nosound.mp3",
+    "definition": ""
+  },
+  "store": {
+    "is_in_vocabulary_bank": false,
+    "soundFile": "/data/sound/nosound.mp3",
+    "definition": ""
+  },
+  "travel": {
+    "is_in_vocabulary_bank": false,
+    "soundFile": "/data/sound/nosound.mp3",
+    "definition": ""
+  },
+  "comments": {
+    "is_in_vocabulary_bank": false,
+    "soundFile": "/data/sound/nosound.mp3",
+    "definition": ""
+  },
+  "made": {
+    "is_in_vocabulary_bank": false,
+    "soundFile": "/data/sound/nosound.mp3",
+    "definition": ""
+  },
+  "development": {
+    "is_in_vocabulary_bank": false,
+    "soundFile": "/data/sound/nosound.mp3",
+    "definition": ""
+  },
+  "report": {
+    "is_in_vocabulary_bank": false,
+    "soundFile": "/data/sound/nosound.mp3",
+    "definition": ""
+  },
+  "off": {
+    "is_in_vocabulary_bank": false,
+    "soundFile": "/data/sound/nosound.mp3",
+    "definition": ""
+  },
+  "member": {
+    "is_in_vocabulary_bank": false,
+    "soundFile": "/data/sound/nosound.mp3",
+    "definition": ""
+  },
+  "details": {
+    "is_in_vocabulary_bank": false,
+    "soundFile": "/data/sound/nosound.mp3",
+    "definition": ""
+  },
+  "line": {
+    "is_in_vocabulary_bank": false,
+    "soundFile": "/data/sound/nosound.mp3",
+    "definition": ""
+  },
+  "terms": {
+    "is_in_vocabulary_bank": false,
+    "soundFile": "/data/sound/nosound.mp3",
+    "definition": ""
+  },
+  "before": {
+    "is_in_vocabulary_bank": false,
+    "soundFile": "/data/sound/nosound.mp3",
+    "definition": ""
+  },
+  "hotels": {
+    "is_in_vocabulary_bank": false,
+    "soundFile": "/data/sound/nosound.mp3",
+    "definition": ""
+  },
+  "did": {
+    "is_in_vocabulary_bank": false,
+    "soundFile": "/data/sound/nosound.mp3",
+    "definition": ""
+  },
+  "send": {
+    "is_in_vocabulary_bank": false,
+    "soundFile": "/data/sound/nosound.mp3",
+    "definition": ""
+  },
+  "right": {
+    "is_in_vocabulary_bank": false,
+    "soundFile": "/data/sound/nosound.mp3",
+    "definition": ""
+  },
+  "type": {
+    "is_in_vocabulary_bank": false,
+    "soundFile": "/data/sound/nosound.mp3",
+    "definition": ""
+  },
+  "because": {
+    "is_in_vocabulary_bank": false,
+    "soundFile": "/data/sound/nosound.mp3",
+    "definition": ""
+  },
+  "local": {
+    "is_in_vocabulary_bank": false,
+    "soundFile": "/data/sound/nosound.mp3",
+    "definition": ""
+  },
+  "those": {
+    "is_in_vocabulary_bank": false,
+    "soundFile": "/data/sound/nosound.mp3",
+    "definition": ""
+  },
+  "using": {
+    "is_in_vocabulary_bank": false,
+    "soundFile": "/data/sound/nosound.mp3",
+    "definition": ""
+  },
+  "results": {
+    "is_in_vocabulary_bank": false,
+    "soundFile": "/data/sound/nosound.mp3",
+    "definition": ""
+  },
+  "office": {
+    "is_in_vocabulary_bank": false,
+    "soundFile": "/data/sound/nosound.mp3",
+    "definition": ""
+  },
+  "education": {
+    "is_in_vocabulary_bank": false,
+    "soundFile": "/data/sound/nosound.mp3",
+    "definition": ""
+  },
+  "national": {
+    "is_in_vocabulary_bank": false,
+    "soundFile": "/data/sound/nosound.mp3",
+    "definition": ""
+  },
+  "car": {
+    "is_in_vocabulary_bank": false,
+    "soundFile": "/data/sound/nosound.mp3",
+    "definition": ""
+  },
+  "design": {
+    "is_in_vocabulary_bank": false,
+    "soundFile": "/data/sound/nosound.mp3",
+    "definition": ""
+  },
+  "take": {
+    "is_in_vocabulary_bank": false,
+    "soundFile": "/data/sound/nosound.mp3",
+    "definition": ""
+  },
+  "posted": {
+    "is_in_vocabulary_bank": false,
+    "soundFile": "/data/sound/nosound.mp3",
+    "definition": ""
+  },
+  "internet": {
+    "is_in_vocabulary_bank": false,
+    "soundFile": "/data/sound/nosound.mp3",
+    "definition": ""
+  },
+  "address": {
+    "is_in_vocabulary_bank": false,
+    "soundFile": "/data/sound/nosound.mp3",
+    "definition": ""
+  },
+  "community": {
+    "is_in_vocabulary_bank": false,
+    "soundFile": "/data/sound/nosound.mp3",
+    "definition": ""
+  },
+  "within": {
+    "is_in_vocabulary_bank": false,
+    "soundFile": "/data/sound/nosound.mp3",
+    "definition": ""
+  },
+  "states": {
+    "is_in_vocabulary_bank": false,
+    "soundFile": "/data/sound/nosound.mp3",
+    "definition": ""
+  },
+  "area": {
+    "is_in_vocabulary_bank": false,
+    "soundFile": "/data/sound/nosound.mp3",
+    "definition": ""
+  },
+  "want": {
+    "is_in_vocabulary_bank": false,
+    "soundFile": "/data/sound/nosound.mp3",
+    "definition": ""
+  },
+  "phone": {
+    "is_in_vocabulary_bank": false,
+    "soundFile": "/data/sound/nosound.mp3",
+    "definition": ""
+  },
+  "dvd": {
+    "is_in_vocabulary_bank": false,
+    "soundFile": "/data/sound/nosound.mp3",
+    "definition": ""
+  },
+  "shipping": {
+    "is_in_vocabulary_bank": false,
+    "soundFile": "/data/sound/nosound.mp3",
+    "definition": ""
+  },
+  "reserved": {
+    "is_in_vocabulary_bank": false,
+    "soundFile": "/data/sound/nosound.mp3",
+    "definition": ""
+  },
+  "subject": {
+    "is_in_vocabulary_bank": false,
+    "soundFile": "/data/sound/nosound.mp3",
+    "definition": ""
+  },
+  "between": {
+    "is_in_vocabulary_bank": false,
+    "soundFile": "/data/sound/nosound.mp3",
+    "definition": ""
+  },
+  "forum": {
+    "is_in_vocabulary_bank": false,
+    "soundFile": "/data/sound/nosound.mp3",
+    "definition": ""
+  },
+  "family": {
+    "is_in_vocabulary_bank": false,
+    "soundFile": "/data/sound/nosound.mp3",
+    "definition": ""
+  },
+  "long": {
+    "is_in_vocabulary_bank": false,
+    "soundFile": "/data/sound/nosound.mp3",
+    "definition": ""
+  },
+  "based": {
+    "is_in_vocabulary_bank": false,
+    "soundFile": "/data/sound/nosound.mp3",
+    "definition": ""
+  },
+  "code": {
+    "is_in_vocabulary_bank": false,
+    "soundFile": "/data/sound/nosound.mp3",
+    "definition": ""
+  },
+  "show": {
+    "is_in_vocabulary_bank": false,
+    "soundFile": "/data/sound/nosound.mp3",
+    "definition": ""
+  },
+  "even": {
+    "is_in_vocabulary_bank": false,
+    "soundFile": "/data/sound/nosound.mp3",
+    "definition": ""
+  },
+  "black": {
+    "is_in_vocabulary_bank": false,
+    "soundFile": "/data/sound/nosound.mp3",
+    "definition": ""
+  },
+  "check": {
+    "is_in_vocabulary_bank": false,
+    "soundFile": "/data/sound/nosound.mp3",
+    "definition": ""
+  },
+  "special": {
+    "is_in_vocabulary_bank": false,
+    "soundFile": "/data/sound/nosound.mp3",
+    "definition": ""
+  },
+  "prices": {
+    "is_in_vocabulary_bank": false,
+    "soundFile": "/data/sound/nosound.mp3",
+    "definition": ""
+  },
+  "website": {
+    "is_in_vocabulary_bank": false,
+    "soundFile": "/data/sound/nosound.mp3",
+    "definition": ""
+  },
+  "index": {
+    "is_in_vocabulary_bank": false,
+    "soundFile": "/data/sound/nosound.mp3",
+    "definition": ""
+  },
+  "being": {
+    "is_in_vocabulary_bank": false,
+    "soundFile": "/data/sound/nosound.mp3",
+    "definition": ""
+  },
+  "women": {
+    "is_in_vocabulary_bank": false,
+    "soundFile": "/data/sound/nosound.mp3",
+    "definition": ""
+  },
+  "much": {
+    "is_in_vocabulary_bank": false,
+    "soundFile": "/data/sound/nosound.mp3",
+    "definition": ""
+  },
+  "sign": {
+    "is_in_vocabulary_bank": false,
+    "soundFile": "/data/sound/nosound.mp3",
+    "definition": ""
+  },
+  "file": {
+    "is_in_vocabulary_bank": false,
+    "soundFile": "/data/sound/nosound.mp3",
+    "definition": ""
+  },
+  "link": {
+    "is_in_vocabulary_bank": false,
+    "soundFile": "/data/sound/nosound.mp3",
+    "definition": ""
+  },
+  "open": {
+    "is_in_vocabulary_bank": false,
+    "soundFile": "/data/sound/nosound.mp3",
+    "definition": ""
+  },
+  "today": {
+    "is_in_vocabulary_bank": false,
+    "soundFile": "/data/sound/nosound.mp3",
+    "definition": ""
+  },
+  "technology": {
+    "is_in_vocabulary_bank": false,
+    "soundFile": "/data/sound/nosound.mp3",
+    "definition": ""
+  },
+  "south": {
+    "is_in_vocabulary_bank": false,
+    "soundFile": "/data/sound/nosound.mp3",
+    "definition": ""
+  },
+  "case": {
+    "is_in_vocabulary_bank": false,
+    "soundFile": "/data/sound/nosound.mp3",
+    "definition": ""
+  },
+  "project": {
+    "is_in_vocabulary_bank": false,
+    "soundFile": "/data/sound/nosound.mp3",
+    "definition": ""
+  },
+  "same": {
+    "is_in_vocabulary_bank": false,
+    "soundFile": "/data/sound/nosound.mp3",
+    "definition": ""
+  },
+  "pages": {
+    "is_in_vocabulary_bank": false,
+    "soundFile": "/data/sound/nosound.mp3",
+    "definition": ""
+  },
+  "uk": {
+    "is_in_vocabulary_bank": false,
+    "soundFile": "/data/sound/nosound.mp3",
+    "definition": ""
+  },
+  "version": {
+    "is_in_vocabulary_bank": false,
+    "soundFile": "/data/sound/nosound.mp3",
+    "definition": ""
+  },
+  "section": {
+    "is_in_vocabulary_bank": false,
+    "soundFile": "/data/sound/nosound.mp3",
+    "definition": ""
+  },
+  "own": {
+    "is_in_vocabulary_bank": false,
+    "soundFile": "/data/sound/nosound.mp3",
+    "definition": ""
+  },
+  "found": {
+    "is_in_vocabulary_bank": false,
+    "soundFile": "/data/sound/nosound.mp3",
+    "definition": ""
+  },
+  "sports": {
+    "is_in_vocabulary_bank": false,
+    "soundFile": "/data/sound/nosound.mp3",
+    "definition": ""
+  },
+  "house": {
+    "is_in_vocabulary_bank": false,
+    "soundFile": "/data/sound/nosound.mp3",
+    "definition": ""
+  },
+  "related": {
+    "is_in_vocabulary_bank": false,
+    "soundFile": "/data/sound/nosound.mp3",
+    "definition": ""
+  },
+  "security": {
+    "is_in_vocabulary_bank": false,
+    "soundFile": "/data/sound/nosound.mp3",
+    "definition": ""
+  },
+  "both": {
+    "is_in_vocabulary_bank": false,
+    "soundFile": "/data/sound/nosound.mp3",
+    "definition": ""
+  },
+  "county": {
+    "is_in_vocabulary_bank": false,
+    "soundFile": "/data/sound/nosound.mp3",
+    "definition": ""
+  },
+  "american": {
+    "is_in_vocabulary_bank": false,
+    "soundFile": "/data/sound/nosound.mp3",
+    "definition": ""
+  },
+  "photo": {
+    "is_in_vocabulary_bank": false,
+    "soundFile": "/data/sound/nosound.mp3",
+    "definition": ""
+  },
+  "game": {
+    "is_in_vocabulary_bank": false,
+    "soundFile": "/data/sound/nosound.mp3",
+    "definition": ""
+  },
+  "members": {
+    "is_in_vocabulary_bank": false,
+    "soundFile": "/data/sound/nosound.mp3",
+    "definition": ""
+  },
+  "power": {
+    "is_in_vocabulary_bank": false,
+    "soundFile": "/data/sound/nosound.mp3",
+    "definition": ""
+  },
+  "while": {
+    "is_in_vocabulary_bank": false,
+    "soundFile": "/data/sound/nosound.mp3",
+    "definition": ""
+  },
+  "care": {
+    "is_in_vocabulary_bank": false,
+    "soundFile": "/data/sound/nosound.mp3",
+    "definition": ""
+  },
+  "network": {
+    "is_in_vocabulary_bank": false,
+    "soundFile": "/data/sound/nosound.mp3",
+    "definition": ""
+  },
+  "down": {
+    "is_in_vocabulary_bank": false,
+    "soundFile": "/data/sound/nosound.mp3",
+    "definition": ""
+  },
+  "computer": {
+    "is_in_vocabulary_bank": false,
+    "soundFile": "/data/sound/nosound.mp3",
+    "definition": ""
+  },
+  "systems": {
+    "is_in_vocabulary_bank": false,
+    "soundFile": "/data/sound/nosound.mp3",
+    "definition": ""
+  },
+  "three": {
+    "is_in_vocabulary_bank": false,
+    "soundFile": "/data/sound/nosound.mp3",
+    "definition": ""
+  },
+  "total": {
+    "is_in_vocabulary_bank": false,
+    "soundFile": "/data/sound/nosound.mp3",
+    "definition": ""
+  },
+  "place": {
+    "is_in_vocabulary_bank": false,
+    "soundFile": "/data/sound/nosound.mp3",
+    "definition": ""
+  },
+  "end": {
+    "is_in_vocabulary_bank": false,
+    "soundFile": "/data/sound/nosound.mp3",
+    "definition": ""
+  },
+  "following": {
+    "is_in_vocabulary_bank": false,
+    "soundFile": "/data/sound/nosound.mp3",
+    "definition": ""
+  },
+  "download": {
+    "is_in_vocabulary_bank": false,
+    "soundFile": "/data/sound/nosound.mp3",
+    "definition": ""
+  },
+  "him": {
+    "is_in_vocabulary_bank": false,
+    "soundFile": "/data/sound/nosound.mp3",
+    "definition": ""
+  },
+  "without": {
+    "is_in_vocabulary_bank": false,
+    "soundFile": "/data/sound/nosound.mp3",
+    "definition": ""
+  },
+  "per": {
+    "is_in_vocabulary_bank": false,
+    "soundFile": "/data/sound/nosound.mp3",
+    "definition": ""
+  },
+  "access": {
+    "is_in_vocabulary_bank": false,
+    "soundFile": "/data/sound/nosound.mp3",
+    "definition": ""
+  },
+  "think": {
+    "is_in_vocabulary_bank": false,
+    "soundFile": "/data/sound/nosound.mp3",
+    "definition": ""
+  },
+  "north": {
+    "is_in_vocabulary_bank": false,
+    "soundFile": "/data/sound/nosound.mp3",
+    "definition": ""
+  },
+  "resources": {
+    "is_in_vocabulary_bank": false,
+    "soundFile": "/data/sound/nosound.mp3",
+    "definition": ""
+  },
+  "current": {
+    "is_in_vocabulary_bank": false,
+    "soundFile": "/data/sound/nosound.mp3",
+    "definition": ""
+  },
+  "posts": {
+    "is_in_vocabulary_bank": false,
+    "soundFile": "/data/sound/nosound.mp3",
+    "definition": ""
+  },
+  "big": {
+    "is_in_vocabulary_bank": false,
+    "soundFile": "/data/sound/nosound.mp3",
+    "definition": ""
+  },
+  "media": {
+    "is_in_vocabulary_bank": false,
+    "soundFile": "/data/sound/nosound.mp3",
+    "definition": ""
+  },
+  "law": {
+    "is_in_vocabulary_bank": false,
+    "soundFile": "/data/sound/nosound.mp3",
+    "definition": ""
+  },
+  "control": {
+    "is_in_vocabulary_bank": false,
+    "soundFile": "/data/sound/nosound.mp3",
+    "definition": ""
+  },
+  "water": {
+    "is_in_vocabulary_bank": false,
+    "soundFile": "/data/sound/nosound.mp3",
+    "definition": ""
+  },
+  "history": {
+    "is_in_vocabulary_bank": false,
+    "soundFile": "/data/sound/nosound.mp3",
+    "definition": ""
+  },
+  "pictures": {
+    "is_in_vocabulary_bank": false,
+    "soundFile": "/data/sound/nosound.mp3",
+    "definition": ""
+  },
+  "size": {
+    "is_in_vocabulary_bank": false,
+    "soundFile": "/data/sound/nosound.mp3",
+    "definition": ""
+  },
+  "art": {
+    "is_in_vocabulary_bank": false,
+    "soundFile": "/data/sound/nosound.mp3",
+    "definition": ""
+  },
+  "personal": {
+    "is_in_vocabulary_bank": false,
+    "soundFile": "/data/sound/nosound.mp3",
+    "definition": ""
+  },
+  "since": {
+    "is_in_vocabulary_bank": false,
+    "soundFile": "/data/sound/nosound.mp3",
+    "definition": ""
+  },
+  "including": {
+    "is_in_vocabulary_bank": false,
+    "soundFile": "/data/sound/nosound.mp3",
+    "definition": ""
+  },
+  "guide": {
+    "is_in_vocabulary_bank": false,
+    "soundFile": "/data/sound/nosound.mp3",
+    "definition": ""
+  },
+  "shop": {
+    "is_in_vocabulary_bank": false,
+    "soundFile": "/data/sound/nosound.mp3",
+    "definition": ""
+  },
+  "directory": {
+    "is_in_vocabulary_bank": false,
+    "soundFile": "/data/sound/nosound.mp3",
+    "definition": ""
+  },
+  "board": {
+    "is_in_vocabulary_bank": false,
+    "soundFile": "/data/sound/nosound.mp3",
+    "definition": ""
+  },
+  "location": {
+    "is_in_vocabulary_bank": false,
+    "soundFile": "/data/sound/nosound.mp3",
+    "definition": ""
+  },
+  "change": {
+    "is_in_vocabulary_bank": false,
+    "soundFile": "/data/sound/nosound.mp3",
+    "definition": ""
+  },
+  "white": {
+    "is_in_vocabulary_bank": false,
+    "soundFile": "/data/sound/nosound.mp3",
+    "definition": ""
+  },
+  "text": {
+    "is_in_vocabulary_bank": false,
+    "soundFile": "/data/sound/nosound.mp3",
+    "definition": ""
+  },
+  "small": {
+    "is_in_vocabulary_bank": false,
+    "soundFile": "/data/sound/nosound.mp3",
+    "definition": ""
+  },
+  "rating": {
+    "is_in_vocabulary_bank": false,
+    "soundFile": "/data/sound/nosound.mp3",
+    "definition": ""
+  },
+  "rate": {
+    "is_in_vocabulary_bank": false,
+    "soundFile": "/data/sound/nosound.mp3",
+    "definition": ""
+  },
+  "government": {
+    "is_in_vocabulary_bank": false,
+    "soundFile": "/data/sound/nosound.mp3",
+    "definition": ""
+  },
+  "children": {
+    "is_in_vocabulary_bank": false,
+    "soundFile": "/data/sound/nosound.mp3",
+    "definition": ""
+  },
+  "during": {
+    "is_in_vocabulary_bank": false,
+    "soundFile": "/data/sound/nosound.mp3",
+    "definition": ""
+  },
+  "usa": {
+    "is_in_vocabulary_bank": false,
+    "soundFile": "/data/sound/nosound.mp3",
+    "definition": ""
+  },
+  "return": {
+    "is_in_vocabulary_bank": false,
+    "soundFile": "/data/sound/nosound.mp3",
+    "definition": ""
+  },
+  "students": {
+    "is_in_vocabulary_bank": false,
+    "soundFile": "/data/sound/nosound.mp3",
+    "definition": ""
+  },
+  "shopping": {
+    "is_in_vocabulary_bank": false,
+    "soundFile": "/data/sound/nosound.mp3",
+    "definition": ""
+  },
+  "account": {
+    "is_in_vocabulary_bank": false,
+    "soundFile": "/data/sound/nosound.mp3",
+    "definition": ""
+  },
+  "times": {
+    "is_in_vocabulary_bank": false,
+    "soundFile": "/data/sound/nosound.mp3",
+    "definition": ""
+  },
+  "sites": {
+    "is_in_vocabulary_bank": false,
+    "soundFile": "/data/sound/nosound.mp3",
+    "definition": ""
+  },
+  "level": {
+    "is_in_vocabulary_bank": false,
+    "soundFile": "/data/sound/nosound.mp3",
+    "definition": ""
+  },
+  "digital": {
+    "is_in_vocabulary_bank": false,
+    "soundFile": "/data/sound/nosound.mp3",
+    "definition": ""
+  },
+  "profile": {
+    "is_in_vocabulary_bank": false,
+    "soundFile": "/data/sound/nosound.mp3",
+    "definition": ""
+  },
+  "previous": {
+    "is_in_vocabulary_bank": false,
+    "soundFile": "/data/sound/nosound.mp3",
+    "definition": ""
+  },
+  "form": {
+    "is_in_vocabulary_bank": false,
+    "soundFile": "/data/sound/nosound.mp3",
+    "definition": ""
+  },
+  "events": {
+    "is_in_vocabulary_bank": false,
+    "soundFile": "/data/sound/nosound.mp3",
+    "definition": ""
+  },
+  "love": {
+    "is_in_vocabulary_bank": false,
+    "soundFile": "/data/sound/nosound.mp3",
+    "definition": ""
+  },
+  "old": {
+    "is_in_vocabulary_bank": false,
+    "soundFile": "/data/sound/nosound.mp3",
+    "definition": ""
+  },
+  "john": {
+    "is_in_vocabulary_bank": false,
+    "soundFile": "/data/sound/nosound.mp3",
+    "definition": ""
+  },
+  "main": {
+    "is_in_vocabulary_bank": false,
+    "soundFile": "/data/sound/nosound.mp3",
+    "definition": ""
+  },
+  "call": {
+    "is_in_vocabulary_bank": false,
+    "soundFile": "/data/sound/nosound.mp3",
+    "definition": ""
+  },
+  "hours": {
+    "is_in_vocabulary_bank": false,
+    "soundFile": "/data/sound/nosound.mp3",
+    "definition": ""
+  },
+  "image": {
+    "is_in_vocabulary_bank": false,
+    "soundFile": "/data/sound/nosound.mp3",
+    "definition": ""
+  },
+  "department": {
+    "is_in_vocabulary_bank": false,
+    "soundFile": "/data/sound/nosound.mp3",
+    "definition": ""
+  },
+  "title": {
+    "is_in_vocabulary_bank": false,
+    "soundFile": "/data/sound/nosound.mp3",
+    "definition": ""
+  },
+  "description": {
+    "is_in_vocabulary_bank": false,
+    "soundFile": "/data/sound/nosound.mp3",
+    "definition": ""
+  },
+  "non": {
+    "is_in_vocabulary_bank": false,
+    "soundFile": "/data/sound/nosound.mp3",
+    "definition": ""
+  },
+  "insurance": {
+    "is_in_vocabulary_bank": false,
+    "soundFile": "/data/sound/nosound.mp3",
+    "definition": ""
+  },
+  "another": {
+    "is_in_vocabulary_bank": false,
+    "soundFile": "/data/sound/nosound.mp3",
+    "definition": ""
+  },
+  "why": {
+    "is_in_vocabulary_bank": false,
+    "soundFile": "/data/sound/nosound.mp3",
+    "definition": ""
+  },
+  "shall": {
+    "is_in_vocabulary_bank": false,
+    "soundFile": "/data/sound/nosound.mp3",
+    "definition": ""
+  },
+  "property": {
+    "is_in_vocabulary_bank": false,
+    "soundFile": "/data/sound/nosound.mp3",
+    "definition": ""
+  },
+  "class": {
+    "is_in_vocabulary_bank": false,
+    "soundFile": "/data/sound/nosound.mp3",
+    "definition": ""
+  },
+  "cd": {
+    "is_in_vocabulary_bank": false,
+    "soundFile": "/data/sound/nosound.mp3",
+    "definition": ""
+  },
+  "still": {
+    "is_in_vocabulary_bank": false,
+    "soundFile": "/data/sound/nosound.mp3",
+    "definition": ""
+  },
+  "money": {
+    "is_in_vocabulary_bank": false,
+    "soundFile": "/data/sound/nosound.mp3",
+    "definition": ""
+  },
+  "quality": {
+    "is_in_vocabulary_bank": false,
+    "soundFile": "/data/sound/nosound.mp3",
+    "definition": ""
+  },
+  "every": {
+    "is_in_vocabulary_bank": false,
+    "soundFile": "/data/sound/nosound.mp3",
+    "definition": ""
+  },
+  "listing": {
+    "is_in_vocabulary_bank": false,
+    "soundFile": "/data/sound/nosound.mp3",
+    "definition": ""
+  },
+  "content": {
+    "is_in_vocabulary_bank": false,
+    "soundFile": "/data/sound/nosound.mp3",
+    "definition": ""
+  },
+  "country": {
+    "is_in_vocabulary_bank": false,
+    "soundFile": "/data/sound/nosound.mp3",
+    "definition": ""
+  },
+  "private": {
+    "is_in_vocabulary_bank": false,
+    "soundFile": "/data/sound/nosound.mp3",
+    "definition": ""
+  },
+  "little": {
+    "is_in_vocabulary_bank": false,
+    "soundFile": "/data/sound/nosound.mp3",
+    "definition": ""
+  },
+  "visit": {
+    "is_in_vocabulary_bank": false,
+    "soundFile": "/data/sound/nosound.mp3",
+    "definition": ""
+  },
+  "save": {
+    "is_in_vocabulary_bank": false,
+    "soundFile": "/data/sound/nosound.mp3",
+    "definition": ""
+  },
+  "tools": {
+    "is_in_vocabulary_bank": false,
+    "soundFile": "/data/sound/nosound.mp3",
+    "definition": ""
+  },
+  "low": {
+    "is_in_vocabulary_bank": false,
+    "soundFile": "/data/sound/nosound.mp3",
+    "definition": ""
+  },
+  "reply": {
+    "is_in_vocabulary_bank": false,
+    "soundFile": "/data/sound/nosound.mp3",
+    "definition": ""
+  },
+  "customer": {
+    "is_in_vocabulary_bank": false,
+    "soundFile": "/data/sound/nosound.mp3",
+    "definition": ""
+  },
+  "december": {
+    "is_in_vocabulary_bank": false,
+    "soundFile": "/data/sound/nosound.mp3",
+    "definition": ""
+  },
+  "compare": {
+    "is_in_vocabulary_bank": false,
+    "soundFile": "/data/sound/nosound.mp3",
+    "definition": ""
+  },
+  "movies": {
+    "is_in_vocabulary_bank": false,
+    "soundFile": "/data/sound/nosound.mp3",
+    "definition": ""
+  },
+  "include": {
+    "is_in_vocabulary_bank": false,
+    "soundFile": "/data/sound/nosound.mp3",
+    "definition": ""
+  },
+  "college": {
+    "is_in_vocabulary_bank": false,
+    "soundFile": "/data/sound/nosound.mp3",
+    "definition": ""
+  },
+  "value": {
+    "is_in_vocabulary_bank": false,
+    "soundFile": "/data/sound/nosound.mp3",
+    "definition": ""
+  },
+  "article": {
+    "is_in_vocabulary_bank": false,
+    "soundFile": "/data/sound/nosound.mp3",
+    "definition": ""
+  },
+  "york": {
+    "is_in_vocabulary_bank": false,
+    "soundFile": "/data/sound/nosound.mp3",
+    "definition": ""
+  },
+  "man": {
+    "is_in_vocabulary_bank": false,
+    "soundFile": "/data/sound/nosound.mp3",
+    "definition": ""
+  },
+  "card": {
+    "is_in_vocabulary_bank": false,
+    "soundFile": "/data/sound/nosound.mp3",
+    "definition": ""
+  },
+  "jobs": {
+    "is_in_vocabulary_bank": false,
+    "soundFile": "/data/sound/nosound.mp3",
+    "definition": ""
+  },
+  "provide": {
+    "is_in_vocabulary_bank": false,
+    "soundFile": "/data/sound/nosound.mp3",
+    "definition": ""
+  },
+  "food": {
+    "is_in_vocabulary_bank": false,
+    "soundFile": "/data/sound/nosound.mp3",
+    "definition": ""
+  },
+  "source": {
+    "is_in_vocabulary_bank": false,
+    "soundFile": "/data/sound/nosound.mp3",
+    "definition": ""
+  },
+  "author": {
+    "is_in_vocabulary_bank": false,
+    "soundFile": "/data/sound/nosound.mp3",
+    "definition": ""
+  },
+  "different": {
+    "is_in_vocabulary_bank": false,
+    "soundFile": "/data/sound/nosound.mp3",
+    "definition": ""
+  },
+  "press": {
+    "is_in_vocabulary_bank": false,
+    "soundFile": "/data/sound/nosound.mp3",
+    "definition": ""
+  },
+  "learn": {
+    "is_in_vocabulary_bank": false,
+    "soundFile": "/data/sound/nosound.mp3",
+    "definition": ""
+  },
+  "sale": {
+    "is_in_vocabulary_bank": false,
+    "soundFile": "/data/sound/nosound.mp3",
+    "definition": ""
+  },
+  "around": {
+    "is_in_vocabulary_bank": false,
+    "soundFile": "/data/sound/nosound.mp3",
+    "definition": ""
+  },
+  "print": {
+    "is_in_vocabulary_bank": false,
+    "soundFile": "/data/sound/nosound.mp3",
+    "definition": ""
+  },
+  "course": {
+    "is_in_vocabulary_bank": false,
+    "soundFile": "/data/sound/nosound.mp3",
+    "definition": ""
+  },
+  "job": {
+    "is_in_vocabulary_bank": false,
+    "soundFile": "/data/sound/nosound.mp3",
+    "definition": ""
+  },
+  "canada": {
+    "is_in_vocabulary_bank": false,
+    "soundFile": "/data/sound/nosound.mp3",
+    "definition": ""
+  },
+  "process": {
+    "is_in_vocabulary_bank": false,
+    "soundFile": "/data/sound/nosound.mp3",
+    "definition": ""
+  },
+  "teen": {
+    "is_in_vocabulary_bank": false,
+    "soundFile": "/data/sound/nosound.mp3",
+    "definition": ""
+  },
+  "room": {
+    "is_in_vocabulary_bank": false,
+    "soundFile": "/data/sound/nosound.mp3",
+    "definition": ""
+  },
+  "stock": {
+    "is_in_vocabulary_bank": false,
+    "soundFile": "/data/sound/nosound.mp3",
+    "definition": ""
+  },
+  "training": {
+    "is_in_vocabulary_bank": false,
+    "soundFile": "/data/sound/nosound.mp3",
+    "definition": ""
+  },
+  "too": {
+    "is_in_vocabulary_bank": false,
+    "soundFile": "/data/sound/nosound.mp3",
+    "definition": ""
+  },
+  "credit": {
+    "is_in_vocabulary_bank": false,
+    "soundFile": "/data/sound/nosound.mp3",
+    "definition": ""
+  },
+  "point": {
+    "is_in_vocabulary_bank": false,
+    "soundFile": "/data/sound/nosound.mp3",
+    "definition": ""
+  },
+  "join": {
+    "is_in_vocabulary_bank": false,
+    "soundFile": "/data/sound/nosound.mp3",
+    "definition": ""
+  },
+  "science": {
+    "is_in_vocabulary_bank": false,
+    "soundFile": "/data/sound/nosound.mp3",
+    "definition": ""
+  },
+  "men": {
+    "is_in_vocabulary_bank": false,
+    "soundFile": "/data/sound/nosound.mp3",
+    "definition": ""
+  },
+  "categories": {
+    "is_in_vocabulary_bank": false,
+    "soundFile": "/data/sound/nosound.mp3",
+    "definition": ""
+  },
+  "advanced": {
+    "is_in_vocabulary_bank": false,
+    "soundFile": "/data/sound/nosound.mp3",
+    "definition": ""
+  },
+  "west": {
+    "is_in_vocabulary_bank": false,
+    "soundFile": "/data/sound/nosound.mp3",
+    "definition": ""
+  },
+  "sales": {
+    "is_in_vocabulary_bank": false,
+    "soundFile": "/data/sound/nosound.mp3",
+    "definition": ""
+  },
+  "look": {
+    "is_in_vocabulary_bank": false,
+    "soundFile": "/data/sound/nosound.mp3",
+    "definition": ""
+  },
+  "english": {
+    "is_in_vocabulary_bank": false,
+    "soundFile": "/data/sound/nosound.mp3",
+    "definition": ""
+  },
+  "left": {
+    "is_in_vocabulary_bank": false,
+    "soundFile": "/data/sound/nosound.mp3",
+    "definition": ""
+  },
+  "team": {
+    "is_in_vocabulary_bank": false,
+    "soundFile": "/data/sound/nosound.mp3",
+    "definition": ""
+  },
+  "estate": {
+    "is_in_vocabulary_bank": false,
+    "soundFile": "/data/sound/nosound.mp3",
+    "definition": ""
+  },
+  "box": {
+    "is_in_vocabulary_bank": false,
+    "soundFile": "/data/sound/nosound.mp3",
+    "definition": ""
+  },
+  "conditions": {
+    "is_in_vocabulary_bank": false,
+    "soundFile": "/data/sound/nosound.mp3",
+    "definition": ""
+  },
+  "select": {
+    "is_in_vocabulary_bank": false,
+    "soundFile": "/data/sound/nosound.mp3",
+    "definition": ""
+  },
+  "windows": {
+    "is_in_vocabulary_bank": false,
+    "soundFile": "/data/sound/nosound.mp3",
+    "definition": ""
+  },
+  "photos": {
+    "is_in_vocabulary_bank": false,
+    "soundFile": "/data/sound/nosound.mp3",
+    "definition": ""
+  },
+  "gay": {
+    "is_in_vocabulary_bank": false,
+    "soundFile": "/data/sound/nosound.mp3",
+    "definition": ""
+  },
+  "thread": {
+    "is_in_vocabulary_bank": false,
+    "soundFile": "/data/sound/nosound.mp3",
+    "definition": ""
+  },
+  "week": {
+    "is_in_vocabulary_bank": false,
+    "soundFile": "/data/sound/nosound.mp3",
+    "definition": ""
+  },
+  "category": {
+    "is_in_vocabulary_bank": false,
+    "soundFile": "/data/sound/nosound.mp3",
+    "definition": ""
+  },
+  "note": {
+    "is_in_vocabulary_bank": false,
+    "soundFile": "/data/sound/nosound.mp3",
+    "definition": ""
+  },
+  "live": {
+    "is_in_vocabulary_bank": false,
+    "soundFile": "/data/sound/nosound.mp3",
+    "definition": ""
+  },
+  "large": {
+    "is_in_vocabulary_bank": false,
+    "soundFile": "/data/sound/nosound.mp3",
+    "definition": ""
+  },
+  "gallery": {
+    "is_in_vocabulary_bank": false,
+    "soundFile": "/data/sound/nosound.mp3",
+    "definition": ""
+  },
+  "table": {
+    "is_in_vocabulary_bank": false,
+    "soundFile": "/data/sound/nosound.mp3",
+    "definition": ""
+  },
+  "register": {
+    "is_in_vocabulary_bank": false,
+    "soundFile": "/data/sound/nosound.mp3",
+    "definition": ""
+  },
+  "however": {
+    "is_in_vocabulary_bank": false,
+    "soundFile": "/data/sound/nosound.mp3",
+    "definition": ""
+  },
+  "june": {
+    "is_in_vocabulary_bank": false,
+    "soundFile": "/data/sound/nosound.mp3",
+    "definition": ""
+  },
+  "october": {
+    "is_in_vocabulary_bank": false,
+    "soundFile": "/data/sound/nosound.mp3",
+    "definition": ""
+  },
+  "november": {
+    "is_in_vocabulary_bank": false,
+    "soundFile": "/data/sound/nosound.mp3",
+    "definition": ""
+  },
+  "market": {
+    "is_in_vocabulary_bank": false,
+    "soundFile": "/data/sound/nosound.mp3",
+    "definition": ""
+  },
+  "library": {
+    "is_in_vocabulary_bank": false,
+    "soundFile": "/data/sound/nosound.mp3",
+    "definition": ""
+  },
+  "really": {
+    "is_in_vocabulary_bank": false,
+    "soundFile": "/data/sound/nosound.mp3",
+    "definition": ""
+  },
+  "action": {
+    "is_in_vocabulary_bank": false,
+    "soundFile": "/data/sound/nosound.mp3",
+    "definition": ""
+  },
+  "start": {
+    "is_in_vocabulary_bank": false,
+    "soundFile": "/data/sound/nosound.mp3",
+    "definition": ""
+  },
+  "series": {
+    "is_in_vocabulary_bank": false,
+    "soundFile": "/data/sound/nosound.mp3",
+    "definition": ""
+  },
+  "model": {
+    "is_in_vocabulary_bank": false,
+    "soundFile": "/data/sound/nosound.mp3",
+    "definition": ""
+  },
+  "features": {
+    "is_in_vocabulary_bank": false,
+    "soundFile": "/data/sound/nosound.mp3",
+    "definition": ""
+  },
+  "air": {
+    "is_in_vocabulary_bank": false,
+    "soundFile": "/data/sound/nosound.mp3",
+    "definition": ""
+  },
+  "industry": {
+    "is_in_vocabulary_bank": false,
+    "soundFile": "/data/sound/nosound.mp3",
+    "definition": ""
+  },
+  "plan": {
+    "is_in_vocabulary_bank": false,
+    "soundFile": "/data/sound/nosound.mp3",
+    "definition": ""
+  },
+  "human": {
+    "is_in_vocabulary_bank": false,
+    "soundFile": "/data/sound/nosound.mp3",
+    "definition": ""
+  },
+  "provided": {
+    "is_in_vocabulary_bank": false,
+    "soundFile": "/data/sound/nosound.mp3",
+    "definition": ""
+  },
+  "tv": {
+    "is_in_vocabulary_bank": false,
+    "soundFile": "/data/sound/nosound.mp3",
+    "definition": ""
+  },
+  "yes": {
+    "is_in_vocabulary_bank": false,
+    "soundFile": "/data/sound/nosound.mp3",
+    "definition": ""
+  },
+  "required": {
+    "is_in_vocabulary_bank": false,
+    "soundFile": "/data/sound/nosound.mp3",
+    "definition": ""
+  },
+  "second": {
+    "is_in_vocabulary_bank": false,
+    "soundFile": "/data/sound/nosound.mp3",
+    "definition": ""
+  },
+  "hot": {
+    "is_in_vocabulary_bank": false,
+    "soundFile": "/data/sound/nosound.mp3",
+    "definition": ""
+  },
+  "accessories": {
+    "is_in_vocabulary_bank": false,
+    "soundFile": "/data/sound/nosound.mp3",
+    "definition": ""
+  },
+  "cost": {
+    "is_in_vocabulary_bank": false,
+    "soundFile": "/data/sound/nosound.mp3",
+    "definition": ""
+  },
+  "movie": {
+    "is_in_vocabulary_bank": false,
+    "soundFile": "/data/sound/nosound.mp3",
+    "definition": ""
+  },
+  "forums": {
+    "is_in_vocabulary_bank": false,
+    "soundFile": "/data/sound/nosound.mp3",
+    "definition": ""
+  },
+  "march": {
+    "is_in_vocabulary_bank": false,
+    "soundFile": "/data/sound/nosound.mp3",
+    "definition": ""
+  },
+  "la": {
+    "is_in_vocabulary_bank": false,
+    "soundFile": "/data/sound/nosound.mp3",
+    "definition": ""
+  },
+  "september": {
+    "is_in_vocabulary_bank": false,
+    "soundFile": "/data/sound/nosound.mp3",
+    "definition": ""
+  },
+  "better": {
+    "is_in_vocabulary_bank": false,
+    "soundFile": "/data/sound/nosound.mp3",
+    "definition": ""
+  },
+  "say": {
+    "is_in_vocabulary_bank": false,
+    "soundFile": "/data/sound/nosound.mp3",
+    "definition": ""
+  },
+  "questions": {
+    "is_in_vocabulary_bank": false,
+    "soundFile": "/data/sound/nosound.mp3",
+    "definition": ""
+  },
+  "july": {
+    "is_in_vocabulary_bank": false,
+    "soundFile": "/data/sound/nosound.mp3",
+    "definition": ""
+  },
+  "yahoo": {
+    "is_in_vocabulary_bank": false,
+    "soundFile": "/data/sound/nosound.mp3",
+    "definition": ""
+  },
+  "going": {
+    "is_in_vocabulary_bank": false,
+    "soundFile": "/data/sound/nosound.mp3",
+    "definition": ""
+  },
+  "medical": {
+    "is_in_vocabulary_bank": false,
+    "soundFile": "/data/sound/nosound.mp3",
+    "definition": ""
+  },
+  "test": {
+    "is_in_vocabulary_bank": false,
+    "soundFile": "/data/sound/nosound.mp3",
+    "definition": ""
+  },
+  "friend": {
+    "is_in_vocabulary_bank": false,
+    "soundFile": "/data/sound/nosound.mp3",
+    "definition": ""
+  },
+  "come": {
+    "is_in_vocabulary_bank": false,
+    "soundFile": "/data/sound/nosound.mp3",
+    "definition": ""
+  },
+  "dec": {
+    "is_in_vocabulary_bank": false,
+    "soundFile": "/data/sound/nosound.mp3",
+    "definition": ""
+  },
+  "server": {
+    "is_in_vocabulary_bank": false,
+    "soundFile": "/data/sound/nosound.mp3",
+    "definition": ""
+  },
+  "pc": {
+    "is_in_vocabulary_bank": false,
+    "soundFile": "/data/sound/nosound.mp3",
+    "definition": ""
+  },
+  "study": {
+    "is_in_vocabulary_bank": false,
+    "soundFile": "/data/sound/nosound.mp3",
+    "definition": ""
+  },
+  "application": {
+    "is_in_vocabulary_bank": false,
+    "soundFile": "/data/sound/nosound.mp3",
+    "definition": ""
+  },
+  "cart": {
+    "is_in_vocabulary_bank": false,
+    "soundFile": "/data/sound/nosound.mp3",
+    "definition": ""
+  },
+  "staff": {
+    "is_in_vocabulary_bank": false,
+    "soundFile": "/data/sound/nosound.mp3",
+    "definition": ""
+  },
+  "articles": {
+    "is_in_vocabulary_bank": false,
+    "soundFile": "/data/sound/nosound.mp3",
+    "definition": ""
+  },
+  "san": {
+    "is_in_vocabulary_bank": false,
+    "soundFile": "/data/sound/nosound.mp3",
+    "definition": ""
+  },
+  "feedback": {
+    "is_in_vocabulary_bank": false,
+    "soundFile": "/data/sound/nosound.mp3",
+    "definition": ""
+  },
+  "again": {
+    "is_in_vocabulary_bank": false,
+    "soundFile": "/data/sound/nosound.mp3",
+    "definition": ""
+  },
+  "play": {
+    "is_in_vocabulary_bank": false,
+    "soundFile": "/data/sound/nosound.mp3",
+    "definition": ""
+  },
+  "looking": {
+    "is_in_vocabulary_bank": false,
+    "soundFile": "/data/sound/nosound.mp3",
+    "definition": ""
+  },
+  "issues": {
+    "is_in_vocabulary_bank": false,
+    "soundFile": "/data/sound/nosound.mp3",
+    "definition": ""
+  },
+  "april": {
+    "is_in_vocabulary_bank": false,
+    "soundFile": "/data/sound/nosound.mp3",
+    "definition": ""
+  },
+  "never": {
+    "is_in_vocabulary_bank": false,
+    "soundFile": "/data/sound/nosound.mp3",
+    "definition": ""
+  },
+  "users": {
+    "is_in_vocabulary_bank": false,
+    "soundFile": "/data/sound/nosound.mp3",
+    "definition": ""
+  },
+  "complete": {
+    "is_in_vocabulary_bank": false,
+    "soundFile": "/data/sound/nosound.mp3",
+    "definition": ""
+  },
+  "street": {
+    "is_in_vocabulary_bank": false,
+    "soundFile": "/data/sound/nosound.mp3",
+    "definition": ""
+  },
+  "topic": {
+    "is_in_vocabulary_bank": false,
+    "soundFile": "/data/sound/nosound.mp3",
+    "definition": ""
+  },
+  "comment": {
+    "is_in_vocabulary_bank": false,
+    "soundFile": "/data/sound/nosound.mp3",
+    "definition": ""
+  },
+  "financial": {
+    "is_in_vocabulary_bank": false,
+    "soundFile": "/data/sound/nosound.mp3",
+    "definition": ""
+  },
+  "things": {
+    "is_in_vocabulary_bank": false,
+    "soundFile": "/data/sound/nosound.mp3",
+    "definition": ""
+  },
+  "working": {
+    "is_in_vocabulary_bank": false,
+    "soundFile": "/data/sound/nosound.mp3",
+    "definition": ""
+  },
+  "against": {
+    "is_in_vocabulary_bank": false,
+    "soundFile": "/data/sound/nosound.mp3",
+    "definition": ""
+  },
+  "standard": {
+    "is_in_vocabulary_bank": false,
+    "soundFile": "/data/sound/nosound.mp3",
+    "definition": ""
+  },
+  "tax": {
+    "is_in_vocabulary_bank": false,
+    "soundFile": "/data/sound/nosound.mp3",
+    "definition": ""
+  },
+  "person": {
+    "is_in_vocabulary_bank": false,
+    "soundFile": "/data/sound/nosound.mp3",
+    "definition": ""
+  },
+  "below": {
+    "is_in_vocabulary_bank": false,
+    "soundFile": "/data/sound/nosound.mp3",
+    "definition": ""
+  },
+  "mobile": {
+    "is_in_vocabulary_bank": false,
+    "soundFile": "/data/sound/nosound.mp3",
+    "definition": ""
+  },
+  "less": {
+    "is_in_vocabulary_bank": false,
+    "soundFile": "/data/sound/nosound.mp3",
+    "definition": ""
+  },
+  "got": {
+    "is_in_vocabulary_bank": false,
+    "soundFile": "/data/sound/nosound.mp3",
+    "definition": ""
+  },
+  "blog": {
+    "is_in_vocabulary_bank": false,
+    "soundFile": "/data/sound/nosound.mp3",
+    "definition": ""
+  },
+  "party": {
+    "is_in_vocabulary_bank": false,
+    "soundFile": "/data/sound/nosound.mp3",
+    "definition": ""
+  },
+  "payment": {
+    "is_in_vocabulary_bank": false,
+    "soundFile": "/data/sound/nosound.mp3",
+    "definition": ""
+  },
+  "equipment": {
+    "is_in_vocabulary_bank": false,
+    "soundFile": "/data/sound/nosound.mp3",
+    "definition": ""
+  },
+  "login": {
+    "is_in_vocabulary_bank": false,
+    "soundFile": "/data/sound/nosound.mp3",
+    "definition": ""
+  },
+  "student": {
+    "is_in_vocabulary_bank": false,
+    "soundFile": "/data/sound/nosound.mp3",
+    "definition": ""
+  },
+  "let": {
+    "is_in_vocabulary_bank": false,
+    "soundFile": "/data/sound/nosound.mp3",
+    "definition": ""
+  },
+  "programs": {
+    "is_in_vocabulary_bank": false,
+    "soundFile": "/data/sound/nosound.mp3",
+    "definition": ""
+  },
+  "offers": {
+    "is_in_vocabulary_bank": false,
+    "soundFile": "/data/sound/nosound.mp3",
+    "definition": ""
+  },
+  "legal": {
+    "is_in_vocabulary_bank": false,
+    "soundFile": "/data/sound/nosound.mp3",
+    "definition": ""
+  },
+  "above": {
+    "is_in_vocabulary_bank": false,
+    "soundFile": "/data/sound/nosound.mp3",
+    "definition": ""
+  },
+  "recent": {
+    "is_in_vocabulary_bank": false,
+    "soundFile": "/data/sound/nosound.mp3",
+    "definition": ""
+  },
+  "park": {
+    "is_in_vocabulary_bank": false,
+    "soundFile": "/data/sound/nosound.mp3",
+    "definition": ""
+  },
+  "stores": {
+    "is_in_vocabulary_bank": false,
+    "soundFile": "/data/sound/nosound.mp3",
+    "definition": ""
+  },
+  "side": {
+    "is_in_vocabulary_bank": false,
+    "soundFile": "/data/sound/nosound.mp3",
+    "definition": ""
+  },
+  "act": {
+    "is_in_vocabulary_bank": false,
+    "soundFile": "/data/sound/nosound.mp3",
+    "definition": ""
+  },
+  "problem": {
+    "is_in_vocabulary_bank": false,
+    "soundFile": "/data/sound/nosound.mp3",
+    "definition": ""
+  },
+  "red": {
+    "is_in_vocabulary_bank": false,
+    "soundFile": "/data/sound/nosound.mp3",
+    "definition": ""
+  },
+  "give": {
+    "is_in_vocabulary_bank": false,
+    "soundFile": "/data/sound/nosound.mp3",
+    "definition": ""
+  },
+  "memory": {
+    "is_in_vocabulary_bank": false,
+    "soundFile": "/data/sound/nosound.mp3",
+    "definition": ""
+  },
+  "performance": {
+    "is_in_vocabulary_bank": false,
+    "soundFile": "/data/sound/nosound.mp3",
+    "definition": ""
+  },
+  "social": {
+    "is_in_vocabulary_bank": false,
+    "soundFile": "/data/sound/nosound.mp3",
+    "definition": ""
+  },
+  "august": {
+    "is_in_vocabulary_bank": false,
+    "soundFile": "/data/sound/nosound.mp3",
+    "definition": ""
+  },
+  "quote": {
+    "is_in_vocabulary_bank": false,
+    "soundFile": "/data/sound/nosound.mp3",
+    "definition": ""
+  },
+  "language": {
+    "is_in_vocabulary_bank": false,
+    "soundFile": "/data/sound/nosound.mp3",
+    "definition": ""
+  },
+  "story": {
+    "is_in_vocabulary_bank": false,
+    "soundFile": "/data/sound/nosound.mp3",
+    "definition": ""
+  },
+  "sell": {
+    "is_in_vocabulary_bank": false,
+    "soundFile": "/data/sound/nosound.mp3",
+    "definition": ""
+  },
+  "options": {
+    "is_in_vocabulary_bank": false,
+    "soundFile": "/data/sound/nosound.mp3",
+    "definition": ""
+  },
+  "experience": {
+    "is_in_vocabulary_bank": false,
+    "soundFile": "/data/sound/nosound.mp3",
+    "definition": ""
+  },
+  "rates": {
+    "is_in_vocabulary_bank": false,
+    "soundFile": "/data/sound/nosound.mp3",
+    "definition": ""
+  },
+  "create": {
+    "is_in_vocabulary_bank": false,
+    "soundFile": "/data/sound/nosound.mp3",
+    "definition": ""
+  },
+  "key": {
+    "is_in_vocabulary_bank": false,
+    "soundFile": "/data/sound/nosound.mp3",
+    "definition": ""
+  },
+  "body": {
+    "is_in_vocabulary_bank": false,
+    "soundFile": "/data/sound/nosound.mp3",
+    "definition": ""
+  },
+  "young": {
+    "is_in_vocabulary_bank": false,
+    "soundFile": "/data/sound/nosound.mp3",
+    "definition": ""
+  },
+  "america": {
+    "is_in_vocabulary_bank": false,
+    "soundFile": "/data/sound/nosound.mp3",
+    "definition": ""
+  },
+  "important": {
+    "is_in_vocabulary_bank": false,
+    "soundFile": "/data/sound/nosound.mp3",
+    "definition": ""
+  },
+  "field": {
+    "is_in_vocabulary_bank": false,
+    "soundFile": "/data/sound/nosound.mp3",
+    "definition": ""
+  },
+  "few": {
+    "is_in_vocabulary_bank": false,
+    "soundFile": "/data/sound/nosound.mp3",
+    "definition": ""
+  },
+  "east": {
+    "is_in_vocabulary_bank": false,
+    "soundFile": "/data/sound/nosound.mp3",
+    "definition": ""
+  },
+  "paper": {
+    "is_in_vocabulary_bank": false,
+    "soundFile": "/data/sound/nosound.mp3",
+    "definition": ""
+  },
+  "single": {
+    "is_in_vocabulary_bank": false,
+    "soundFile": "/data/sound/nosound.mp3",
+    "definition": ""
+  },
+  "ii": {
+    "is_in_vocabulary_bank": false,
+    "soundFile": "/data/sound/nosound.mp3",
+    "definition": ""
+  },
+  "age": {
+    "is_in_vocabulary_bank": false,
+    "soundFile": "/data/sound/nosound.mp3",
+    "definition": ""
+  },
+  "activities": {
+    "is_in_vocabulary_bank": false,
+    "soundFile": "/data/sound/nosound.mp3",
+    "definition": ""
+  },
+  "club": {
+    "is_in_vocabulary_bank": false,
+    "soundFile": "/data/sound/nosound.mp3",
+    "definition": ""
+  },
+  "example": {
+    "is_in_vocabulary_bank": false,
+    "soundFile": "/data/sound/nosound.mp3",
+    "definition": ""
+  },
+  "girls": {
+    "is_in_vocabulary_bank": false,
+    "soundFile": "/data/sound/nosound.mp3",
+    "definition": ""
+  },
+  "additional": {
+    "is_in_vocabulary_bank": false,
+    "soundFile": "/data/sound/nosound.mp3",
+    "definition": ""
+  },
+  "password": {
+    "is_in_vocabulary_bank": false,
+    "soundFile": "/data/sound/nosound.mp3",
+    "definition": ""
+  },
+  "latest": {
+    "is_in_vocabulary_bank": false,
+    "soundFile": "/data/sound/nosound.mp3",
+    "definition": ""
+  },
+  "something": {
+    "is_in_vocabulary_bank": false,
+    "soundFile": "/data/sound/nosound.mp3",
+    "definition": ""
+  },
+  "road": {
+    "is_in_vocabulary_bank": false,
+    "soundFile": "/data/sound/nosound.mp3",
+    "definition": ""
+  },
+  "gift": {
+    "is_in_vocabulary_bank": false,
+    "soundFile": "/data/sound/nosound.mp3",
+    "definition": ""
+  },
+  "question": {
+    "is_in_vocabulary_bank": false,
+    "soundFile": "/data/sound/nosound.mp3",
+    "definition": ""
+  },
+  "changes": {
+    "is_in_vocabulary_bank": false,
+    "soundFile": "/data/sound/nosound.mp3",
+    "definition": ""
+  },
+  "night": {
+    "is_in_vocabulary_bank": false,
+    "soundFile": "/data/sound/nosound.mp3",
+    "definition": ""
+  },
+  "ca": {
+    "is_in_vocabulary_bank": false,
+    "soundFile": "/data/sound/nosound.mp3",
+    "definition": ""
+  },
+  "hard": {
+    "is_in_vocabulary_bank": false,
+    "soundFile": "/data/sound/nosound.mp3",
+    "definition": ""
+  },
+  "texas": {
+    "is_in_vocabulary_bank": false,
+    "soundFile": "/data/sound/nosound.mp3",
+    "definition": ""
+  },
+  "oct": {
+    "is_in_vocabulary_bank": false,
+    "soundFile": "/data/sound/nosound.mp3",
+    "definition": ""
+  },
+  "pay": {
+    "is_in_vocabulary_bank": false,
+    "soundFile": "/data/sound/nosound.mp3",
+    "definition": ""
+  },
+  "four": {
+    "is_in_vocabulary_bank": false,
+    "soundFile": "/data/sound/nosound.mp3",
+    "definition": ""
+  },
+  "poker": {
+    "is_in_vocabulary_bank": false,
+    "soundFile": "/data/sound/nosound.mp3",
+    "definition": ""
+  },
+  "status": {
+    "is_in_vocabulary_bank": false,
+    "soundFile": "/data/sound/nosound.mp3",
+    "definition": ""
+  },
+  "browse": {
+    "is_in_vocabulary_bank": false,
+    "soundFile": "/data/sound/nosound.mp3",
+    "definition": ""
+  },
+  "issue": {
+    "is_in_vocabulary_bank": false,
+    "soundFile": "/data/sound/nosound.mp3",
+    "definition": ""
+  },
+  "range": {
+    "is_in_vocabulary_bank": false,
+    "soundFile": "/data/sound/nosound.mp3",
+    "definition": ""
+  },
+  "building": {
+    "is_in_vocabulary_bank": false,
+    "soundFile": "/data/sound/nosound.mp3",
+    "definition": ""
+  },
+  "seller": {
+    "is_in_vocabulary_bank": false,
+    "soundFile": "/data/sound/nosound.mp3",
+    "definition": ""
+  },
+  "court": {
+    "is_in_vocabulary_bank": false,
+    "soundFile": "/data/sound/nosound.mp3",
+    "definition": ""
+  },
+  "february": {
+    "is_in_vocabulary_bank": false,
+    "soundFile": "/data/sound/nosound.mp3",
+    "definition": ""
+  },
+  "always": {
+    "is_in_vocabulary_bank": false,
+    "soundFile": "/data/sound/nosound.mp3",
+    "definition": ""
+  },
+  "result": {
+    "is_in_vocabulary_bank": false,
+    "soundFile": "/data/sound/nosound.mp3",
+    "definition": ""
+  },
+  "audio": {
+    "is_in_vocabulary_bank": false,
+    "soundFile": "/data/sound/nosound.mp3",
+    "definition": ""
+  },
+  "light": {
+    "is_in_vocabulary_bank": false,
+    "soundFile": "/data/sound/nosound.mp3",
+    "definition": ""
+  },
+  "write": {
+    "is_in_vocabulary_bank": false,
+    "soundFile": "/data/sound/nosound.mp3",
+    "definition": ""
+  },
+  "war": {
+    "is_in_vocabulary_bank": false,
+    "soundFile": "/data/sound/nosound.mp3",
+    "definition": ""
+  },
+  "nov": {
+    "is_in_vocabulary_bank": false,
+    "soundFile": "/data/sound/nosound.mp3",
+    "definition": ""
+  },
+  "offer": {
+    "is_in_vocabulary_bank": false,
+    "soundFile": "/data/sound/nosound.mp3",
+    "definition": ""
+  },
+  "blue": {
+    "is_in_vocabulary_bank": false,
+    "soundFile": "/data/sound/nosound.mp3",
+    "definition": ""
+  },
+  "groups": {
+    "is_in_vocabulary_bank": false,
+    "soundFile": "/data/sound/nosound.mp3",
+    "definition": ""
+  },
+  "al": {
+    "is_in_vocabulary_bank": false,
+    "soundFile": "/data/sound/nosound.mp3",
+    "definition": ""
+  },
+  "easy": {
+    "is_in_vocabulary_bank": false,
+    "soundFile": "/data/sound/nosound.mp3",
+    "definition": ""
+  },
+  "given": {
+    "is_in_vocabulary_bank": false,
+    "soundFile": "/data/sound/nosound.mp3",
+    "definition": ""
+  },
+  "files": {
+    "is_in_vocabulary_bank": false,
+    "soundFile": "/data/sound/nosound.mp3",
+    "definition": ""
+  },
+  "event": {
+    "is_in_vocabulary_bank": false,
+    "soundFile": "/data/sound/nosound.mp3",
+    "definition": ""
+  },
+  "release": {
+    "is_in_vocabulary_bank": false,
+    "soundFile": "/data/sound/nosound.mp3",
+    "definition": ""
+  },
+  "analysis": {
+    "is_in_vocabulary_bank": false,
+    "soundFile": "/data/sound/nosound.mp3",
+    "definition": ""
+  },
+  "request": {
+    "is_in_vocabulary_bank": false,
+    "soundFile": "/data/sound/nosound.mp3",
+    "definition": ""
+  },
+  "fax": {
+    "is_in_vocabulary_bank": false,
+    "soundFile": "/data/sound/nosound.mp3",
+    "definition": ""
+  },
+  "china": {
+    "is_in_vocabulary_bank": false,
+    "soundFile": "/data/sound/nosound.mp3",
+    "definition": ""
+  },
+  "making": {
+    "is_in_vocabulary_bank": false,
+    "soundFile": "/data/sound/nosound.mp3",
+    "definition": ""
+  },
+  "picture": {
+    "is_in_vocabulary_bank": false,
+    "soundFile": "/data/sound/nosound.mp3",
+    "definition": ""
+  },
+  "needs": {
+    "is_in_vocabulary_bank": false,
+    "soundFile": "/data/sound/nosound.mp3",
+    "definition": ""
+  },
+  "possible": {
+    "is_in_vocabulary_bank": false,
+    "soundFile": "/data/sound/nosound.mp3",
+    "definition": ""
+  },
+  "might": {
+    "is_in_vocabulary_bank": false,
+    "soundFile": "/data/sound/nosound.mp3",
+    "definition": ""
+  },
+  "professional": {
+    "is_in_vocabulary_bank": false,
+    "soundFile": "/data/sound/nosound.mp3",
+    "definition": ""
+  },
+  "yet": {
+    "is_in_vocabulary_bank": false,
+    "soundFile": "/data/sound/nosound.mp3",
+    "definition": ""
+  },
+  "month": {
+    "is_in_vocabulary_bank": false,
+    "soundFile": "/data/sound/nosound.mp3",
+    "definition": ""
+  },
+  "major": {
+    "is_in_vocabulary_bank": false,
+    "soundFile": "/data/sound/nosound.mp3",
+    "definition": ""
+  },
+  "star": {
+    "is_in_vocabulary_bank": false,
+    "soundFile": "/data/sound/nosound.mp3",
+    "definition": ""
+  },
+  "areas": {
+    "is_in_vocabulary_bank": false,
+    "soundFile": "/data/sound/nosound.mp3",
+    "definition": ""
+  },
+  "future": {
+    "is_in_vocabulary_bank": false,
+    "soundFile": "/data/sound/nosound.mp3",
+    "definition": ""
+  },
+  "space": {
+    "is_in_vocabulary_bank": false,
+    "soundFile": "/data/sound/nosound.mp3",
+    "definition": ""
+  },
+  "committee": {
+    "is_in_vocabulary_bank": false,
+    "soundFile": "/data/sound/nosound.mp3",
+    "definition": ""
+  },
+  "hand": {
+    "is_in_vocabulary_bank": false,
+    "soundFile": "/data/sound/nosound.mp3",
+    "definition": ""
+  },
+  "sun": {
+    "is_in_vocabulary_bank": false,
+    "soundFile": "/data/sound/nosound.mp3",
+    "definition": ""
+  },
+  "cards": {
+    "is_in_vocabulary_bank": false,
+    "soundFile": "/data/sound/nosound.mp3",
+    "definition": ""
+  },
+  "problems": {
+    "is_in_vocabulary_bank": false,
+    "soundFile": "/data/sound/nosound.mp3",
+    "definition": ""
+  },
+  "london": {
+    "is_in_vocabulary_bank": false,
+    "soundFile": "/data/sound/nosound.mp3",
+    "definition": ""
+  },
+  "washington": {
+    "is_in_vocabulary_bank": false,
+    "soundFile": "/data/sound/nosound.mp3",
+    "definition": ""
+  },
+  "meeting": {
+    "is_in_vocabulary_bank": false,
+    "soundFile": "/data/sound/nosound.mp3",
+    "definition": ""
+  },
+  "rss": {
+    "is_in_vocabulary_bank": false,
+    "soundFile": "/data/sound/nosound.mp3",
+    "definition": ""
+  },
+  "become": {
+    "is_in_vocabulary_bank": false,
+    "soundFile": "/data/sound/nosound.mp3",
+    "definition": ""
+  },
+  "interest": {
+    "is_in_vocabulary_bank": false,
+    "soundFile": "/data/sound/nosound.mp3",
+    "definition": ""
+  },
+  "id": {
+    "is_in_vocabulary_bank": false,
+    "soundFile": "/data/sound/nosound.mp3",
+    "definition": ""
+  },
+  "child": {
+    "is_in_vocabulary_bank": false,
+    "soundFile": "/data/sound/nosound.mp3",
+    "definition": ""
+  },
+  "keep": {
+    "is_in_vocabulary_bank": false,
+    "soundFile": "/data/sound/nosound.mp3",
+    "definition": ""
+  },
+  "enter": {
+    "is_in_vocabulary_bank": false,
+    "soundFile": "/data/sound/nosound.mp3",
+    "definition": ""
+  },
+  "california": {
+    "is_in_vocabulary_bank": false,
+    "soundFile": "/data/sound/nosound.mp3",
+    "definition": ""
+  },
+  "porn": {
+    "is_in_vocabulary_bank": false,
+    "soundFile": "/data/sound/nosound.mp3",
+    "definition": ""
+  },
+  "share": {
+    "is_in_vocabulary_bank": false,
+    "soundFile": "/data/sound/nosound.mp3",
+    "definition": ""
+  },
+  "similar": {
+    "is_in_vocabulary_bank": false,
+    "soundFile": "/data/sound/nosound.mp3",
+    "definition": ""
+  },
+  "garden": {
+    "is_in_vocabulary_bank": false,
+    "soundFile": "/data/sound/nosound.mp3",
+    "definition": ""
+  },
+  "schools": {
+    "is_in_vocabulary_bank": false,
+    "soundFile": "/data/sound/nosound.mp3",
+    "definition": ""
+  },
+  "million": {
+    "is_in_vocabulary_bank": false,
+    "soundFile": "/data/sound/nosound.mp3",
+    "definition": ""
+  },
+  "added": {
+    "is_in_vocabulary_bank": false,
+    "soundFile": "/data/sound/nosound.mp3",
+    "definition": ""
+  },
+  "reference": {
+    "is_in_vocabulary_bank": false,
+    "soundFile": "/data/sound/nosound.mp3",
+    "definition": ""
+  },
+  "companies": {
+    "is_in_vocabulary_bank": false,
+    "soundFile": "/data/sound/nosound.mp3",
+    "definition": ""
+  },
+  "listed": {
+    "is_in_vocabulary_bank": false,
+    "soundFile": "/data/sound/nosound.mp3",
+    "definition": ""
+  },
+  "baby": {
+    "is_in_vocabulary_bank": false,
+    "soundFile": "/data/sound/nosound.mp3",
+    "definition": ""
+  },
+  "learning": {
+    "is_in_vocabulary_bank": false,
+    "soundFile": "/data/sound/nosound.mp3",
+    "definition": ""
+  },
+  "energy": {
+    "is_in_vocabulary_bank": false,
+    "soundFile": "/data/sound/nosound.mp3",
+    "definition": ""
+  },
+  "run": {
+    "is_in_vocabulary_bank": false,
+    "soundFile": "/data/sound/nosound.mp3",
+    "definition": ""
+  },
+  "delivery": {
+    "is_in_vocabulary_bank": false,
+    "soundFile": "/data/sound/nosound.mp3",
+    "definition": ""
+  },
+  "net": {
+    "is_in_vocabulary_bank": false,
+    "soundFile": "/data/sound/nosound.mp3",
+    "definition": ""
+  },
+  "popular": {
+    "is_in_vocabulary_bank": false,
+    "soundFile": "/data/sound/nosound.mp3",
+    "definition": ""
+  },
+  "term": {
+    "is_in_vocabulary_bank": false,
+    "soundFile": "/data/sound/nosound.mp3",
+    "definition": ""
+  },
+  "film": {
+    "is_in_vocabulary_bank": false,
+    "soundFile": "/data/sound/nosound.mp3",
+    "definition": ""
+  },
+  "stories": {
+    "is_in_vocabulary_bank": false,
+    "soundFile": "/data/sound/nosound.mp3",
+    "definition": ""
+  },
+  "put": {
+    "is_in_vocabulary_bank": false,
+    "soundFile": "/data/sound/nosound.mp3",
+    "definition": ""
+  },
+  "computers": {
+    "is_in_vocabulary_bank": false,
+    "soundFile": "/data/sound/nosound.mp3",
+    "definition": ""
+  },
+  "journal": {
+    "is_in_vocabulary_bank": false,
+    "soundFile": "/data/sound/nosound.mp3",
+    "definition": ""
+  },
+  "reports": {
+    "is_in_vocabulary_bank": false,
+    "soundFile": "/data/sound/nosound.mp3",
+    "definition": ""
+  },
+  "co": {
+    "is_in_vocabulary_bank": false,
+    "soundFile": "/data/sound/nosound.mp3",
+    "definition": ""
+  },
+  "try": {
+    "is_in_vocabulary_bank": false,
+    "soundFile": "/data/sound/nosound.mp3",
+    "definition": ""
+  },
+  "welcome": {
+    "is_in_vocabulary_bank": false,
+    "soundFile": "/data/sound/nosound.mp3",
+    "definition": ""
+  },
+  "central": {
+    "is_in_vocabulary_bank": false,
+    "soundFile": "/data/sound/nosound.mp3",
+    "definition": ""
+  },
+  "images": {
+    "is_in_vocabulary_bank": false,
+    "soundFile": "/data/sound/nosound.mp3",
+    "definition": ""
+  },
+  "president": {
+    "is_in_vocabulary_bank": false,
+    "soundFile": "/data/sound/nosound.mp3",
+    "definition": ""
+  },
+  "notice": {
+    "is_in_vocabulary_bank": false,
+    "soundFile": "/data/sound/nosound.mp3",
+    "definition": ""
+  },
+  "god": {
+    "is_in_vocabulary_bank": false,
+    "soundFile": "/data/sound/nosound.mp3",
+    "definition": ""
+  },
+  "original": {
+    "is_in_vocabulary_bank": false,
+    "soundFile": "/data/sound/nosound.mp3",
+    "definition": ""
+  },
+  "head": {
+    "is_in_vocabulary_bank": false,
+    "soundFile": "/data/sound/nosound.mp3",
+    "definition": ""
+  },
+  "radio": {
+    "is_in_vocabulary_bank": false,
+    "soundFile": "/data/sound/nosound.mp3",
+    "definition": ""
+  },
+  "until": {
+    "is_in_vocabulary_bank": false,
+    "soundFile": "/data/sound/nosound.mp3",
+    "definition": ""
+  },
+  "cell": {
+    "is_in_vocabulary_bank": false,
+    "soundFile": "/data/sound/nosound.mp3",
+    "definition": ""
+  },
+  "color": {
+    "is_in_vocabulary_bank": false,
+    "soundFile": "/data/sound/nosound.mp3",
+    "definition": ""
+  },
+  "self": {
+    "is_in_vocabulary_bank": false,
+    "soundFile": "/data/sound/nosound.mp3",
+    "definition": ""
+  },
+  "council": {
+    "is_in_vocabulary_bank": false,
+    "soundFile": "/data/sound/nosound.mp3",
+    "definition": ""
+  },
+  "away": {
+    "is_in_vocabulary_bank": false,
+    "soundFile": "/data/sound/nosound.mp3",
+    "definition": ""
+  },
+  "includes": {
+    "is_in_vocabulary_bank": false,
+    "soundFile": "/data/sound/nosound.mp3",
+    "definition": ""
+  },
+  "track": {
+    "is_in_vocabulary_bank": false,
+    "soundFile": "/data/sound/nosound.mp3",
+    "definition": ""
+  },
+  "australia": {
+    "is_in_vocabulary_bank": false,
+    "soundFile": "/data/sound/nosound.mp3",
+    "definition": ""
+  },
+  "discussion": {
+    "is_in_vocabulary_bank": false,
+    "soundFile": "/data/sound/nosound.mp3",
+    "definition": ""
+  },
+  "archive": {
+    "is_in_vocabulary_bank": false,
+    "soundFile": "/data/sound/nosound.mp3",
+    "definition": ""
+  },
+  "once": {
+    "is_in_vocabulary_bank": false,
+    "soundFile": "/data/sound/nosound.mp3",
+    "definition": ""
+  },
+  "others": {
+    "is_in_vocabulary_bank": false,
+    "soundFile": "/data/sound/nosound.mp3",
+    "definition": ""
+  },
+  "entertainment": {
+    "is_in_vocabulary_bank": false,
+    "soundFile": "/data/sound/nosound.mp3",
+    "definition": ""
+  },
+  "agreement": {
+    "is_in_vocabulary_bank": false,
+    "soundFile": "/data/sound/nosound.mp3",
+    "definition": ""
+  },
+  "format": {
+    "is_in_vocabulary_bank": false,
+    "soundFile": "/data/sound/nosound.mp3",
+    "definition": ""
+  },
+  "least": {
+    "is_in_vocabulary_bank": false,
+    "soundFile": "/data/sound/nosound.mp3",
+    "definition": ""
+  },
+  "society": {
+    "is_in_vocabulary_bank": false,
+    "soundFile": "/data/sound/nosound.mp3",
+    "definition": ""
+  },
+  "months": {
+    "is_in_vocabulary_bank": false,
+    "soundFile": "/data/sound/nosound.mp3",
+    "definition": ""
+  },
+  "log": {
+    "is_in_vocabulary_bank": false,
+    "soundFile": "/data/sound/nosound.mp3",
+    "definition": ""
+  },
+  "safety": {
+    "is_in_vocabulary_bank": false,
+    "soundFile": "/data/sound/nosound.mp3",
+    "definition": ""
+  },
+  "friends": {
+    "is_in_vocabulary_bank": false,
+    "soundFile": "/data/sound/nosound.mp3",
+    "definition": ""
+  },
+  "sure": {
+    "is_in_vocabulary_bank": false,
+    "soundFile": "/data/sound/nosound.mp3",
+    "definition": ""
+  },
+  "faq": {
+    "is_in_vocabulary_bank": false,
+    "soundFile": "/data/sound/nosound.mp3",
+    "definition": ""
+  },
+  "trade": {
+    "is_in_vocabulary_bank": false,
+    "soundFile": "/data/sound/nosound.mp3",
+    "definition": ""
+  },
+  "edition": {
+    "is_in_vocabulary_bank": false,
+    "soundFile": "/data/sound/nosound.mp3",
+    "definition": ""
+  },
+  "cars": {
+    "is_in_vocabulary_bank": false,
+    "soundFile": "/data/sound/nosound.mp3",
+    "definition": ""
+  },
+  "messages": {
+    "is_in_vocabulary_bank": false,
+    "soundFile": "/data/sound/nosound.mp3",
+    "definition": ""
+  },
+  "marketing": {
+    "is_in_vocabulary_bank": false,
+    "soundFile": "/data/sound/nosound.mp3",
+    "definition": ""
+  },
+  "tell": {
+    "is_in_vocabulary_bank": false,
+    "soundFile": "/data/sound/nosound.mp3",
+    "definition": ""
+  },
+  "further": {
+    "is_in_vocabulary_bank": false,
+    "soundFile": "/data/sound/nosound.mp3",
+    "definition": ""
+  },
+  "updated": {
+    "is_in_vocabulary_bank": false,
+    "soundFile": "/data/sound/nosound.mp3",
+    "definition": ""
+  },
+  "association": {
+    "is_in_vocabulary_bank": false,
+    "soundFile": "/data/sound/nosound.mp3",
+    "definition": ""
+  },
+  "able": {
+    "is_in_vocabulary_bank": false,
+    "soundFile": "/data/sound/nosound.mp3",
+    "definition": ""
+  },
+  "having": {
+    "is_in_vocabulary_bank": false,
+    "soundFile": "/data/sound/nosound.mp3",
+    "definition": ""
+  },
+  "provides": {
+    "is_in_vocabulary_bank": false,
+    "soundFile": "/data/sound/nosound.mp3",
+    "definition": ""
+  },
+  "david": {
+    "is_in_vocabulary_bank": false,
+    "soundFile": "/data/sound/nosound.mp3",
+    "definition": ""
+  },
+  "fun": {
+    "is_in_vocabulary_bank": false,
+    "soundFile": "/data/sound/nosound.mp3",
+    "definition": ""
+  },
+  "already": {
+    "is_in_vocabulary_bank": false,
+    "soundFile": "/data/sound/nosound.mp3",
+    "definition": ""
+  },
+  "green": {
+    "is_in_vocabulary_bank": false,
+    "soundFile": "/data/sound/nosound.mp3",
+    "definition": ""
+  },
+  "studies": {
+    "is_in_vocabulary_bank": false,
+    "soundFile": "/data/sound/nosound.mp3",
+    "definition": ""
+  },
+  "close": {
+    "is_in_vocabulary_bank": false,
+    "soundFile": "/data/sound/nosound.mp3",
+    "definition": ""
+  },
+  "common": {
+    "is_in_vocabulary_bank": false,
+    "soundFile": "/data/sound/nosound.mp3",
+    "definition": ""
+  },
+  "drive": {
+    "is_in_vocabulary_bank": false,
+    "soundFile": "/data/sound/nosound.mp3",
+    "definition": ""
+  },
+  "specific": {
+    "is_in_vocabulary_bank": false,
+    "soundFile": "/data/sound/nosound.mp3",
+    "definition": ""
+  },
+  "several": {
+    "is_in_vocabulary_bank": false,
+    "soundFile": "/data/sound/nosound.mp3",
+    "definition": ""
+  },
+  "gold": {
+    "is_in_vocabulary_bank": false,
+    "soundFile": "/data/sound/nosound.mp3",
+    "definition": ""
+  },
+  "feb": {
+    "is_in_vocabulary_bank": false,
+    "soundFile": "/data/sound/nosound.mp3",
+    "definition": ""
+  },
+  "living": {
+    "is_in_vocabulary_bank": false,
+    "soundFile": "/data/sound/nosound.mp3",
+    "definition": ""
+  },
+  "sep": {
+    "is_in_vocabulary_bank": false,
+    "soundFile": "/data/sound/nosound.mp3",
+    "definition": ""
+  },
+  "collection": {
+    "is_in_vocabulary_bank": false,
+    "soundFile": "/data/sound/nosound.mp3",
+    "definition": ""
+  },
+  "called": {
+    "is_in_vocabulary_bank": false,
+    "soundFile": "/data/sound/nosound.mp3",
+    "definition": ""
+  },
+  "short": {
+    "is_in_vocabulary_bank": false,
+    "soundFile": "/data/sound/nosound.mp3",
+    "definition": ""
+  },
+  "arts": {
+    "is_in_vocabulary_bank": false,
+    "soundFile": "/data/sound/nosound.mp3",
+    "definition": ""
+  },
+  "lot": {
+    "is_in_vocabulary_bank": false,
+    "soundFile": "/data/sound/nosound.mp3",
+    "definition": ""
+  },
+  "ask": {
+    "is_in_vocabulary_bank": false,
+    "soundFile": "/data/sound/nosound.mp3",
+    "definition": ""
+  },
+  "display": {
+    "is_in_vocabulary_bank": false,
+    "soundFile": "/data/sound/nosound.mp3",
+    "definition": ""
+  },
+  "limited": {
+    "is_in_vocabulary_bank": false,
+    "soundFile": "/data/sound/nosound.mp3",
+    "definition": ""
+  },
+  "powered": {
+    "is_in_vocabulary_bank": false,
+    "soundFile": "/data/sound/nosound.mp3",
+    "definition": ""
+  },
+  "solutions": {
+    "is_in_vocabulary_bank": false,
+    "soundFile": "/data/sound/nosound.mp3",
+    "definition": ""
+  },
+  "means": {
+    "is_in_vocabulary_bank": false,
+    "soundFile": "/data/sound/nosound.mp3",
+    "definition": ""
+  },
+  "director": {
+    "is_in_vocabulary_bank": false,
+    "soundFile": "/data/sound/nosound.mp3",
+    "definition": ""
+  },
+  "daily": {
+    "is_in_vocabulary_bank": false,
+    "soundFile": "/data/sound/nosound.mp3",
+    "definition": ""
+  },
+  "beach": {
+    "is_in_vocabulary_bank": false,
+    "soundFile": "/data/sound/nosound.mp3",
+    "definition": ""
+  },
+  "past": {
+    "is_in_vocabulary_bank": false,
+    "soundFile": "/data/sound/nosound.mp3",
+    "definition": ""
+  },
+  "natural": {
+    "is_in_vocabulary_bank": false,
+    "soundFile": "/data/sound/nosound.mp3",
+    "definition": ""
+  },
+  "whether": {
+    "is_in_vocabulary_bank": false,
+    "soundFile": "/data/sound/nosound.mp3",
+    "definition": ""
+  },
+  "due": {
+    "is_in_vocabulary_bank": false,
+    "soundFile": "/data/sound/nosound.mp3",
+    "definition": ""
+  },
+  "et": {
+    "is_in_vocabulary_bank": false,
+    "soundFile": "/data/sound/nosound.mp3",
+    "definition": ""
+  },
+  "electronics": {
+    "is_in_vocabulary_bank": false,
+    "soundFile": "/data/sound/nosound.mp3",
+    "definition": ""
+  },
+  "five": {
+    "is_in_vocabulary_bank": false,
+    "soundFile": "/data/sound/nosound.mp3",
+    "definition": ""
+  },
+  "upon": {
+    "is_in_vocabulary_bank": false,
+    "soundFile": "/data/sound/nosound.mp3",
+    "definition": ""
+  },
+  "period": {
+    "is_in_vocabulary_bank": false,
+    "soundFile": "/data/sound/nosound.mp3",
+    "definition": ""
+  },
+  "planning": {
+    "is_in_vocabulary_bank": false,
+    "soundFile": "/data/sound/nosound.mp3",
+    "definition": ""
+  },
+  "database": {
+    "is_in_vocabulary_bank": false,
+    "soundFile": "/data/sound/nosound.mp3",
+    "definition": ""
+  },
+  "says": {
+    "is_in_vocabulary_bank": false,
+    "soundFile": "/data/sound/nosound.mp3",
+    "definition": ""
+  },
+  "official": {
+    "is_in_vocabulary_bank": false,
+    "soundFile": "/data/sound/nosound.mp3",
+    "definition": ""
+  },
+  "weather": {
+    "is_in_vocabulary_bank": false,
+    "soundFile": "/data/sound/nosound.mp3",
+    "definition": ""
+  },
+  "mar": {
+    "is_in_vocabulary_bank": false,
+    "soundFile": "/data/sound/nosound.mp3",
+    "definition": ""
+  },
+  "land": {
+    "is_in_vocabulary_bank": false,
+    "soundFile": "/data/sound/nosound.mp3",
+    "definition": ""
+  },
+  "average": {
+    "is_in_vocabulary_bank": false,
+    "soundFile": "/data/sound/nosound.mp3",
+    "definition": ""
+  },
+  "done": {
+    "is_in_vocabulary_bank": false,
+    "soundFile": "/data/sound/nosound.mp3",
+    "definition": ""
+  },
+  "technical": {
+    "is_in_vocabulary_bank": false,
+    "soundFile": "/data/sound/nosound.mp3",
+    "definition": ""
+  },
+  "window": {
+    "is_in_vocabulary_bank": false,
+    "soundFile": "/data/sound/nosound.mp3",
+    "definition": ""
+  },
+  "france": {
+    "is_in_vocabulary_bank": false,
+    "soundFile": "/data/sound/nosound.mp3",
+    "definition": ""
+  },
+  "pro": {
+    "is_in_vocabulary_bank": false,
+    "soundFile": "/data/sound/nosound.mp3",
+    "definition": ""
+  },
+  "region": {
+    "is_in_vocabulary_bank": false,
+    "soundFile": "/data/sound/nosound.mp3",
+    "definition": ""
+  },
+  "island": {
+    "is_in_vocabulary_bank": false,
+    "soundFile": "/data/sound/nosound.mp3",
+    "definition": ""
+  },
+  "record": {
+    "is_in_vocabulary_bank": false,
+    "soundFile": "/data/sound/nosound.mp3",
+    "definition": ""
+  },
+  "direct": {
+    "is_in_vocabulary_bank": false,
+    "soundFile": "/data/sound/nosound.mp3",
+    "definition": ""
+  },
+  "microsoft": {
+    "is_in_vocabulary_bank": false,
+    "soundFile": "/data/sound/nosound.mp3",
+    "definition": ""
+  },
+  "conference": {
+    "is_in_vocabulary_bank": false,
+    "soundFile": "/data/sound/nosound.mp3",
+    "definition": ""
+  },
+  "environment": {
+    "is_in_vocabulary_bank": false,
+    "soundFile": "/data/sound/nosound.mp3",
+    "definition": ""
+  },
+  "records": {
+    "is_in_vocabulary_bank": false,
+    "soundFile": "/data/sound/nosound.mp3",
+    "definition": ""
+  },
+  "st": {
+    "is_in_vocabulary_bank": false,
+    "soundFile": "/data/sound/nosound.mp3",
+    "definition": ""
+  },
+  "district": {
+    "is_in_vocabulary_bank": false,
+    "soundFile": "/data/sound/nosound.mp3",
+    "definition": ""
+  },
+  "calendar": {
+    "is_in_vocabulary_bank": false,
+    "soundFile": "/data/sound/nosound.mp3",
+    "definition": ""
+  },
+  "costs": {
+    "is_in_vocabulary_bank": false,
+    "soundFile": "/data/sound/nosound.mp3",
+    "definition": ""
+  },
+  "style": {
+    "is_in_vocabulary_bank": false,
+    "soundFile": "/data/sound/nosound.mp3",
+    "definition": ""
+  },
+  "url": {
+    "is_in_vocabulary_bank": false,
+    "soundFile": "/data/sound/nosound.mp3",
+    "definition": ""
+  },
+  "front": {
+    "is_in_vocabulary_bank": false,
+    "soundFile": "/data/sound/nosound.mp3",
+    "definition": ""
+  },
+  "statement": {
+    "is_in_vocabulary_bank": false,
+    "soundFile": "/data/sound/nosound.mp3",
+    "definition": ""
+  },
+  "update": {
+    "is_in_vocabulary_bank": false,
+    "soundFile": "/data/sound/nosound.mp3",
+    "definition": ""
+  },
+  "parts": {
+    "is_in_vocabulary_bank": false,
+    "soundFile": "/data/sound/nosound.mp3",
+    "definition": ""
+  },
+  "aug": {
+    "is_in_vocabulary_bank": false,
+    "soundFile": "/data/sound/nosound.mp3",
+    "definition": ""
+  },
+  "ever": {
+    "is_in_vocabulary_bank": false,
+    "soundFile": "/data/sound/nosound.mp3",
+    "definition": ""
+  },
+  "downloads": {
+    "is_in_vocabulary_bank": false,
+    "soundFile": "/data/sound/nosound.mp3",
+    "definition": ""
+  },
+  "early": {
+    "is_in_vocabulary_bank": false,
+    "soundFile": "/data/sound/nosound.mp3",
+    "definition": ""
+  },
+  "miles": {
+    "is_in_vocabulary_bank": false,
+    "soundFile": "/data/sound/nosound.mp3",
+    "definition": ""
+  },
+  "sound": {
+    "is_in_vocabulary_bank": false,
+    "soundFile": "/data/sound/nosound.mp3",
+    "definition": ""
+  },
+  "resource": {
+    "is_in_vocabulary_bank": false,
+    "soundFile": "/data/sound/nosound.mp3",
+    "definition": ""
+  },
+  "present": {
+    "is_in_vocabulary_bank": false,
+    "soundFile": "/data/sound/nosound.mp3",
+    "definition": ""
+  },
+  "applications": {
+    "is_in_vocabulary_bank": false,
+    "soundFile": "/data/sound/nosound.mp3",
+    "definition": ""
+  },
+  "either": {
+    "is_in_vocabulary_bank": false,
+    "soundFile": "/data/sound/nosound.mp3",
+    "definition": ""
+  },
+  "ago": {
+    "is_in_vocabulary_bank": false,
+    "soundFile": "/data/sound/nosound.mp3",
+    "definition": ""
+  },
+  "document": {
+    "is_in_vocabulary_bank": false,
+    "soundFile": "/data/sound/nosound.mp3",
+    "definition": ""
+  },
+  "word": {
+    "is_in_vocabulary_bank": false,
+    "soundFile": "/data/sound/nosound.mp3",
+    "definition": ""
+  },
+  "works": {
+    "is_in_vocabulary_bank": false,
+    "soundFile": "/data/sound/nosound.mp3",
+    "definition": ""
+  },
+  "material": {
+    "is_in_vocabulary_bank": false,
+    "soundFile": "/data/sound/nosound.mp3",
+    "definition": ""
+  },
+  "bill": {
+    "is_in_vocabulary_bank": false,
+    "soundFile": "/data/sound/nosound.mp3",
+    "definition": ""
+  },
+  "apr": {
+    "is_in_vocabulary_bank": false,
+    "soundFile": "/data/sound/nosound.mp3",
+    "definition": ""
+  },
+  "written": {
+    "is_in_vocabulary_bank": false,
+    "soundFile": "/data/sound/nosound.mp3",
+    "definition": ""
+  },
+  "talk": {
+    "is_in_vocabulary_bank": false,
+    "soundFile": "/data/sound/nosound.mp3",
+    "definition": ""
+  },
+  "federal": {
+    "is_in_vocabulary_bank": false,
+    "soundFile": "/data/sound/nosound.mp3",
+    "definition": ""
+  },
+  "hosting": {
+    "is_in_vocabulary_bank": false,
+    "soundFile": "/data/sound/nosound.mp3",
+    "definition": ""
+  },
+  "rules": {
+    "is_in_vocabulary_bank": false,
+    "soundFile": "/data/sound/nosound.mp3",
+    "definition": ""
+  },
+  "final": {
+    "is_in_vocabulary_bank": false,
+    "soundFile": "/data/sound/nosound.mp3",
+    "definition": ""
+  },
+  "adult": {
+    "is_in_vocabulary_bank": false,
+    "soundFile": "/data/sound/nosound.mp3",
+    "definition": ""
+  },
+  "tickets": {
+    "is_in_vocabulary_bank": false,
+    "soundFile": "/data/sound/nosound.mp3",
+    "definition": ""
+  },
+  "thing": {
+    "is_in_vocabulary_bank": false,
+    "soundFile": "/data/sound/nosound.mp3",
+    "definition": ""
+  },
+  "centre": {
+    "is_in_vocabulary_bank": false,
+    "soundFile": "/data/sound/nosound.mp3",
+    "definition": ""
+  },
+  "requirements": {
+    "is_in_vocabulary_bank": false,
+    "soundFile": "/data/sound/nosound.mp3",
+    "definition": ""
+  },
+  "via": {
+    "is_in_vocabulary_bank": false,
+    "soundFile": "/data/sound/nosound.mp3",
+    "definition": ""
+  },
+  "cheap": {
+    "is_in_vocabulary_bank": false,
+    "soundFile": "/data/sound/nosound.mp3",
+    "definition": ""
+  },
+  "nude": {
+    "is_in_vocabulary_bank": false,
+    "soundFile": "/data/sound/nosound.mp3",
+    "definition": ""
+  },
+  "kids": {
+    "is_in_vocabulary_bank": false,
+    "soundFile": "/data/sound/nosound.mp3",
+    "definition": ""
+  },
+  "finance": {
+    "is_in_vocabulary_bank": false,
+    "soundFile": "/data/sound/nosound.mp3",
+    "definition": ""
+  },
+  "true": {
+    "is_in_vocabulary_bank": false,
+    "soundFile": "/data/sound/nosound.mp3",
+    "definition": ""
+  },
+  "minutes": {
+    "is_in_vocabulary_bank": false,
+    "soundFile": "/data/sound/nosound.mp3",
+    "definition": ""
+  },
+  "else": {
+    "is_in_vocabulary_bank": false,
+    "soundFile": "/data/sound/nosound.mp3",
+    "definition": ""
+  },
+  "mark": {
+    "is_in_vocabulary_bank": false,
+    "soundFile": "/data/sound/nosound.mp3",
+    "definition": ""
+  },
+  "third": {
+    "is_in_vocabulary_bank": false,
+    "soundFile": "/data/sound/nosound.mp3",
+    "definition": ""
+  },
+  "rock": {
+    "is_in_vocabulary_bank": false,
+    "soundFile": "/data/sound/nosound.mp3",
+    "definition": ""
+  },
+  "gifts": {
+    "is_in_vocabulary_bank": false,
+    "soundFile": "/data/sound/nosound.mp3",
+    "definition": ""
+  },
+  "europe": {
+    "is_in_vocabulary_bank": false,
+    "soundFile": "/data/sound/nosound.mp3",
+    "definition": ""
+  },
+  "reading": {
+    "is_in_vocabulary_bank": false,
+    "soundFile": "/data/sound/nosound.mp3",
+    "definition": ""
+  },
+  "topics": {
+    "is_in_vocabulary_bank": false,
+    "soundFile": "/data/sound/nosound.mp3",
+    "definition": ""
+  },
+  "bad": {
+    "is_in_vocabulary_bank": false,
+    "soundFile": "/data/sound/nosound.mp3",
+    "definition": ""
+  },
+  "individual": {
+    "is_in_vocabulary_bank": false,
+    "soundFile": "/data/sound/nosound.mp3",
+    "definition": ""
+  },
+  "tips": {
+    "is_in_vocabulary_bank": false,
+    "soundFile": "/data/sound/nosound.mp3",
+    "definition": ""
+  },
+  "plus": {
+    "is_in_vocabulary_bank": false,
+    "soundFile": "/data/sound/nosound.mp3",
+    "definition": ""
+  },
+  "auto": {
+    "is_in_vocabulary_bank": false,
+    "soundFile": "/data/sound/nosound.mp3",
+    "definition": ""
+  },
+  "cover": {
+    "is_in_vocabulary_bank": false,
+    "soundFile": "/data/sound/nosound.mp3",
+    "definition": ""
+  },
+  "usually": {
+    "is_in_vocabulary_bank": false,
+    "soundFile": "/data/sound/nosound.mp3",
+    "definition": ""
+  },
+  "edit": {
+    "is_in_vocabulary_bank": false,
+    "soundFile": "/data/sound/nosound.mp3",
+    "definition": ""
+  },
+  "together": {
+    "is_in_vocabulary_bank": false,
+    "soundFile": "/data/sound/nosound.mp3",
+    "definition": ""
+  },
+  "videos": {
+    "is_in_vocabulary_bank": false,
+    "soundFile": "/data/sound/nosound.mp3",
+    "definition": ""
+  },
+  "percent": {
+    "is_in_vocabulary_bank": false,
+    "soundFile": "/data/sound/nosound.mp3",
+    "definition": ""
+  },
+  "fast": {
+    "is_in_vocabulary_bank": false,
+    "soundFile": "/data/sound/nosound.mp3",
+    "definition": ""
+  },
+  "function": {
+    "is_in_vocabulary_bank": false,
+    "soundFile": "/data/sound/nosound.mp3",
+    "definition": ""
+  },
+  "fact": {
+    "is_in_vocabulary_bank": false,
+    "soundFile": "/data/sound/nosound.mp3",
+    "definition": ""
+  },
+  "unit": {
+    "is_in_vocabulary_bank": false,
+    "soundFile": "/data/sound/nosound.mp3",
+    "definition": ""
+  },
+  "getting": {
+    "is_in_vocabulary_bank": false,
+    "soundFile": "/data/sound/nosound.mp3",
+    "definition": ""
+  },
+  "global": {
+    "is_in_vocabulary_bank": false,
+    "soundFile": "/data/sound/nosound.mp3",
+    "definition": ""
+  },
+  "tech": {
+    "is_in_vocabulary_bank": false,
+    "soundFile": "/data/sound/nosound.mp3",
+    "definition": ""
+  },
+  "meet": {
+    "is_in_vocabulary_bank": false,
+    "soundFile": "/data/sound/nosound.mp3",
+    "definition": ""
+  },
+  "far": {
+    "is_in_vocabulary_bank": false,
+    "soundFile": "/data/sound/nosound.mp3",
+    "definition": ""
+  },
+  "economic": {
+    "is_in_vocabulary_bank": false,
+    "soundFile": "/data/sound/nosound.mp3",
+    "definition": ""
+  },
+  "en": {
+    "is_in_vocabulary_bank": false,
+    "soundFile": "/data/sound/nosound.mp3",
+    "definition": ""
+  },
+  "player": {
+    "is_in_vocabulary_bank": false,
+    "soundFile": "/data/sound/nosound.mp3",
+    "definition": ""
+  },
+  "projects": {
+    "is_in_vocabulary_bank": false,
+    "soundFile": "/data/sound/nosound.mp3",
+    "definition": ""
+  },
+  "0000000000": {
+    "is_in_vocabulary_bank": false,
+    "soundFile": "/data/sound/nosound.mp3",
+    "definition": ""
+  },
+  "lyrics": {
+    "is_in_vocabulary_bank": false,
+    "soundFile": "/data/sound/nosound.mp3",
+    "definition": ""
+  },
+  "often": {
+    "is_in_vocabulary_bank": false,
+    "soundFile": "/data/sound/nosound.mp3",
+    "definition": ""
+  },
+  "subscribe": {
+    "is_in_vocabulary_bank": false,
+    "soundFile": "/data/sound/nosound.mp3",
+    "definition": ""
+  },
+  "submit": {
+    "is_in_vocabulary_bank": false,
+    "soundFile": "/data/sound/nosound.mp3",
+    "definition": ""
+  },
+  "germany": {
+    "is_in_vocabulary_bank": false,
+    "soundFile": "/data/sound/nosound.mp3",
+    "definition": ""
+  },
+  "amount": {
+    "is_in_vocabulary_bank": false,
+    "soundFile": "/data/sound/nosound.mp3",
+    "definition": ""
+  },
+  "watch": {
+    "is_in_vocabulary_bank": false,
+    "soundFile": "/data/sound/nosound.mp3",
+    "definition": ""
+  },
+  "included": {
+    "is_in_vocabulary_bank": false,
+    "soundFile": "/data/sound/nosound.mp3",
+    "definition": ""
+  },
+  "feel": {
+    "is_in_vocabulary_bank": false,
+    "soundFile": "/data/sound/nosound.mp3",
+    "definition": ""
+  },
+  "though": {
+    "is_in_vocabulary_bank": false,
+    "soundFile": "/data/sound/nosound.mp3",
+    "definition": ""
+  },
+  "bank": {
+    "is_in_vocabulary_bank": false,
+    "soundFile": "/data/sound/nosound.mp3",
+    "definition": ""
+  },
+  "risk": {
+    "is_in_vocabulary_bank": false,
+    "soundFile": "/data/sound/nosound.mp3",
+    "definition": ""
+  },
+  "thanks": {
+    "is_in_vocabulary_bank": false,
+    "soundFile": "/data/sound/nosound.mp3",
+    "definition": ""
+  },
+  "everything": {
+    "is_in_vocabulary_bank": false,
+    "soundFile": "/data/sound/nosound.mp3",
+    "definition": ""
+  },
+  "deals": {
+    "is_in_vocabulary_bank": false,
+    "soundFile": "/data/sound/nosound.mp3",
+    "definition": ""
+  },
+  "various": {
+    "is_in_vocabulary_bank": false,
+    "soundFile": "/data/sound/nosound.mp3",
+    "definition": ""
+  },
+  "words": {
+    "is_in_vocabulary_bank": false,
+    "soundFile": "/data/sound/nosound.mp3",
+    "definition": ""
+  },
+  "linux": {
+    "is_in_vocabulary_bank": false,
+    "soundFile": "/data/sound/nosound.mp3",
+    "definition": ""
+  },
+  "jul": {
+    "is_in_vocabulary_bank": false,
+    "soundFile": "/data/sound/nosound.mp3",
+    "definition": ""
+  },
+  "production": {
+    "is_in_vocabulary_bank": false,
+    "soundFile": "/data/sound/nosound.mp3",
+    "definition": ""
+  },
+  "commercial": {
+    "is_in_vocabulary_bank": false,
+    "soundFile": "/data/sound/nosound.mp3",
+    "definition": ""
+  },
+  "james": {
+    "is_in_vocabulary_bank": false,
+    "soundFile": "/data/sound/nosound.mp3",
+    "definition": ""
+  },
+  "weight": {
+    "is_in_vocabulary_bank": false,
+    "soundFile": "/data/sound/nosound.mp3",
+    "definition": ""
+  },
+  "town": {
+    "is_in_vocabulary_bank": false,
+    "soundFile": "/data/sound/nosound.mp3",
+    "definition": ""
+  },
+  "heart": {
+    "is_in_vocabulary_bank": false,
+    "soundFile": "/data/sound/nosound.mp3",
+    "definition": ""
+  },
+  "advertising": {
+    "is_in_vocabulary_bank": false,
+    "soundFile": "/data/sound/nosound.mp3",
+    "definition": ""
+  },
+  "received": {
+    "is_in_vocabulary_bank": false,
+    "soundFile": "/data/sound/nosound.mp3",
+    "definition": ""
+  },
+  "choose": {
+    "is_in_vocabulary_bank": false,
+    "soundFile": "/data/sound/nosound.mp3",
+    "definition": ""
+  },
+  "treatment": {
+    "is_in_vocabulary_bank": false,
+    "soundFile": "/data/sound/nosound.mp3",
+    "definition": ""
+  },
+  "newsletter": {
+    "is_in_vocabulary_bank": false,
+    "soundFile": "/data/sound/nosound.mp3",
+    "definition": ""
+  },
+  "archives": {
+    "is_in_vocabulary_bank": false,
+    "soundFile": "/data/sound/nosound.mp3",
+    "definition": ""
+  },
+  "points": {
+    "is_in_vocabulary_bank": false,
+    "soundFile": "/data/sound/nosound.mp3",
+    "definition": ""
+  },
+  "knowledge": {
+    "is_in_vocabulary_bank": false,
+    "soundFile": "/data/sound/nosound.mp3",
+    "definition": ""
+  },
+  "magazine": {
+    "is_in_vocabulary_bank": false,
+    "soundFile": "/data/sound/nosound.mp3",
+    "definition": ""
+  },
+  "error": {
+    "is_in_vocabulary_bank": false,
+    "soundFile": "/data/sound/nosound.mp3",
+    "definition": ""
+  },
+  "camera": {
+    "is_in_vocabulary_bank": false,
+    "soundFile": "/data/sound/nosound.mp3",
+    "definition": ""
+  },
+  "jun": {
+    "is_in_vocabulary_bank": false,
+    "soundFile": "/data/sound/nosound.mp3",
+    "definition": ""
+  },
+  "girl": {
+    "is_in_vocabulary_bank": false,
+    "soundFile": "/data/sound/nosound.mp3",
+    "definition": ""
+  },
+  "currently": {
+    "is_in_vocabulary_bank": false,
+    "soundFile": "/data/sound/nosound.mp3",
+    "definition": ""
+  },
+  "construction": {
+    "is_in_vocabulary_bank": false,
+    "soundFile": "/data/sound/nosound.mp3",
+    "definition": ""
+  },
+  "toys": {
+    "is_in_vocabulary_bank": false,
+    "soundFile": "/data/sound/nosound.mp3",
+    "definition": ""
+  },
+  "registered": {
+    "is_in_vocabulary_bank": false,
+    "soundFile": "/data/sound/nosound.mp3",
+    "definition": ""
+  },
+  "clear": {
+    "is_in_vocabulary_bank": false,
+    "soundFile": "/data/sound/nosound.mp3",
+    "definition": ""
+  },
+  "golf": {
+    "is_in_vocabulary_bank": false,
+    "soundFile": "/data/sound/nosound.mp3",
+    "definition": ""
+  },
+  "receive": {
+    "is_in_vocabulary_bank": false,
+    "soundFile": "/data/sound/nosound.mp3",
+    "definition": ""
+  },
+  "domain": {
+    "is_in_vocabulary_bank": false,
+    "soundFile": "/data/sound/nosound.mp3",
+    "definition": ""
+  },
+  "methods": {
+    "is_in_vocabulary_bank": false,
+    "soundFile": "/data/sound/nosound.mp3",
+    "definition": ""
+  },
+  "chapter": {
+    "is_in_vocabulary_bank": false,
+    "soundFile": "/data/sound/nosound.mp3",
+    "definition": ""
+  },
+  "makes": {
+    "is_in_vocabulary_bank": false,
+    "soundFile": "/data/sound/nosound.mp3",
+    "definition": ""
+  },
+  "protection": {
+    "is_in_vocabulary_bank": false,
+    "soundFile": "/data/sound/nosound.mp3",
+    "definition": ""
+  },
+  "policies": {
+    "is_in_vocabulary_bank": false,
+    "soundFile": "/data/sound/nosound.mp3",
+    "definition": ""
+  },
+  "loan": {
+    "is_in_vocabulary_bank": false,
+    "soundFile": "/data/sound/nosound.mp3",
+    "definition": ""
+  },
+  "wide": {
+    "is_in_vocabulary_bank": false,
+    "soundFile": "/data/sound/nosound.mp3",
+    "definition": ""
+  },
+  "beauty": {
+    "is_in_vocabulary_bank": false,
+    "soundFile": "/data/sound/nosound.mp3",
+    "definition": ""
+  },
+  "manager": {
+    "is_in_vocabulary_bank": false,
+    "soundFile": "/data/sound/nosound.mp3",
+    "definition": ""
+  },
+  "india": {
+    "is_in_vocabulary_bank": false,
+    "soundFile": "/data/sound/nosound.mp3",
+    "definition": ""
+  },
+  "position": {
+    "is_in_vocabulary_bank": false,
+    "soundFile": "/data/sound/nosound.mp3",
+    "definition": ""
+  },
+  "taken": {
+    "is_in_vocabulary_bank": false,
+    "soundFile": "/data/sound/nosound.mp3",
+    "definition": ""
+  },
+  "sort": {
+    "is_in_vocabulary_bank": false,
+    "soundFile": "/data/sound/nosound.mp3",
+    "definition": ""
+  },
+  "listings": {
+    "is_in_vocabulary_bank": false,
+    "soundFile": "/data/sound/nosound.mp3",
+    "definition": ""
+  },
+  "models": {
+    "is_in_vocabulary_bank": false,
+    "soundFile": "/data/sound/nosound.mp3",
+    "definition": ""
+  },
+  "michael": {
+    "is_in_vocabulary_bank": false,
+    "soundFile": "/data/sound/nosound.mp3",
+    "definition": ""
+  },
+  "known": {
+    "is_in_vocabulary_bank": false,
+    "soundFile": "/data/sound/nosound.mp3",
+    "definition": ""
+  },
+  "half": {
+    "is_in_vocabulary_bank": false,
+    "soundFile": "/data/sound/nosound.mp3",
+    "definition": ""
+  },
+  "cases": {
+    "is_in_vocabulary_bank": false,
+    "soundFile": "/data/sound/nosound.mp3",
+    "definition": ""
+  },
+  "step": {
+    "is_in_vocabulary_bank": false,
+    "soundFile": "/data/sound/nosound.mp3",
+    "definition": ""
+  },
+  "engineering": {
+    "is_in_vocabulary_bank": false,
+    "soundFile": "/data/sound/nosound.mp3",
+    "definition": ""
+  },
+  "florida": {
+    "is_in_vocabulary_bank": false,
+    "soundFile": "/data/sound/nosound.mp3",
+    "definition": ""
+  },
+  "simple": {
+    "is_in_vocabulary_bank": false,
+    "soundFile": "/data/sound/nosound.mp3",
+    "definition": ""
+  },
+  "quick": {
+    "is_in_vocabulary_bank": false,
+    "soundFile": "/data/sound/nosound.mp3",
+    "definition": ""
+  },
+  "none": {
+    "is_in_vocabulary_bank": false,
+    "soundFile": "/data/sound/nosound.mp3",
+    "definition": ""
+  },
+  "wireless": {
+    "is_in_vocabulary_bank": false,
+    "soundFile": "/data/sound/nosound.mp3",
+    "definition": ""
+  },
+  "license": {
+    "is_in_vocabulary_bank": false,
+    "soundFile": "/data/sound/nosound.mp3",
+    "definition": ""
+  },
+  "paul": {
+    "is_in_vocabulary_bank": false,
+    "soundFile": "/data/sound/nosound.mp3",
+    "definition": ""
+  },
+  "friday": {
+    "is_in_vocabulary_bank": false,
+    "soundFile": "/data/sound/nosound.mp3",
+    "definition": ""
+  },
+  "lake": {
+    "is_in_vocabulary_bank": false,
+    "soundFile": "/data/sound/nosound.mp3",
+    "definition": ""
+  },
+  "whole": {
+    "is_in_vocabulary_bank": false,
+    "soundFile": "/data/sound/nosound.mp3",
+    "definition": ""
+  },
+  "annual": {
+    "is_in_vocabulary_bank": false,
+    "soundFile": "/data/sound/nosound.mp3",
+    "definition": ""
+  },
+  "published": {
+    "is_in_vocabulary_bank": false,
+    "soundFile": "/data/sound/nosound.mp3",
+    "definition": ""
+  },
+  "later": {
+    "is_in_vocabulary_bank": false,
+    "soundFile": "/data/sound/nosound.mp3",
+    "definition": ""
+  },
+  "basic": {
+    "is_in_vocabulary_bank": false,
+    "soundFile": "/data/sound/nosound.mp3",
+    "definition": ""
+  },
+  "sony": {
+    "is_in_vocabulary_bank": false,
+    "soundFile": "/data/sound/nosound.mp3",
+    "definition": ""
+  },
+  "shows": {
+    "is_in_vocabulary_bank": false,
+    "soundFile": "/data/sound/nosound.mp3",
+    "definition": ""
+  },
+  "corporate": {
+    "is_in_vocabulary_bank": false,
+    "soundFile": "/data/sound/nosound.mp3",
+    "definition": ""
+  },
+  "google": {
+    "is_in_vocabulary_bank": false,
+    "soundFile": "/data/sound/nosound.mp3",
+    "definition": ""
+  },
+  "church": {
+    "is_in_vocabulary_bank": false,
+    "soundFile": "/data/sound/nosound.mp3",
+    "definition": ""
+  },
+  "method": {
+    "is_in_vocabulary_bank": false,
+    "soundFile": "/data/sound/nosound.mp3",
+    "definition": ""
+  },
+  "purchase": {
+    "is_in_vocabulary_bank": false,
+    "soundFile": "/data/sound/nosound.mp3",
+    "definition": ""
+  },
+  "customers": {
+    "is_in_vocabulary_bank": false,
+    "soundFile": "/data/sound/nosound.mp3",
+    "definition": ""
+  },
+  "active": {
+    "is_in_vocabulary_bank": false,
+    "soundFile": "/data/sound/nosound.mp3",
+    "definition": ""
+  },
+  "response": {
+    "is_in_vocabulary_bank": false,
+    "soundFile": "/data/sound/nosound.mp3",
+    "definition": ""
+  },
+  "practice": {
+    "is_in_vocabulary_bank": false,
+    "soundFile": "/data/sound/nosound.mp3",
+    "definition": ""
+  },
+  "hardware": {
+    "is_in_vocabulary_bank": false,
+    "soundFile": "/data/sound/nosound.mp3",
+    "definition": ""
+  },
+  "figure": {
+    "is_in_vocabulary_bank": false,
+    "soundFile": "/data/sound/nosound.mp3",
+    "definition": ""
+  },
+  "materials": {
+    "is_in_vocabulary_bank": false,
+    "soundFile": "/data/sound/nosound.mp3",
+    "definition": ""
+  },
+  "fire": {
+    "is_in_vocabulary_bank": false,
+    "soundFile": "/data/sound/nosound.mp3",
+    "definition": ""
+  },
+  "holiday": {
+    "is_in_vocabulary_bank": false,
+    "soundFile": "/data/sound/nosound.mp3",
+    "definition": ""
+  },
+  "chat": {
+    "is_in_vocabulary_bank": false,
+    "soundFile": "/data/sound/nosound.mp3",
+    "definition": ""
+  },
+  "enough": {
+    "is_in_vocabulary_bank": false,
+    "soundFile": "/data/sound/nosound.mp3",
+    "definition": ""
+  },
+  "designed": {
+    "is_in_vocabulary_bank": false,
+    "soundFile": "/data/sound/nosound.mp3",
+    "definition": ""
+  },
+  "along": {
+    "is_in_vocabulary_bank": false,
+    "soundFile": "/data/sound/nosound.mp3",
+    "definition": ""
+  },
+  "among": {
+    "is_in_vocabulary_bank": false,
+    "soundFile": "/data/sound/nosound.mp3",
+    "definition": ""
+  },
+  "death": {
+    "is_in_vocabulary_bank": false,
+    "soundFile": "/data/sound/nosound.mp3",
+    "definition": ""
+  },
+  "writing": {
+    "is_in_vocabulary_bank": false,
+    "soundFile": "/data/sound/nosound.mp3",
+    "definition": ""
+  },
+  "speed": {
+    "is_in_vocabulary_bank": false,
+    "soundFile": "/data/sound/nosound.mp3",
+    "definition": ""
+  },
+  "html": {
+    "is_in_vocabulary_bank": false,
+    "soundFile": "/data/sound/nosound.mp3",
+    "definition": ""
+  },
+  "countries": {
+    "is_in_vocabulary_bank": false,
+    "soundFile": "/data/sound/nosound.mp3",
+    "definition": ""
+  },
+  "loss": {
+    "is_in_vocabulary_bank": false,
+    "soundFile": "/data/sound/nosound.mp3",
+    "definition": ""
+  },
+  "face": {
+    "is_in_vocabulary_bank": false,
+    "soundFile": "/data/sound/nosound.mp3",
+    "definition": ""
+  },
+  "brand": {
+    "is_in_vocabulary_bank": false,
+    "soundFile": "/data/sound/nosound.mp3",
+    "definition": ""
+  },
+  "discount": {
+    "is_in_vocabulary_bank": false,
+    "soundFile": "/data/sound/nosound.mp3",
+    "definition": ""
+  },
+  "higher": {
+    "is_in_vocabulary_bank": false,
+    "soundFile": "/data/sound/nosound.mp3",
+    "definition": ""
+  },
+  "effects": {
+    "is_in_vocabulary_bank": false,
+    "soundFile": "/data/sound/nosound.mp3",
+    "definition": ""
+  },
+  "created": {
+    "is_in_vocabulary_bank": false,
+    "soundFile": "/data/sound/nosound.mp3",
+    "definition": ""
+  },
+  "remember": {
+    "is_in_vocabulary_bank": false,
+    "soundFile": "/data/sound/nosound.mp3",
+    "definition": ""
+  },
+  "standards": {
+    "is_in_vocabulary_bank": false,
+    "soundFile": "/data/sound/nosound.mp3",
+    "definition": ""
+  },
+  "oil": {
+    "is_in_vocabulary_bank": false,
+    "soundFile": "/data/sound/nosound.mp3",
+    "definition": ""
+  },
+  "bit": {
+    "is_in_vocabulary_bank": false,
+    "soundFile": "/data/sound/nosound.mp3",
+    "definition": ""
+  },
+  "yellow": {
+    "is_in_vocabulary_bank": false,
+    "soundFile": "/data/sound/nosound.mp3",
+    "definition": ""
+  },
+  "political": {
+    "is_in_vocabulary_bank": false,
+    "soundFile": "/data/sound/nosound.mp3",
+    "definition": ""
+  },
+  "increase": {
+    "is_in_vocabulary_bank": false,
+    "soundFile": "/data/sound/nosound.mp3",
+    "definition": ""
+  },
+  "advertise": {
+    "is_in_vocabulary_bank": false,
+    "soundFile": "/data/sound/nosound.mp3",
+    "definition": ""
+  },
+  "kingdom": {
+    "is_in_vocabulary_bank": false,
+    "soundFile": "/data/sound/nosound.mp3",
+    "definition": ""
+  },
+  "base": {
+    "is_in_vocabulary_bank": false,
+    "soundFile": "/data/sound/nosound.mp3",
+    "definition": ""
+  },
+  "near": {
+    "is_in_vocabulary_bank": false,
+    "soundFile": "/data/sound/nosound.mp3",
+    "definition": ""
+  },
+  "environmental": {
+    "is_in_vocabulary_bank": false,
+    "soundFile": "/data/sound/nosound.mp3",
+    "definition": ""
+  },
+  "thought": {
+    "is_in_vocabulary_bank": false,
+    "soundFile": "/data/sound/nosound.mp3",
+    "definition": ""
+  },
+  "stuff": {
+    "is_in_vocabulary_bank": false,
+    "soundFile": "/data/sound/nosound.mp3",
+    "definition": ""
+  },
+  "french": {
+    "is_in_vocabulary_bank": false,
+    "soundFile": "/data/sound/nosound.mp3",
+    "definition": ""
+  },
+  "storage": {
+    "is_in_vocabulary_bank": false,
+    "soundFile": "/data/sound/nosound.mp3",
+    "definition": ""
+  },
+  "oh": {
+    "is_in_vocabulary_bank": false,
+    "soundFile": "/data/sound/nosound.mp3",
+    "definition": ""
+  },
+  "japan": {
+    "is_in_vocabulary_bank": false,
+    "soundFile": "/data/sound/nosound.mp3",
+    "definition": ""
+  },
+  "doing": {
+    "is_in_vocabulary_bank": false,
+    "soundFile": "/data/sound/nosound.mp3",
+    "definition": ""
+  },
+  "loans": {
+    "is_in_vocabulary_bank": false,
+    "soundFile": "/data/sound/nosound.mp3",
+    "definition": ""
+  },
+  "shoes": {
+    "is_in_vocabulary_bank": false,
+    "soundFile": "/data/sound/nosound.mp3",
+    "definition": ""
+  },
+  "entry": {
+    "is_in_vocabulary_bank": false,
+    "soundFile": "/data/sound/nosound.mp3",
+    "definition": ""
+  },
+  "stay": {
+    "is_in_vocabulary_bank": false,
+    "soundFile": "/data/sound/nosound.mp3",
+    "definition": ""
+  },
+  "nature": {
+    "is_in_vocabulary_bank": false,
+    "soundFile": "/data/sound/nosound.mp3",
+    "definition": ""
+  },
+  "orders": {
+    "is_in_vocabulary_bank": false,
+    "soundFile": "/data/sound/nosound.mp3",
+    "definition": ""
+  },
+  "availability": {
+    "is_in_vocabulary_bank": false,
+    "soundFile": "/data/sound/nosound.mp3",
+    "definition": ""
+  },
+  "africa": {
+    "is_in_vocabulary_bank": false,
+    "soundFile": "/data/sound/nosound.mp3",
+    "definition": ""
+  },
+  "summary": {
+    "is_in_vocabulary_bank": false,
+    "soundFile": "/data/sound/nosound.mp3",
+    "definition": ""
+  },
+  "turn": {
+    "is_in_vocabulary_bank": false,
+    "soundFile": "/data/sound/nosound.mp3",
+    "definition": ""
+  },
+  "mean": {
+    "is_in_vocabulary_bank": false,
+    "soundFile": "/data/sound/nosound.mp3",
+    "definition": ""
+  },
+  "growth": {
+    "is_in_vocabulary_bank": false,
+    "soundFile": "/data/sound/nosound.mp3",
+    "definition": ""
+  },
+  "notes": {
+    "is_in_vocabulary_bank": false,
+    "soundFile": "/data/sound/nosound.mp3",
+    "definition": ""
+  },
+  "agency": {
+    "is_in_vocabulary_bank": false,
+    "soundFile": "/data/sound/nosound.mp3",
+    "definition": ""
+  },
+  "king": {
+    "is_in_vocabulary_bank": false,
+    "soundFile": "/data/sound/nosound.mp3",
+    "definition": ""
+  },
+  "monday": {
+    "is_in_vocabulary_bank": false,
+    "soundFile": "/data/sound/nosound.mp3",
+    "definition": ""
+  },
+  "european": {
+    "is_in_vocabulary_bank": false,
+    "soundFile": "/data/sound/nosound.mp3",
+    "definition": ""
+  },
+  "activity": {
+    "is_in_vocabulary_bank": false,
+    "soundFile": "/data/sound/nosound.mp3",
+    "definition": ""
+  },
+  "copy": {
+    "is_in_vocabulary_bank": false,
+    "soundFile": "/data/sound/nosound.mp3",
+    "definition": ""
+  },
+  "although": {
+    "is_in_vocabulary_bank": false,
+    "soundFile": "/data/sound/nosound.mp3",
+    "definition": ""
+  },
+  "drug": {
+    "is_in_vocabulary_bank": false,
+    "soundFile": "/data/sound/nosound.mp3",
+    "definition": ""
+  },
+  "pics": {
+    "is_in_vocabulary_bank": false,
+    "soundFile": "/data/sound/nosound.mp3",
+    "definition": ""
+  },
+  "western": {
+    "is_in_vocabulary_bank": false,
+    "soundFile": "/data/sound/nosound.mp3",
+    "definition": ""
+  },
+  "income": {
+    "is_in_vocabulary_bank": false,
+    "soundFile": "/data/sound/nosound.mp3",
+    "definition": ""
+  },
+  "force": {
+    "is_in_vocabulary_bank": false,
+    "soundFile": "/data/sound/nosound.mp3",
+    "definition": ""
+  },
+  "cash": {
+    "is_in_vocabulary_bank": false,
+    "soundFile": "/data/sound/nosound.mp3",
+    "definition": ""
+  },
+  "employment": {
+    "is_in_vocabulary_bank": false,
+    "soundFile": "/data/sound/nosound.mp3",
+    "definition": ""
+  },
+  "overall": {
+    "is_in_vocabulary_bank": false,
+    "soundFile": "/data/sound/nosound.mp3",
+    "definition": ""
+  }
+}

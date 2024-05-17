@@ -1,12 +1,14 @@
 {
   "version": "0.8.6",
-  "fileCount": 10,
-  "files": [
-    {
-      "name": "data1.json",
-      "hash": "sha256-hash-of-the-file",
-      "size": 4521,
-      "lastUpdated": "2024-05-16T10:00:00Z"
+  "folder_count": 10,
+  "folders_metadata": {
+    "most_1000_common": {
+      "folder_title": "The 1000 Most Common Words In English",
+      "words_count": 1000
+    },
+    "test": {
+      "folder_title": "Some English Words",
+      "words_count": 6
     }
-  ]
+  }
 }
