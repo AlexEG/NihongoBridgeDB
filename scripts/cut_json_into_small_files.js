@@ -17,9 +17,8 @@ readfile().then((data) => {
 
   for (const [word, wordInfo] of Object.entries(data)) {
     // console.log("word:", word, wordInfo);
-    const content = {};
-    content[word] = wordInfo;
-    writeFile(`./english/all_vocabulary/${word}.json`, content);
+    const content = wordInfo;
+    writeFile(`./english/all_vocabulary2/${word}.json`, content);
   }
 });
 
