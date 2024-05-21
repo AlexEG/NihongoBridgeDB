@@ -1,0 +1,10 @@
+{
+  "most_1000_common": {
+    "folder_title": "The 1000 Most Common Words In English",
+    "words_count": 1000
+  },
+  "test": {
+    "folder_title": "Some English Words",
+    "words_count": 6
+  }
+}
