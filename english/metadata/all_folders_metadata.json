@@ -4,35 +4,35 @@
     "words_count": 999
   },
   "monkeytype_english": {
-    "folder_title": "",
+    "folder_title": "MonkeyType English",
     "words_count": 200
   },
   "monkeytype_english_1k": {
-    "folder_title": "",
+    "folder_title": "MonkeyType English 1k",
     "words_count": 1000
   },
   "monkeytype_english_5k": {
-    "folder_title": "",
+    "folder_title": "MonkeyType English 5k",
     "words_count": 4957
   },
   "monkeytype_english_10k": {
-    "folder_title": "",
+    "folder_title": "MonkeyType English 10k",
     "words_count": 9947
   },
   "monkeytype_english_commonly_misspelled": {
-    "folder_title": "",
+    "folder_title": "MonkeyType English Commonly Misspelled",
     "words_count": 1733
   },
   "monkeytype_english_contractions": {
-    "folder_title": "",
+    "folder_title": "MonkeyType English Contractions",
     "words_count": 189
   },
   "monkeytype_english_doubleletter": {
-    "folder_title": "",
+    "folder_title": "MonkeyType English Doubleletter",
     "words_count": 202
   },
   "monkeytype_english_medical": {
-    "folder_title": "",
+    "folder_title": "MonkeyType English Medical",
     "words_count": 581
   }
 }
