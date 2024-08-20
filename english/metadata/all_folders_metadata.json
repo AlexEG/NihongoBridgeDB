@@ -1,10 +1,38 @@
 {
   "most_1000_common": {
     "folder_title": "The 1000 Most Common Words In English",
+    "words_count": 999
+  },
+  "monkeytype_english": {
+    "folder_title": "",
+    "words_count": 200
+  },
+  "monkeytype_english_1k": {
+    "folder_title": "",
     "words_count": 1000
   },
-  "test": {
-    "folder_title": "Some English Words",
-    "words_count": 6
+  "monkeytype_english_5k": {
+    "folder_title": "",
+    "words_count": 4957
+  },
+  "monkeytype_english_10k": {
+    "folder_title": "",
+    "words_count": 9947
+  },
+  "monkeytype_english_commonly_misspelled": {
+    "folder_title": "",
+    "words_count": 1733
+  },
+  "monkeytype_english_contractions": {
+    "folder_title": "",
+    "words_count": 189
+  },
+  "monkeytype_english_doubleletter": {
+    "folder_title": "",
+    "words_count": 202
+  },
+  "monkeytype_english_medical": {
+    "folder_title": "",
+    "words_count": 581
   }
 }

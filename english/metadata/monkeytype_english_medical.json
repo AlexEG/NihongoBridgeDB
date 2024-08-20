@@ -1,0 +1,2326 @@
+{
+  "incontinence": {
+    "is_audio_file_available": false,
+    "definition": "???"
+  },
+  "infarct": {
+    "is_audio_file_available": false,
+    "definition": "???"
+  },
+  "infestation": {
+    "is_audio_file_available": false,
+    "definition": "???"
+  },
+  "pathologist": {
+    "is_audio_file_available": false,
+    "definition": "???"
+  },
+  "inoculation": {
+    "is_audio_file_available": false,
+    "definition": "???"
+  },
+  "inotropic": {
+    "is_audio_file_available": false,
+    "definition": "???"
+  },
+  "insufficiency": {
+    "is_audio_file_available": false,
+    "definition": "???"
+  },
+  "intracranial": {
+    "is_audio_file_available": false,
+    "definition": "???"
+  },
+  "intraocular": {
+    "is_audio_file_available": false,
+    "definition": "???"
+  },
+  "jaundice": {
+    "is_audio_file_available": false,
+    "definition": "???"
+  },
+  "keratosis": {
+    "is_audio_file_available": false,
+    "definition": "???"
+  },
+  "ketosis": {
+    "is_audio_file_available": false,
+    "definition": "???"
+  },
+  "lacrimation": {
+    "is_audio_file_available": false,
+    "definition": "???"
+  },
+  "leukocytosis": {
+    "is_audio_file_available": false,
+    "definition": "???"
+  },
+  "lipid": {
+    "is_audio_file_available": false,
+    "definition": "???"
+  },
+  "lithiasis": {
+    "is_audio_file_available": false,
+    "definition": "???"
+  },
+  "lumen": {
+    "is_audio_file_available": false,
+    "definition": "???"
+  },
+  "lymphadenopathy": {
+    "is_audio_file_available": false,
+    "definition": "???"
+  },
+  "macrophage": {
+    "is_audio_file_available": false,
+    "definition": "???"
+  },
+  "malaise": {
+    "is_audio_file_available": false,
+    "definition": "???"
+  },
+  "gingivitis": {
+    "is_audio_file_available": false,
+    "definition": "???"
+  },
+  "glomerulus": {
+    "is_audio_file_available": false,
+    "definition": "???"
+  },
+  "glycogen": {
+    "is_audio_file_available": false,
+    "definition": "???"
+  },
+  "goiter": {
+    "is_audio_file_available": false,
+    "definition": "???"
+  },
+  "granuloma": {
+    "is_audio_file_available": false,
+    "definition": "???"
+  },
+  "hematuria": {
+    "is_audio_file_available": false,
+    "definition": "???"
+  },
+  "hemoptysis": {
+    "is_audio_file_available": false,
+    "definition": "???"
+  },
+  "chromosome": {
+    "is_audio_file_available": false,
+    "definition": "???"
+  },
+  "hemorrhoid": {
+    "is_audio_file_available": false,
+    "definition": "???"
+  },
+  "hepatocyte": {
+    "is_audio_file_available": false,
+    "definition": "???"
+  },
+  "herniation": {
+    "is_audio_file_available": false,
+    "definition": "???"
+  },
+  "histamine": {
+    "is_audio_file_available": false,
+    "definition": "???"
+  },
+  "hypercalcemia": {
+    "is_audio_file_available": false,
+    "definition": "???"
+  },
+  "hyperglycemia": {
+    "is_audio_file_available": false,
+    "definition": "???"
+  },
+  "radiology": {
+    "is_audio_file_available": false,
+    "definition": "???"
+  },
+  "hypertonic": {
+    "is_audio_file_available": false,
+    "definition": "???"
+  },
+  "radiologist": {
+    "is_audio_file_available": false,
+    "definition": "???"
+  },
+  "hypoglycemia": {
+    "is_audio_file_available": false,
+    "definition": "???"
+  },
+  "hypotonic": {
+    "is_audio_file_available": false,
+    "definition": "???"
+  },
+  "ileocecal": {
+    "is_audio_file_available": false,
+    "definition": "???"
+  },
+  "immunoglobulin": {
+    "is_audio_file_available": false,
+    "definition": "???"
+  },
+  "malocclusion": {
+    "is_audio_file_available": false,
+    "definition": "???"
+  },
+  "mastitis": {
+    "is_audio_file_available": false,
+    "definition": "???"
+  },
+  "meconium": {
+    "is_audio_file_available": false,
+    "definition": "???"
+  },
+  "meningitis": {
+    "is_audio_file_available": false,
+    "definition": "???"
+  },
+  "menopause": {
+    "is_audio_file_available": false,
+    "definition": "???"
+  },
+  "metastasize": {
+    "is_audio_file_available": false,
+    "definition": "???"
+  },
+  "metatarsalgia": {
+    "is_audio_file_available": false,
+    "definition": "???"
+  },
+  "microbe": {
+    "is_audio_file_available": false,
+    "definition": "???"
+  },
+  "microcyte": {
+    "is_audio_file_available": false,
+    "definition": "???"
+  },
+  "microorganism": {
+    "is_audio_file_available": false,
+    "definition": "???"
+  },
+  "meiosis": {
+    "is_audio_file_available": false,
+    "definition": "???"
+  },
+  "mitosis": {
+    "is_audio_file_available": false,
+    "definition": "???"
+  },
+  "karyotype": {
+    "is_audio_file_available": false,
+    "definition": "???"
+  },
+  "myelin": {
+    "is_audio_file_available": false,
+    "definition": "???"
+  },
+  "myocardium": {
+    "is_audio_file_available": false,
+    "definition": "???"
+  },
+  "myositis": {
+    "is_audio_file_available": false,
+    "definition": "???"
+  },
+  "nasogastric": {
+    "is_audio_file_available": false,
+    "definition": "???"
+  },
+  "nephrolithiasis": {
+    "is_audio_file_available": false,
+    "definition": "???"
+  },
+  "nerve fiber": {
+    "is_audio_file_available": false,
+    "definition": "???"
+  },
+  "analgesic": {
+    "is_audio_file_available": false,
+    "definition": "???"
+  },
+  "nocturia": {
+    "is_audio_file_available": false,
+    "definition": "???"
+  },
+  "nodule": {
+    "is_audio_file_available": false,
+    "definition": "???"
+  },
+  "norepinephrine": {
+    "is_audio_file_available": false,
+    "definition": "???"
+  },
+  "normotensive": {
+    "is_audio_file_available": false,
+    "definition": "???"
+  },
+  "nosocomial": {
+    "is_audio_file_available": false,
+    "definition": "???"
+  },
+  "nuchal": {
+    "is_audio_file_available": false,
+    "definition": "???"
+  },
+  "obstruction": {
+    "is_audio_file_available": false,
+    "definition": "???"
+  },
+  "occipital": {
+    "is_audio_file_available": false,
+    "definition": "???"
+  },
+  "oncology": {
+    "is_audio_file_available": false,
+    "definition": "???"
+  },
+  "oophorectomy": {
+    "is_audio_file_available": false,
+    "definition": "???"
+  },
+  "ophthalmologist": {
+    "is_audio_file_available": false,
+    "definition": "???"
+  },
+  "antidiuretic": {
+    "is_audio_file_available": false,
+    "definition": "???"
+  },
+  "osmolarity": {
+    "is_audio_file_available": false,
+    "definition": "???"
+  },
+  "osteocyte": {
+    "is_audio_file_available": false,
+    "definition": "???"
+  },
+  "otitis media": {
+    "is_audio_file_available": false,
+    "definition": "???"
+  },
+  "vans deferens": {
+    "is_audio_file_available": false,
+    "definition": "???"
+  },
+  "pallor": {
+    "is_audio_file_available": false,
+    "definition": "???"
+  },
+  "pancreas": {
+    "is_audio_file_available": false,
+    "definition": "???"
+  },
+  "papule": {
+    "is_audio_file_available": false,
+    "definition": "???"
+  },
+  "paralysis": {
+    "is_audio_file_available": false,
+    "definition": "???"
+  },
+  "parasympathetic": {
+    "is_audio_file_available": false,
+    "definition": "???"
+  },
+  "thyroxine": {
+    "is_audio_file_available": false,
+    "definition": "???"
+  },
+  "paroxysmal": {
+    "is_audio_file_available": false,
+    "definition": "???"
+  },
+  "pathogenic": {
+    "is_audio_file_available": false,
+    "definition": "???"
+  },
+  "pathology": {
+    "is_audio_file_available": false,
+    "definition": "???"
+  },
+  "pelvis": {
+    "is_audio_file_available": false,
+    "definition": "???"
+  },
+  "fracture": {
+    "is_audio_file_available": false,
+    "definition": "???"
+  },
+  "perinatal": {
+    "is_audio_file_available": false,
+    "definition": "???"
+  },
+  "greenstick": {
+    "is_audio_file_available": false,
+    "definition": "???"
+  },
+  "peristalsis": {
+    "is_audio_file_available": false,
+    "definition": "???"
+  },
+  "peritoneal": {
+    "is_audio_file_available": false,
+    "definition": "???"
+  },
+  "peritonitis": {
+    "is_audio_file_available": false,
+    "definition": "???"
+  },
+  "pharynx": {
+    "is_audio_file_available": false,
+    "definition": "???"
+  },
+  "photophobia": {
+    "is_audio_file_available": false,
+    "definition": "???"
+  },
+  "pleuritis": {
+    "is_audio_file_available": false,
+    "definition": "???"
+  },
+  "surgery": {
+    "is_audio_file_available": false,
+    "definition": "???"
+  },
+  "polyphagia": {
+    "is_audio_file_available": false,
+    "definition": "???"
+  },
+  "comminuted": {
+    "is_audio_file_available": false,
+    "definition": "???"
+  },
+  "surgeon": {
+    "is_audio_file_available": false,
+    "definition": "???"
+  },
+  "compression": {
+    "is_audio_file_available": false,
+    "definition": "???"
+  },
+  "pseudomembrane": {
+    "is_audio_file_available": false,
+    "definition": "???"
+  },
+  "pseudostrabismus": {
+    "is_audio_file_available": false,
+    "definition": "???"
+  },
+  "purulent": {
+    "is_audio_file_available": false,
+    "definition": "???"
+  },
+  "fever": {
+    "is_audio_file_available": false,
+    "definition": "???"
+  },
+  "displaced": {
+    "is_audio_file_available": false,
+    "definition": "???"
+  },
+  "rale": {
+    "is_audio_file_available": false,
+    "definition": "???"
+  },
+  "reflux": {
+    "is_audio_file_available": false,
+    "definition": "???"
+  },
+  "remission": {
+    "is_audio_file_available": false,
+    "definition": "???"
+  },
+  "renal colic": {
+    "is_audio_file_available": false,
+    "definition": "???"
+  },
+  "nondisplaced": {
+    "is_audio_file_available": false,
+    "definition": "???"
+  },
+  "retraction": {
+    "is_audio_file_available": false,
+    "definition": "???"
+  },
+  "retina": {
+    "is_audio_file_available": false,
+    "definition": "???"
+  },
+  "erythrocyte": {
+    "is_audio_file_available": false,
+    "definition": "???"
+  },
+  "rhonchi": {
+    "is_audio_file_available": false,
+    "definition": "???"
+  },
+  "granulocyte": {
+    "is_audio_file_available": false,
+    "definition": "???"
+  },
+  "secretion": {
+    "is_audio_file_available": false,
+    "definition": "???"
+  },
+  "neutrophil": {
+    "is_audio_file_available": false,
+    "definition": "???"
+  },
+  "septicemia": {
+    "is_audio_file_available": false,
+    "definition": "???"
+  },
+  "serotonin": {
+    "is_audio_file_available": false,
+    "definition": "???"
+  },
+  "shock": {
+    "is_audio_file_available": false,
+    "definition": "???"
+  },
+  "sinus": {
+    "is_audio_file_available": false,
+    "definition": "???"
+  },
+  "sphygmomanometer": {
+    "is_audio_file_available": false,
+    "definition": "???"
+  },
+  "spina bifida": {
+    "is_audio_file_available": false,
+    "definition": "???"
+  },
+  "mucus": {
+    "is_audio_file_available": false,
+    "definition": "???"
+  },
+  "hallucinogen": {
+    "is_audio_file_available": false,
+    "definition": "???"
+  },
+  "stenotic": {
+    "is_audio_file_available": false,
+    "definition": "???"
+  },
+  "stethoscope": {
+    "is_audio_file_available": false,
+    "definition": "???"
+  },
+  "inhalant": {
+    "is_audio_file_available": false,
+    "definition": "???"
+  },
+  "hallucination": {
+    "is_audio_file_available": false,
+    "definition": "???"
+  },
+  "strabismus": {
+    "is_audio_file_available": false,
+    "definition": "???"
+  },
+  "sublingual": {
+    "is_audio_file_available": false,
+    "definition": "???"
+  },
+  "subscapular": {
+    "is_audio_file_available": false,
+    "definition": "???"
+  },
+  "suppuration": {
+    "is_audio_file_available": false,
+    "definition": "???"
+  },
+  "ophthalmology": {
+    "is_audio_file_available": false,
+    "definition": "???"
+  },
+  "bradycardia": {
+    "is_audio_file_available": false,
+    "definition": "???"
+  },
+  "tenesmus": {
+    "is_audio_file_available": false,
+    "definition": "???"
+  },
+  "thalamus": {
+    "is_audio_file_available": false,
+    "definition": "???"
+  },
+  "thrombophlebitis": {
+    "is_audio_file_available": false,
+    "definition": "???"
+  },
+  "anesthetic": {
+    "is_audio_file_available": false,
+    "definition": "???"
+  },
+  "thymus": {
+    "is_audio_file_available": false,
+    "definition": "???"
+  },
+  "thyroid": {
+    "is_audio_file_available": false,
+    "definition": "???"
+  },
+  "stimulant": {
+    "is_audio_file_available": false,
+    "definition": "???"
+  },
+  "torsion": {
+    "is_audio_file_available": false,
+    "definition": "???"
+  },
+  "toxemia": {
+    "is_audio_file_available": false,
+    "definition": "???"
+  },
+  "tracheotomy": {
+    "is_audio_file_available": false,
+    "definition": "???"
+  },
+  "transdermal": {
+    "is_audio_file_available": false,
+    "definition": "???"
+  },
+  "transient": {
+    "is_audio_file_available": false,
+    "definition": "???"
+  },
+  "transplant": {
+    "is_audio_file_available": false,
+    "definition": "???"
+  },
+  "bicuspid": {
+    "is_audio_file_available": false,
+    "definition": "???"
+  },
+  "trocar": {
+    "is_audio_file_available": false,
+    "definition": "???"
+  },
+  "turgor": {
+    "is_audio_file_available": false,
+    "definition": "???"
+  },
+  "ulcerative": {
+    "is_audio_file_available": false,
+    "definition": "???"
+  },
+  "ulna": {
+    "is_audio_file_available": false,
+    "definition": "???"
+  },
+  "PET scan": {
+    "is_audio_file_available": false,
+    "definition": "???"
+  },
+  "urethra": {
+    "is_audio_file_available": false,
+    "definition": "???"
+  },
+  "urinary": {
+    "is_audio_file_available": false,
+    "definition": "???"
+  },
+  "urolithiasis": {
+    "is_audio_file_available": false,
+    "definition": "???"
+  },
+  "urticaria": {
+    "is_audio_file_available": false,
+    "definition": "???"
+  },
+  "CT scan": {
+    "is_audio_file_available": false,
+    "definition": "???"
+  },
+  "vasoconstriction": {
+    "is_audio_file_available": false,
+    "definition": "???"
+  },
+  "aneurysm": {
+    "is_audio_file_available": false,
+    "definition": "???"
+  },
+  "vascular": {
+    "is_audio_file_available": false,
+    "definition": "???"
+  },
+  "vasoconstrictor": {
+    "is_audio_file_available": false,
+    "definition": "???"
+  },
+  "artery": {
+    "is_audio_file_available": false,
+    "definition": "???"
+  },
+  "cerebrospinal fluid": {
+    "is_audio_file_available": false,
+    "definition": "???"
+  },
+  "cerebrum": {
+    "is_audio_file_available": false,
+    "definition": "???"
+  },
+  "verruca": {
+    "is_audio_file_available": false,
+    "definition": "???"
+  },
+  "ves": {
+    "is_audio_file_available": false,
+    "definition": "???"
+  },
+  "yersinia": {
+    "is_audio_file_available": false,
+    "definition": "???"
+  },
+  "zoonotic": {
+    "is_audio_file_available": false,
+    "definition": "???"
+  },
+  "zygote": {
+    "is_audio_file_available": false,
+    "definition": "???"
+  },
+  "achalasia": {
+    "is_audio_file_available": false,
+    "definition": "???"
+  },
+  "acalculia": {
+    "is_audio_file_available": false,
+    "definition": "???"
+  },
+  "actinomycosis": {
+    "is_audio_file_available": false,
+    "definition": "???"
+  },
+  "acupressure": {
+    "is_audio_file_available": false,
+    "definition": "???"
+  },
+  "adenoma": {
+    "is_audio_file_available": false,
+    "definition": "???"
+  },
+  "adhesion": {
+    "is_audio_file_available": false,
+    "definition": "???"
+  },
+  "aerobic": {
+    "is_audio_file_available": false,
+    "definition": "???"
+  },
+  "afebrile": {
+    "is_audio_file_available": false,
+    "definition": "???"
+  },
+  "alveolar": {
+    "is_audio_file_available": false,
+    "definition": "???"
+  },
+  "amyloidosis": {
+    "is_audio_file_available": false,
+    "definition": "???"
+  },
+  "analgesia": {
+    "is_audio_file_available": false,
+    "definition": "???"
+  },
+  "anaplasia": {
+    "is_audio_file_available": false,
+    "definition": "???"
+  },
+  "anasarca": {
+    "is_audio_file_available": false,
+    "definition": "???"
+  },
+  "anemia": {
+    "is_audio_file_available": false,
+    "definition": "???"
+  },
+  "anesthesia": {
+    "is_audio_file_available": false,
+    "definition": "???"
+  },
+  "angina": {
+    "is_audio_file_available": false,
+    "definition": "???"
+  },
+  "ankylosis": {
+    "is_audio_file_available": false,
+    "definition": "???"
+  },
+  "anorexia": {
+    "is_audio_file_available": false,
+    "definition": "???"
+  },
+  "anterograde": {
+    "is_audio_file_available": false,
+    "definition": "???"
+  },
+  "anthrax": {
+    "is_audio_file_available": false,
+    "definition": "???"
+  },
+  "antibiotic": {
+    "is_audio_file_available": false,
+    "definition": "???"
+  },
+  "anticoagulant": {
+    "is_audio_file_available": false,
+    "definition": "???"
+  },
+  "antigen": {
+    "is_audio_file_available": false,
+    "definition": "???"
+  },
+  "antipyretic": {
+    "is_audio_file_available": false,
+    "definition": "???"
+  },
+  "aphasia": {
+    "is_audio_file_available": false,
+    "definition": "???"
+  },
+  "aplasia": {
+    "is_audio_file_available": false,
+    "definition": "???"
+  },
+  "apnea": {
+    "is_audio_file_available": false,
+    "definition": "???"
+  },
+  "arthralgia": {
+    "is_audio_file_available": false,
+    "definition": "???"
+  },
+  "ascites": {
+    "is_audio_file_available": false,
+    "definition": "???"
+  },
+  "asphyxia": {
+    "is_audio_file_available": false,
+    "definition": "???"
+  },
+  "ataxia": {
+    "is_audio_file_available": false,
+    "definition": "???"
+  },
+  "atrophy": {
+    "is_audio_file_available": false,
+    "definition": "???"
+  },
+  "autoimmune": {
+    "is_audio_file_available": false,
+    "definition": "???"
+  },
+  "axilla": {
+    "is_audio_file_available": false,
+    "definition": "???"
+  },
+  "axon": {
+    "is_audio_file_available": false,
+    "definition": "???"
+  },
+  "bacteremia": {
+    "is_audio_file_available": false,
+    "definition": "???"
+  },
+  "barotrauma": {
+    "is_audio_file_available": false,
+    "definition": "???"
+  },
+  "basophilia": {
+    "is_audio_file_available": false,
+    "definition": "???"
+  },
+  "benign": {
+    "is_audio_file_available": false,
+    "definition": "???"
+  },
+  "bifurcation": {
+    "is_audio_file_available": false,
+    "definition": "???"
+  },
+  "bilateral": {
+    "is_audio_file_available": false,
+    "definition": "???"
+  },
+  "biopsy": {
+    "is_audio_file_available": false,
+    "definition": "???"
+  },
+  "blepharitis": {
+    "is_audio_file_available": false,
+    "definition": "???"
+  },
+  "bradypnea": {
+    "is_audio_file_available": false,
+    "definition": "???"
+  },
+  "bronchitis": {
+    "is_audio_file_available": false,
+    "definition": "???"
+  },
+  "bursitis": {
+    "is_audio_file_available": false,
+    "definition": "???"
+  },
+  "calcification": {
+    "is_audio_file_available": false,
+    "definition": "???"
+  },
+  "callus": {
+    "is_audio_file_available": false,
+    "definition": "???"
+  },
+  "carcinogen": {
+    "is_audio_file_available": false,
+    "definition": "???"
+  },
+  "cardiac": {
+    "is_audio_file_available": false,
+    "definition": "???"
+  },
+  "cataract": {
+    "is_audio_file_available": false,
+    "definition": "???"
+  },
+  "cephalalgia": {
+    "is_audio_file_available": false,
+    "definition": "???"
+  },
+  "cerebral": {
+    "is_audio_file_available": false,
+    "definition": "???"
+  },
+  "cervix": {
+    "is_audio_file_available": false,
+    "definition": "???"
+  },
+  "chemotaxis": {
+    "is_audio_file_available": false,
+    "definition": "???"
+  },
+  "cholecystis": {
+    "is_audio_file_available": false,
+    "definition": "???"
+  },
+  "chondroma": {
+    "is_audio_file_available": false,
+    "definition": "???"
+  },
+  "circadian": {
+    "is_audio_file_available": false,
+    "definition": "???"
+  },
+  "cirrhosis": {
+    "is_audio_file_available": false,
+    "definition": "???"
+  },
+  "clavicle": {
+    "is_audio_file_available": false,
+    "definition": "???"
+  },
+  "coagulation": {
+    "is_audio_file_available": false,
+    "definition": "???"
+  },
+  "cochlea": {
+    "is_audio_file_available": false,
+    "definition": "???"
+  },
+  "colitis": {
+    "is_audio_file_available": false,
+    "definition": "???"
+  },
+  "collagen": {
+    "is_audio_file_available": false,
+    "definition": "???"
+  },
+  "coma": {
+    "is_audio_file_available": false,
+    "definition": "???"
+  },
+  "congenital": {
+    "is_audio_file_available": false,
+    "definition": "???"
+  },
+  "constrict": {
+    "is_audio_file_available": false,
+    "definition": "???"
+  },
+  "contusion": {
+    "is_audio_file_available": false,
+    "definition": "???"
+  },
+  "cornea": {
+    "is_audio_file_available": false,
+    "definition": "???"
+  },
+  "coronary": {
+    "is_audio_file_available": false,
+    "definition": "???"
+  },
+  "cyanosis": {
+    "is_audio_file_available": false,
+    "definition": "???"
+  },
+  "cyst": {
+    "is_audio_file_available": false,
+    "definition": "???"
+  },
+  "cytology": {
+    "is_audio_file_available": false,
+    "definition": "???"
+  },
+  "defibrillator": {
+    "is_audio_file_available": false,
+    "definition": "???"
+  },
+  "dementia": {
+    "is_audio_file_available": false,
+    "definition": "???"
+  },
+  "dermabrasion": {
+    "is_audio_file_available": false,
+    "definition": "???"
+  },
+  "diaphragm": {
+    "is_audio_file_available": false,
+    "definition": "???"
+  },
+  "diaphoresis": {
+    "is_audio_file_available": false,
+    "definition": "???"
+  },
+  "diuretic": {
+    "is_audio_file_available": false,
+    "definition": "???"
+  },
+  "dysphagia": {
+    "is_audio_file_available": false,
+    "definition": "???"
+  },
+  "dysplasia": {
+    "is_audio_file_available": false,
+    "definition": "???"
+  },
+  "ecchymosis": {
+    "is_audio_file_available": false,
+    "definition": "???"
+  },
+  "ectopic": {
+    "is_audio_file_available": false,
+    "definition": "???"
+  },
+  "edentulous": {
+    "is_audio_file_available": false,
+    "definition": "???"
+  },
+  "effusion": {
+    "is_audio_file_available": false,
+    "definition": "???"
+  },
+  "electrolyte": {
+    "is_audio_file_available": false,
+    "definition": "???"
+  },
+  "embolus": {
+    "is_audio_file_available": false,
+    "definition": "???"
+  },
+  "encephalopathy": {
+    "is_audio_file_available": false,
+    "definition": "???"
+  },
+  "endometriosis": {
+    "is_audio_file_available": false,
+    "definition": "???"
+  },
+  "enteral": {
+    "is_audio_file_available": false,
+    "definition": "???"
+  },
+  "enzyme": {
+    "is_audio_file_available": false,
+    "definition": "???"
+  },
+  "epidermis": {
+    "is_audio_file_available": false,
+    "definition": "???"
+  },
+  "epinephrine": {
+    "is_audio_file_available": false,
+    "definition": "???"
+  },
+  "erythema": {
+    "is_audio_file_available": false,
+    "definition": "???"
+  },
+  "esophagus": {
+    "is_audio_file_available": false,
+    "definition": "???"
+  },
+  "exacerbation": {
+    "is_audio_file_available": false,
+    "definition": "???"
+  },
+  "fissure": {
+    "is_audio_file_available": false,
+    "definition": "???"
+  },
+  "flatus": {
+    "is_audio_file_available": false,
+    "definition": "???"
+  },
+  "fungus": {
+    "is_audio_file_available": false,
+    "definition": "???"
+  },
+  "ganglion": {
+    "is_audio_file_available": false,
+    "definition": "???"
+  },
+  "gastralgia": {
+    "is_audio_file_available": false,
+    "definition": "???"
+  },
+  "gastritis": {
+    "is_audio_file_available": false,
+    "definition": "???"
+  },
+  "autosome": {
+    "is_audio_file_available": false,
+    "definition": "???"
+  },
+  "embolism": {
+    "is_audio_file_available": false,
+    "definition": "???"
+  },
+  "endoscopy": {
+    "is_audio_file_available": false,
+    "definition": "???"
+  },
+  "encephalitis": {
+    "is_audio_file_available": false,
+    "definition": "???"
+  },
+  "endocrine": {
+    "is_audio_file_available": false,
+    "definition": "???"
+  },
+  "epigastric": {
+    "is_audio_file_available": false,
+    "definition": "???"
+  },
+  "epileptic": {
+    "is_audio_file_available": false,
+    "definition": "???"
+  },
+  "calcitonin": {
+    "is_audio_file_available": false,
+    "definition": "???"
+  },
+  "pulmonary": {
+    "is_audio_file_available": false,
+    "definition": "???"
+  },
+  "exudate": {
+    "is_audio_file_available": false,
+    "definition": "???"
+  },
+  "exudative": {
+    "is_audio_file_available": false,
+    "definition": "???"
+  },
+  "febrile": {
+    "is_audio_file_available": false,
+    "definition": "???"
+  },
+  "femoral": {
+    "is_audio_file_available": false,
+    "definition": "???"
+  },
+  "fistula": {
+    "is_audio_file_available": false,
+    "definition": "???"
+  },
+  "flaccid": {
+    "is_audio_file_available": false,
+    "definition": "???"
+  },
+  "flatulence": {
+    "is_audio_file_available": false,
+    "definition": "???"
+  },
+  "gallbladder": {
+    "is_audio_file_available": false,
+    "definition": "???"
+  },
+  "gangrene": {
+    "is_audio_file_available": false,
+    "definition": "???"
+  },
+  "gastroscopy": {
+    "is_audio_file_available": false,
+    "definition": "???"
+  },
+  "gastric": {
+    "is_audio_file_available": false,
+    "definition": "???"
+  },
+  "gastroenteritis": {
+    "is_audio_file_available": false,
+    "definition": "???"
+  },
+  "gene therapy": {
+    "is_audio_file_available": false,
+    "definition": "???"
+  },
+  "genetic": {
+    "is_audio_file_available": false,
+    "definition": "???"
+  },
+  "glaucoma": {
+    "is_audio_file_available": false,
+    "definition": "???"
+  },
+  "gouty": {
+    "is_audio_file_available": false,
+    "definition": "???"
+  },
+  "hemorrhagic": {
+    "is_audio_file_available": false,
+    "definition": "???"
+  },
+  "hepatic": {
+    "is_audio_file_available": false,
+    "definition": "???"
+  },
+  "hepatomegaly": {
+    "is_audio_file_available": false,
+    "definition": "???"
+  },
+  "hirsutism": {
+    "is_audio_file_available": false,
+    "definition": "???"
+  },
+  "hydrotherapy": {
+    "is_audio_file_available": false,
+    "definition": "???"
+  },
+  "hyperplasia": {
+    "is_audio_file_available": false,
+    "definition": "???"
+  },
+  "hypertrophy": {
+    "is_audio_file_available": false,
+    "definition": "???"
+  },
+  "hypodermic": {
+    "is_audio_file_available": false,
+    "definition": "???"
+  },
+  "hypotension": {
+    "is_audio_file_available": false,
+    "definition": "???"
+  },
+  "hypothermia": {
+    "is_audio_file_available": false,
+    "definition": "???"
+  },
+  "hypoxemia": {
+    "is_audio_file_available": false,
+    "definition": "???"
+  },
+  "hypoxia": {
+    "is_audio_file_available": false,
+    "definition": "???"
+  },
+  "ileitis": {
+    "is_audio_file_available": false,
+    "definition": "???"
+  },
+  "ileostomy": {
+    "is_audio_file_available": false,
+    "definition": "???"
+  },
+  "ileum": {
+    "is_audio_file_available": false,
+    "definition": "???"
+  },
+  "iliac": {
+    "is_audio_file_available": false,
+    "definition": "???"
+  },
+  "immune": {
+    "is_audio_file_available": false,
+    "definition": "???"
+  },
+  "immunotherapy": {
+    "is_audio_file_available": false,
+    "definition": "???"
+  },
+  "incubation": {
+    "is_audio_file_available": false,
+    "definition": "???"
+  },
+  "infection control": {
+    "is_audio_file_available": false,
+    "definition": "???"
+  },
+  "infectious": {
+    "is_audio_file_available": false,
+    "definition": "???"
+  },
+  "infiltrate": {
+    "is_audio_file_available": false,
+    "definition": "???"
+  },
+  "infiltration": {
+    "is_audio_file_available": false,
+    "definition": "???"
+  },
+  "inguinal": {
+    "is_audio_file_available": false,
+    "definition": "???"
+  },
+  "insulin": {
+    "is_audio_file_available": false,
+    "definition": "???"
+  },
+  "integument": {
+    "is_audio_file_available": false,
+    "definition": "???"
+  },
+  "intercostal": {
+    "is_audio_file_available": false,
+    "definition": "???"
+  },
+  "intramuscular": {
+    "is_audio_file_available": false,
+    "definition": "???"
+  },
+  "invasive": {
+    "is_audio_file_available": false,
+    "definition": "???"
+  },
+  "ischemic": {
+    "is_audio_file_available": false,
+    "definition": "???"
+  },
+  "isolation": {
+    "is_audio_file_available": false,
+    "definition": "???"
+  },
+  "isthmus": {
+    "is_audio_file_available": false,
+    "definition": "???"
+  },
+  "jugular": {
+    "is_audio_file_available": false,
+    "definition": "???"
+  },
+  "juvenile": {
+    "is_audio_file_available": false,
+    "definition": "???"
+  },
+  "keratitis": {
+    "is_audio_file_available": false,
+    "definition": "???"
+  },
+  "ketoacidosis": {
+    "is_audio_file_available": false,
+    "definition": "???"
+  },
+  "lacrimal": {
+    "is_audio_file_available": false,
+    "definition": "???"
+  },
+  "lactation": {
+    "is_audio_file_available": false,
+    "definition": "???"
+  },
+  "lamina": {
+    "is_audio_file_available": false,
+    "definition": "???"
+  },
+  "laparoscopy": {
+    "is_audio_file_available": false,
+    "definition": "???"
+  },
+  "lesion": {
+    "is_audio_file_available": false,
+    "definition": "???"
+  },
+  "leukocyte": {
+    "is_audio_file_available": false,
+    "definition": "???"
+  },
+  "leukopenia": {
+    "is_audio_file_available": false,
+    "definition": "???"
+  },
+  "ligation": {
+    "is_audio_file_available": false,
+    "definition": "???"
+  },
+  "lithothomy": {
+    "is_audio_file_available": false,
+    "definition": "???"
+  },
+  "lumbrosacral": {
+    "is_audio_file_available": false,
+    "definition": "???"
+  },
+  "lymphadenitis": {
+    "is_audio_file_available": false,
+    "definition": "???"
+  },
+  "lymphangiography": {
+    "is_audio_file_available": false,
+    "definition": "???"
+  },
+  "lymphatic": {
+    "is_audio_file_available": false,
+    "definition": "???"
+  },
+  "lymphedema": {
+    "is_audio_file_available": false,
+    "definition": "???"
+  },
+  "macula": {
+    "is_audio_file_available": false,
+    "definition": "???"
+  },
+  "malabsorption": {
+    "is_audio_file_available": false,
+    "definition": "???"
+  },
+  "malignant": {
+    "is_audio_file_available": false,
+    "definition": "???"
+  },
+  "mandible": {
+    "is_audio_file_available": false,
+    "definition": "???"
+  },
+  "mastectomy": {
+    "is_audio_file_available": false,
+    "definition": "???"
+  },
+  "meatus": {
+    "is_audio_file_available": false,
+    "definition": "???"
+  },
+  "melena": {
+    "is_audio_file_available": false,
+    "definition": "???"
+  },
+  "metastasis": {
+    "is_audio_file_available": false,
+    "definition": "???"
+  },
+  "metatarsal": {
+    "is_audio_file_available": false,
+    "definition": "???"
+  },
+  "micturition": {
+    "is_audio_file_available": false,
+    "definition": "???"
+  },
+  "microbiology": {
+    "is_audio_file_available": false,
+    "definition": "???"
+  },
+  "migraine": {
+    "is_audio_file_available": false,
+    "definition": "???"
+  },
+  "motor neuron": {
+    "is_audio_file_available": false,
+    "definition": "???"
+  },
+  "mucous": {
+    "is_audio_file_available": false,
+    "definition": "???"
+  },
+  "myalgia": {
+    "is_audio_file_available": false,
+    "definition": "???"
+  },
+  "myelitis": {
+    "is_audio_file_available": false,
+    "definition": "???"
+  },
+  "myocarditis": {
+    "is_audio_file_available": false,
+    "definition": "???"
+  },
+  "myopathy": {
+    "is_audio_file_available": false,
+    "definition": "???"
+  },
+  "necrotic": {
+    "is_audio_file_available": false,
+    "definition": "???"
+  },
+  "neonatal": {
+    "is_audio_file_available": false,
+    "definition": "???"
+  },
+  "nephrectomy": {
+    "is_audio_file_available": false,
+    "definition": "???"
+  },
+  "nephritis": {
+    "is_audio_file_available": false,
+    "definition": "???"
+  },
+  "neural": {
+    "is_audio_file_available": false,
+    "definition": "???"
+  },
+  "neuritis": {
+    "is_audio_file_available": false,
+    "definition": "???"
+  },
+  "neurofibroma": {
+    "is_audio_file_available": false,
+    "definition": "???"
+  },
+  "neuropathy": {
+    "is_audio_file_available": false,
+    "definition": "???"
+  },
+  "neutropenia": {
+    "is_audio_file_available": false,
+    "definition": "???"
+  },
+  "lymphoma": {
+    "is_audio_file_available": false,
+    "definition": "???"
+  },
+  "nystagmus": {
+    "is_audio_file_available": false,
+    "definition": "???"
+  },
+  "oculomotor": {
+    "is_audio_file_available": false,
+    "definition": "???"
+  },
+  "oliguria": {
+    "is_audio_file_available": false,
+    "definition": "???"
+  },
+  "ophthalmoscope": {
+    "is_audio_file_available": false,
+    "definition": "???"
+  },
+  "ophthalmoloscopy": {
+    "is_audio_file_available": false,
+    "definition": "???"
+  },
+  "oral": {
+    "is_audio_file_available": false,
+    "definition": "???"
+  },
+  "orthopnea": {
+    "is_audio_file_available": false,
+    "definition": "???"
+  },
+  "osmosis": {
+    "is_audio_file_available": false,
+    "definition": "???"
+  },
+  "osteitis": {
+    "is_audio_file_available": false,
+    "definition": "???"
+  },
+  "osteogenesis": {
+    "is_audio_file_available": false,
+    "definition": "???"
+  },
+  "osteomyelitis": {
+    "is_audio_file_available": false,
+    "definition": "???"
+  },
+  "osteotomy": {
+    "is_audio_file_available": false,
+    "definition": "???"
+  },
+  "otalgia": {
+    "is_audio_file_available": false,
+    "definition": "???"
+  },
+  "otic": {
+    "is_audio_file_available": false,
+    "definition": "???"
+  },
+  "otitis": {
+    "is_audio_file_available": false,
+    "definition": "???"
+  },
+  "ovarian": {
+    "is_audio_file_available": false,
+    "definition": "???"
+  },
+  "ovulation": {
+    "is_audio_file_available": false,
+    "definition": "???"
+  },
+  "oxygenation": {
+    "is_audio_file_available": false,
+    "definition": "???"
+  },
+  "palatoplasty": {
+    "is_audio_file_available": false,
+    "definition": "???"
+  },
+  "epididymis": {
+    "is_audio_file_available": false,
+    "definition": "???"
+  },
+  "palpate": {
+    "is_audio_file_available": false,
+    "definition": "???"
+  },
+  "pancreatitis": {
+    "is_audio_file_available": false,
+    "definition": "???"
+  },
+  "paracentesis": {
+    "is_audio_file_available": false,
+    "definition": "???"
+  },
+  "paraplegia": {
+    "is_audio_file_available": false,
+    "definition": "???"
+  },
+  "pareteral": {
+    "is_audio_file_available": false,
+    "definition": "???"
+  },
+  "paresthesia": {
+    "is_audio_file_available": false,
+    "definition": "???"
+  },
+  "pathogen": {
+    "is_audio_file_available": false,
+    "definition": "???"
+  },
+  "pelvic": {
+    "is_audio_file_available": false,
+    "definition": "???"
+  },
+  "perfusion": {
+    "is_audio_file_available": false,
+    "definition": "???"
+  },
+  "pericarditis": {
+    "is_audio_file_available": false,
+    "definition": "???"
+  },
+  "perineum": {
+    "is_audio_file_available": false,
+    "definition": "???"
+  },
+  "periosteum": {
+    "is_audio_file_available": false,
+    "definition": "???"
+  },
+  "oblique": {
+    "is_audio_file_available": false,
+    "definition": "???"
+  },
+  "pertussis": {
+    "is_audio_file_available": false,
+    "definition": "???"
+  },
+  "petechiae": {
+    "is_audio_file_available": false,
+    "definition": "???"
+  },
+  "phlebitis": {
+    "is_audio_file_available": false,
+    "definition": "???"
+  },
+  "phrenic": {
+    "is_audio_file_available": false,
+    "definition": "???"
+  },
+  "pneumococcal": {
+    "is_audio_file_available": false,
+    "definition": "???"
+  },
+  "pneumonectomy": {
+    "is_audio_file_available": false,
+    "definition": "???"
+  },
+  "podiatry": {
+    "is_audio_file_available": false,
+    "definition": "???"
+  },
+  "polydipsia": {
+    "is_audio_file_available": false,
+    "definition": "???"
+  },
+  "polyuria": {
+    "is_audio_file_available": false,
+    "definition": "???"
+  },
+  "polydactyly": {
+    "is_audio_file_available": false,
+    "definition": "???"
+  },
+  "polyp": {
+    "is_audio_file_available": false,
+    "definition": "???"
+  },
+  "precordial": {
+    "is_audio_file_available": false,
+    "definition": "???"
+  },
+  "premature": {
+    "is_audio_file_available": false,
+    "definition": "???"
+  },
+  "prophylaxis": {
+    "is_audio_file_available": false,
+    "definition": "???"
+  },
+  "prostatectomy": {
+    "is_audio_file_available": false,
+    "definition": "???"
+  },
+  "prosthesis": {
+    "is_audio_file_available": false,
+    "definition": "???"
+  },
+  "proximal": {
+    "is_audio_file_available": false,
+    "definition": "???"
+  },
+  "pruritus": {
+    "is_audio_file_available": false,
+    "definition": "???"
+  },
+  "pterygium": {
+    "is_audio_file_available": false,
+    "definition": "???"
+  },
+  "puerperium": {
+    "is_audio_file_available": false,
+    "definition": "???"
+  },
+  "pulpitis": {
+    "is_audio_file_available": false,
+    "definition": "???"
+  },
+  "purpura": {
+    "is_audio_file_available": false,
+    "definition": "???"
+  },
+  "pyelitis": {
+    "is_audio_file_available": false,
+    "definition": "???"
+  },
+  "pyelonephritis": {
+    "is_audio_file_available": false,
+    "definition": "???"
+  },
+  "quadriplegia": {
+    "is_audio_file_available": false,
+    "definition": "???"
+  },
+  "renogram": {
+    "is_audio_file_available": false,
+    "definition": "???"
+  },
+  "respiration": {
+    "is_audio_file_available": false,
+    "definition": "???"
+  },
+  "retinopathy": {
+    "is_audio_file_available": false,
+    "definition": "???"
+  },
+  "rheumatism": {
+    "is_audio_file_available": false,
+    "definition": "???"
+  },
+  "rhinoplasty": {
+    "is_audio_file_available": false,
+    "definition": "???"
+  },
+  "sarcoidosis": {
+    "is_audio_file_available": false,
+    "definition": "???"
+  },
+  "scoliosis": {
+    "is_audio_file_available": false,
+    "definition": "???"
+  },
+  "sepsis": {
+    "is_audio_file_available": false,
+    "definition": "???"
+  },
+  "septoplasty": {
+    "is_audio_file_available": false,
+    "definition": "???"
+  },
+  "serology": {
+    "is_audio_file_available": false,
+    "definition": "???"
+  },
+  "sigmoidoscope": {
+    "is_audio_file_available": false,
+    "definition": "???"
+  },
+  "sinusitis": {
+    "is_audio_file_available": false,
+    "definition": "???"
+  },
+  "skin graft": {
+    "is_audio_file_available": false,
+    "definition": "???"
+  },
+  "spasticity": {
+    "is_audio_file_available": false,
+    "definition": "???"
+  },
+  "spleen": {
+    "is_audio_file_available": false,
+    "definition": "???"
+  },
+  "splenectomy": {
+    "is_audio_file_available": false,
+    "definition": "???"
+  },
+  "sputum": {
+    "is_audio_file_available": false,
+    "definition": "???"
+  },
+  "stenosis": {
+    "is_audio_file_available": false,
+    "definition": "???"
+  },
+  "stoma": {
+    "is_audio_file_available": false,
+    "definition": "???"
+  },
+  "stomatitis": {
+    "is_audio_file_available": false,
+    "definition": "???"
+  },
+  "stridor": {
+    "is_audio_file_available": false,
+    "definition": "???"
+  },
+  "suppository": {
+    "is_audio_file_available": false,
+    "definition": "???"
+  },
+  "supraventricular": {
+    "is_audio_file_available": false,
+    "definition": "???"
+  },
+  "suture": {
+    "is_audio_file_available": false,
+    "definition": "???"
+  },
+  "syncope": {
+    "is_audio_file_available": false,
+    "definition": "???"
+  },
+  "syndrome": {
+    "is_audio_file_available": false,
+    "definition": "???"
+  },
+  "syphilis": {
+    "is_audio_file_available": false,
+    "definition": "???"
+  },
+  "tachypnea": {
+    "is_audio_file_available": false,
+    "definition": "???"
+  },
+  "tachycardia": {
+    "is_audio_file_available": false,
+    "definition": "???"
+  },
+  "tarsal": {
+    "is_audio_file_available": false,
+    "definition": "???"
+  },
+  "temporomandibular": {
+    "is_audio_file_available": false,
+    "definition": "???"
+  },
+  "tendonitis": {
+    "is_audio_file_available": false,
+    "definition": "???"
+  },
+  "tetanus": {
+    "is_audio_file_available": false,
+    "definition": "???"
+  },
+  "thrombocyte": {
+    "is_audio_file_available": false,
+    "definition": "???"
+  },
+  "thrombosis": {
+    "is_audio_file_available": false,
+    "definition": "???"
+  },
+  "thrombus": {
+    "is_audio_file_available": false,
+    "definition": "???"
+  },
+  "thyroiditis": {
+    "is_audio_file_available": false,
+    "definition": "???"
+  },
+  "tinnitus": {
+    "is_audio_file_available": false,
+    "definition": "???"
+  },
+  "tonsillitis": {
+    "is_audio_file_available": false,
+    "definition": "???"
+  },
+  "toxicity": {
+    "is_audio_file_available": false,
+    "definition": "???"
+  },
+  "tracheostomy": {
+    "is_audio_file_available": false,
+    "definition": "???"
+  },
+  "tricuspid": {
+    "is_audio_file_available": false,
+    "definition": "???"
+  },
+  "tuberculosis": {
+    "is_audio_file_available": false,
+    "definition": "???"
+  },
+  "ultrasound": {
+    "is_audio_file_available": false,
+    "definition": "???"
+  },
+  "ureterostomy": {
+    "is_audio_file_available": false,
+    "definition": "???"
+  },
+  "uric acid": {
+    "is_audio_file_available": false,
+    "definition": "???"
+  },
+  "uveitis": {
+    "is_audio_file_available": false,
+    "definition": "???"
+  },
+  "varicosity": {
+    "is_audio_file_available": false,
+    "definition": "???"
+  },
+  "vasculitis": {
+    "is_audio_file_available": false,
+    "definition": "???"
+  },
+  "vasodilation": {
+    "is_audio_file_available": false,
+    "definition": "???"
+  },
+  "vein": {
+    "is_audio_file_available": false,
+    "definition": "???"
+  },
+  "ventilation": {
+    "is_audio_file_available": false,
+    "definition": "???"
+  },
+  "ventricular": {
+    "is_audio_file_available": false,
+    "definition": "???"
+  },
+  "vesicle": {
+    "is_audio_file_available": false,
+    "definition": "???"
+  },
+  "vesicoureteral": {
+    "is_audio_file_available": false,
+    "definition": "???"
+  },
+  "virulence": {
+    "is_audio_file_available": false,
+    "definition": "???"
+  },
+  "viscera": {
+    "is_audio_file_available": false,
+    "definition": "???"
+  },
+  "vital signs": {
+    "is_audio_file_available": false,
+    "definition": "???"
+  },
+  "vitiligo": {
+    "is_audio_file_available": false,
+    "definition": "???"
+  },
+  "vomiting": {
+    "is_audio_file_available": false,
+    "definition": "???"
+  },
+  "xerostomia": {
+    "is_audio_file_available": false,
+    "definition": "???"
+  },
+  "xiphoid": {
+    "is_audio_file_available": false,
+    "definition": "???"
+  },
+  "typhoid": {
+    "is_audio_file_available": false,
+    "definition": "???"
+  },
+  "cerebellum": {
+    "is_audio_file_available": false,
+    "definition": "???"
+  },
+  "brain stem": {
+    "is_audio_file_available": false,
+    "definition": "???"
+  },
+  "cephalosporin": {
+    "is_audio_file_available": false,
+    "definition": "???"
+  },
+  "quadriceps": {
+    "is_audio_file_available": false,
+    "definition": "???"
+  },
+  "gastrocnemius": {
+    "is_audio_file_available": false,
+    "definition": "???"
+  },
+  "parathyroid": {
+    "is_audio_file_available": false,
+    "definition": "???"
+  },
+  "antihypertensive": {
+    "is_audio_file_available": false,
+    "definition": "???"
+  },
+  "antiviral": {
+    "is_audio_file_available": false,
+    "definition": "???"
+  },
+  "antifungal": {
+    "is_audio_file_available": false,
+    "definition": "???"
+  },
+  "anticonvulsant": {
+    "is_audio_file_available": false,
+    "definition": "???"
+  },
+  "antidepressant": {
+    "is_audio_file_available": false,
+    "definition": "???"
+  },
+  "anatomy": {
+    "is_audio_file_available": false,
+    "definition": "???"
+  },
+  "protease inhibitor": {
+    "is_audio_file_available": false,
+    "definition": "???"
+  },
+  "bronchioles": {
+    "is_audio_file_available": false,
+    "definition": "???"
+  },
+  "bronchi": {
+    "is_audio_file_available": false,
+    "definition": "???"
+  },
+  "alveoli": {
+    "is_audio_file_available": false,
+    "definition": "???"
+  },
+  "opioid": {
+    "is_audio_file_available": false,
+    "definition": "???"
+  },
+  "pleura": {
+    "is_audio_file_available": false,
+    "definition": "???"
+  },
+  "diabetes": {
+    "is_audio_file_available": false,
+    "definition": "???"
+  },
+  "nephrosis": {
+    "is_audio_file_available": false,
+    "definition": "???"
+  },
+  "allergen": {
+    "is_audio_file_available": false,
+    "definition": "???"
+  },
+  "duodenum": {
+    "is_audio_file_available": false,
+    "definition": "???"
+  },
+  "nebulizer": {
+    "is_audio_file_available": false,
+    "definition": "???"
+  },
+  "dialysis": {
+    "is_audio_file_available": false,
+    "definition": "???"
+  },
+  "catheter": {
+    "is_audio_file_available": false,
+    "definition": "???"
+  },
+  "splint": {
+    "is_audio_file_available": false,
+    "definition": "???"
+  },
+  "endoscope": {
+    "is_audio_file_available": false,
+    "definition": "???"
+  },
+  "rickets": {
+    "is_audio_file_available": false,
+    "definition": "???"
+  },
+  "osteomalacia": {
+    "is_audio_file_available": false,
+    "definition": "???"
+  },
+  "zoonosis": {
+    "is_audio_file_available": false,
+    "definition": "???"
+  },
+  "xeroderma": {
+    "is_audio_file_available": false,
+    "definition": "???"
+  },
+  "nephroptosis": {
+    "is_audio_file_available": false,
+    "definition": "???"
+  },
+  "iatrogenic": {
+    "is_audio_file_available": false,
+    "definition": "???"
+  },
+  "xanthochromia": {
+    "is_audio_file_available": false,
+    "definition": "???"
+  },
+  "hypopituitarism": {
+    "is_audio_file_available": false,
+    "definition": "???"
+  },
+  "hemianopsia": {
+    "is_audio_file_available": false,
+    "definition": "???"
+  },
+  "myiasis": {
+    "is_audio_file_available": false,
+    "definition": "???"
+  },
+  "xeroradiography": {
+    "is_audio_file_available": false,
+    "definition": "???"
+  },
+  "acanthosis": {
+    "is_audio_file_available": false,
+    "definition": "???"
+  },
+  "ophthalmoplegia": {
+    "is_audio_file_available": false,
+    "definition": "???"
+  },
+  "hyperpituitarism": {
+    "is_audio_file_available": false,
+    "definition": "???"
+  },
+  "xerosis": {
+    "is_audio_file_available": false,
+    "definition": "???"
+  },
+  "prognathism": {
+    "is_audio_file_available": false,
+    "definition": "???"
+  },
+  "chondromalacia": {
+    "is_audio_file_available": false,
+    "definition": "???"
+  },
+  "zygomatic": {
+    "is_audio_file_available": false,
+    "definition": "???"
+  },
+  "borburygmus": {
+    "is_audio_file_available": false,
+    "definition": "???"
+  },
+  "colpocleisis": {
+    "is_audio_file_available": false,
+    "definition": "???"
+  },
+  "dactylomegaly": {
+    "is_audio_file_available": false,
+    "definition": "???"
+  },
+  "ecthyma": {
+    "is_audio_file_available": false,
+    "definition": "???"
+  },
+  "fructosuria": {
+    "is_audio_file_available": false,
+    "definition": "???"
+  },
+  "galactorrhea": {
+    "is_audio_file_available": false,
+    "definition": "???"
+  },
+  "iliococcygeus": {
+    "is_audio_file_available": false,
+    "definition": "???"
+  },
+  "lipoatrophy": {
+    "is_audio_file_available": false,
+    "definition": "???"
+  },
+  "obelion": {
+    "is_audio_file_available": false,
+    "definition": "???"
+  },
+  "rhabdomyolysis": {
+    "is_audio_file_available": false,
+    "definition": "???"
+  },
+  "urethritis": {
+    "is_audio_file_available": false,
+    "definition": "???"
+  },
+  "xerochilia": {
+    "is_audio_file_available": false,
+    "definition": "???"
+  },
+  "yersiniosis": {
+    "is_audio_file_available": false,
+    "definition": "???"
+  },
+  "oxycephaly": {
+    "is_audio_file_available": false,
+    "definition": "???"
+  },
+  "cholecystitis": {
+    "is_audio_file_available": false,
+    "definition": "???"
+  },
+  "hyperhidrosis": {
+    "is_audio_file_available": false,
+    "definition": "???"
+  },
+  "metacarpophalangeal": {
+    "is_audio_file_available": false,
+    "definition": "???"
+  },
+  "rhabdomyosarcoma": {
+    "is_audio_file_available": false,
+    "definition": "???"
+  },
+  "zygomaticomaxillary": {
+    "is_audio_file_available": false,
+    "definition": "???"
+  },
+  "iridocyclitis": {
+    "is_audio_file_available": false,
+    "definition": "???"
+  },
+  "osteochondritis": {
+    "is_audio_file_available": false,
+    "definition": "???"
+  },
+  "meningocele": {
+    "is_audio_file_available": false,
+    "definition": "???"
+  },
+  "xerophthalmia": {
+    "is_audio_file_available": false,
+    "definition": "???"
+  },
+  "hypertelorism": {
+    "is_audio_file_available": false,
+    "definition": "???"
+  },
+  "amygdala": {
+    "is_audio_file_available": false,
+    "definition": "???"
+  },
+  "pharyngitis": {
+    "is_audio_file_available": false,
+    "definition": "???"
+  },
+  "enterohepatic": {
+    "is_audio_file_available": false,
+    "definition": "???"
+  },
+  "intussusception": {
+    "is_audio_file_available": false,
+    "definition": "???"
+  },
+  "scintigraphy": {
+    "is_audio_file_available": false,
+    "definition": "???"
+  },
+  "nephrostomy": {
+    "is_audio_file_available": false,
+    "definition": "???"
+  },
+  "opisthotonus": {
+    "is_audio_file_available": false,
+    "definition": "???"
+  },
+  "laryngospasm": {
+    "is_audio_file_available": false,
+    "definition": "???"
+  },
+  "dysdiadochokinesia": {
+    "is_audio_file_available": false,
+    "definition": "???"
+  },
+  "hyponatremia": {
+    "is_audio_file_available": false,
+    "definition": "???"
+  },
+  "hypernatremia": {
+    "is_audio_file_available": false,
+    "definition": "???"
+  },
+  "eosinophilia": {
+    "is_audio_file_available": false,
+    "definition": "???"
+  },
+  "olecranon": {
+    "is_audio_file_available": false,
+    "definition": "???"
+  },
+  "apocrine": {
+    "is_audio_file_available": false,
+    "definition": "???"
+  }
+}
